@@ -1,0 +1,34 @@
+{
+  "//": "jsx is \"react-jsx\" with jsxImportSource \"@emotion/react\" and must stay that way: ts-loader (transpileOnly, no configFile) reads THIS file when webpack builds the widget, and classic \"react\" makes jimu-core's patched React.createElement receive null props, which crashes every settings panel and runtime with \"Cannot convert undefined or null to object\" (WIDGETHANDOFF 12.3, 16 and 18 September 2026). Editor IDE1100 noise from the jsx-runtime lookup is accepted; never trade a build change for an editor convenience.",
+  "compilerOptions": {
+    "target": "ES2020",
+    "lib": [
+      "ESNext",
+      "DOM",
+      "DOM.Iterable"
+    ],
+    "module": "ESNext",
+    "moduleResolution": "Node",
+    "jsx": "react-jsx",
+    "jsxImportSource": "@emotion/react",
+    "types": [],
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "experimentalDecorators": true,
+    "resolveJsonModule": true,
+    "skipLibCheck": true,
+    "strict": false,
+    "noEmit": true
+  },
+  "include": [
+    "src/**/*.ts",
+    "src/**/*.tsx",
+    "src/**/*.d.ts",
+    "tests/**/*.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "dist",
+    ".vs"
+  ]
+}

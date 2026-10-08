@@ -1,0 +1,13 @@
+{
+  "direction": "horizontal",
+  "initialPosition": 50,
+  "keepOtherLayers": false,
+  "allowContextToggle": true,
+  "showHelp": true,
+  "startLabel": "",
+  "endLabel": "",
+  "defaultStartKeys": [],
+  "defaultEndKeys": [],
+  "excludedLayerKeys": [],
+  "telemetry": true
+}

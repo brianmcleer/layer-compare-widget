@@ -1,0 +1,19 @@
+node_modules/
+.vs/
+Claude outputs/
+*.zip
+*.user
+*.suo
+*.tsbuildinfo
+.DS_Store
+Thumbs.db
+Desktop.ini
+coverage/
+dist/
+tests/
+tools/
+src/exb-editor-shims*.d.ts
+src/*-shims.d.ts
+src/editor-shims.d.ts
+src/runtime/esri.d.ts
+

@@ -1,0 +1,13 @@
+node_modules/
+.vs/
+Claude outputs/
+*.zip
+*.user
+*.suo
+*.tsbuildinfo
+.DS_Store
+Thumbs.db
+Desktop.ini
+coverage/
+dist/
+

@@ -1,0 +1,10 @@
+{
+  "name": "layer-compare",
+  "version": "1.0.2",
+  "description": "ArcGIS Experience Builder widget for comparing independent map layer selections with a draggable map divider and an accessible slider.",
+  "author": "Brian McLeer",
+  "license": "Apache-2.0",
+  "keywords": ["exb-widget", "experience-builder", "exb", "arcgis", "layer-compare", "swipe", "layers", "comparison"],
+  "dependencies": {},
+  "scripts": { "test": "node --test tests/*.test.cjs", "typecheck": "tsc -p ." }
+}

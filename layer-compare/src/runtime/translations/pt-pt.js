@@ -95,8 +95,8 @@ System.register([], function (e) {
         helpTips1: "Seu mapa de base, extensão do mapa e dados de camada permanecem os mesmos. A comparação utiliza cópias temporárias da camada.",
         helpTips2: "Suas seleções se aplicam apenas neste aplicativo aberto. Eles não são salvos no mapa web.",
         helpTips3: "Use as caixas de seleção na Camada Compare ao comparar. Para aplicar as alterações de filtro ou estilo feitas em outro lugar, pare e comece a comparação novamente.",
-        unknownError: "unknown error",
-        unserializableError: "unserializable error"
+        unknownError: "erro desconhecido",
+        unserializableError: "erro inserializável"
       })
     }
   }

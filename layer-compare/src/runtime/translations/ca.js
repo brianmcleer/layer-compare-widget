@@ -95,8 +95,8 @@ System.register([], function (e) {
         helpTips1: "El mapa base, l'abast del mapa i les dades de la capa romandran iguals. La comparació usa còpies de capa temporals.",
         helpTips2: "Les seleccions només s' apliquen en aquesta aplicació oberta. No són desats al mapa web.",
         helpTips3: "Usa les caixes de selecció de la capa Compara quan es compara. Per aplicar el filtre o els canvis d' estil fets a un altre lloc, aturar i tornar a començar la comparació.",
-        unknownError: "unknown error",
-        unserializableError: "unserializable error"
+        unknownError: "error desconegut",
+        unserializableError: "Error no llegible"
       })
     }
   }

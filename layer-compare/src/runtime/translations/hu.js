@@ -95,8 +95,8 @@ System.register([], function (e) {
         helpTips1: "A bázis, a térkép kiterjedése, és a réteg adatok ugyanazok maradnak. Az összehasonlítás ideiglenes rétegmásolatokat használ.",
         helpTips2: "Az Ön kiválasztása csak ebben a nyílt alkalmazásban érvényes. Ezek nem mentett a web térkép.",
         helpTips3: "A Layer összehasonlításakor használja a jelölőnégyzetet. Ha máshol végzett szűrőt vagy stílusváltoztatást szeretne alkalmazni, állítsa le és kezdje újra az összehasonlítást.",
-        unknownError: "unknown error",
-        unserializableError: "unserializable error"
+        unknownError: "ismeretlen hiba",
+        unserializableError: "nem sorozható hiba"
       })
     }
   }

@@ -95,8 +95,8 @@ System.register([], function (e) {
         helpTips1: "您的底图、 地图范围、 和图层数据保持不变 。 比较使用临时层复制.",
         helpTips2: "您的选择仅适用于此开放的应用程序 。 它们没有保存在网络地图中 。",
         helpTips3: "在比较时使用图层中的复选框。 要应用别处的过滤器或样式修改,请停止并重新开始比较。",
-        unknownError: "unknown error",
-        unserializableError: "unserializable error"
+        unknownError: "未知错误",
+        unserializableError: "无序错误"
       })
     }
   }

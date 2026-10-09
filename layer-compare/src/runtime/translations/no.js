@@ -95,8 +95,8 @@ System.register([], function (e) {
         helpTips1: "Basekart, kart og lagdata forblir det samme. Sammenligningen bruker midlertidige lag kopier.",
         helpTips2: "Ditt valg gjelder kun i denne åpne appen. De lagres ikke på nettet.",
         helpTips3: "Bruk avkrysningsboksene i lag Sammenlign mens du sammenligner. For å bruke filter- eller stilendringer gjort andre steder, stopp og start sammenligningen igjen.",
-        unknownError: "unknown error",
-        unserializableError: "unserializable error"
+        unknownError: "ukjent feil",
+        unserializableError: "uiserbar feil"
       })
     }
   }

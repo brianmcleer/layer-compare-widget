@@ -95,8 +95,8 @@ System.register([], function (e) {
         helpTips1: "Teie baaskaart, kaardi ulatus ja kihtandmed jäävad samaks. Võrdluseks kasutatakse ajutisi kihikoopiaid.",
         helpTips2: "Teie valikud kehtivad ainult selles avatud rakenduses. Neid ei salvestata veebikaardile.",
         helpTips3: "Kasuta võrdlemisel märkekaste kihivõrdluses. Mujal tehtud filtri- või stiilimuudatuste rakendamiseks peatage ja alustage võrdlust uuesti.",
-        unknownError: "unknown error",
-        unserializableError: "unserializable error"
+        unknownError: "tundmatu viga",
+        unserializableError: "seeriaviisiline viga"
       })
     }
   }

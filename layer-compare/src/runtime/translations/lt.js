@@ -95,8 +95,8 @@ System.register([], function (e) {
         helpTips1: "Jūsų basemap, žemėlapio apimtis, ir sluoksnis duomenys likti tas pats. Palyginimui naudojamos laikinos sluoksnių kopijos.",
         helpTips2: "Jūsų pasirinkimai taikomi tik šioje atviroje programėlėje. Jie nėra išsaugomi žiniatinklio žemėlapyje.",
         helpTips3: "Naudokite kontrolinius langelius sluoksnyje Lyginti lyginant. Norėdami taikyti filtro ar stiliaus pakeitimus, padarytus kitur, sustabdyti ir pradėti palyginimą iš naujo.",
-        unknownError: "unknown error",
-        unserializableError: "unserializable error"
+        unknownError: "nežinoma klaida",
+        unserializableError: "nenustatoma klaida"
       })
     }
   }

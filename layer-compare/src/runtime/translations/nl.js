@@ -95,8 +95,8 @@ System.register([], function (e) {
         helpTips1: "Uw basiskaart, kaartomvang en laaggegevens blijven hetzelfde. De vergelijking maakt gebruik van tijdelijke laagkopieën.",
         helpTips2: "Uw selecties gelden alleen in deze open app. Ze worden niet opgeslagen op de webkaart.",
         helpTips3: "Gebruik de selectievakken in Laag Vergelijken tijdens het vergelijken. Om filter- of stijlwijzigingen elders toe te passen, stop en start de vergelijking opnieuw.",
-        unknownError: "unknown error",
-        unserializableError: "unserializable error"
+        unknownError: "onbekende fout",
+        unserializableError: "onuitwisbare fout"
       })
     }
   }

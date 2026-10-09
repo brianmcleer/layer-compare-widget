@@ -95,8 +95,8 @@ System.register([], function (e) {
         helpTips1: "Harta ta de bază, amploarea hărții și datele straturilor rămân aceleași. Comparaţia foloseşte copii temporare ale straturilor.",
         helpTips2: "Selecțiile dumneavoastră se aplică numai în această aplicație deschisă. Acestea nu sunt salvate pe harta web.",
         helpTips3: "Utilizați casetele de verificare în Layer Comparați în timp ce comparați. Pentru a aplica modificările de filtrare sau stil efectuate în altă parte, opriți și începeți din nou compararea.",
-        unknownError: "unknown error",
-        unserializableError: "unserializable error"
+        unknownError: "Eroare necunoscută",
+        unserializableError: "eroare inoperabilă"
       })
     }
   }

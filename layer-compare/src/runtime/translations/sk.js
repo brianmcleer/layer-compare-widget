@@ -95,8 +95,8 @@ System.register([], function (e) {
         helpTips1: "Váš basemap, rozsah mapy, a vrstva dát zostať rovnaký. Pri porovnaní sa používajú dočasné kópie vrstiev.",
         helpTips2: "Vaše výbery platia len v tejto otvorenej aplikácii. Nie sú uložené na webovú mapu.",
         helpTips3: "Použiť zaškrtávacie políčka vo vrstve Porovnať pri porovnávaní. Ak chcete použiť zmeny filtra alebo štýlu vykonané inde, zastaviť a spustiť porovnanie znova.",
-        unknownError: "unknown error",
-        unserializableError: "unserializable error"
+        unknownError: "neznáma chyba",
+        unserializableError: "neserializovateľná chyba"
       })
     }
   }

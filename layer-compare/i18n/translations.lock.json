@@ -103,16 +103,16 @@
       },
       "locales": {
         "ar": {
-          "file": "0fe4a4e9894e",
+          "file": "c9b75ad915d6",
           "counts": {
-            "esri": 15,
+            "esri": 17,
             "esri-check": 1,
             "community": 0,
             "manual": 0,
             "existing": 0,
             "machine": 76,
             "stale": 0,
-            "missing": 2
+            "missing": 0
           },
           "entries": {
             "_widgetLabel": {
@@ -498,16 +498,16 @@
           }
         },
         "bg": {
-          "file": "5d6301d01158",
+          "file": "6875dd7882e4",
           "counts": {
-            "esri": 15,
+            "esri": 17,
             "esri-check": 1,
             "community": 0,
             "manual": 0,
             "existing": 0,
             "machine": 76,
             "stale": 0,
-            "missing": 2
+            "missing": 0
           },
           "entries": {
             "_widgetLabel": {
@@ -907,16 +907,16 @@
           "entries": {}
         },
         "ca": {
-          "file": "659c4ada7b3b",
+          "file": "2cd892be0aca",
           "counts": {
-            "esri": 11,
+            "esri": 13,
             "esri-check": 5,
             "community": 0,
             "manual": 0,
             "existing": 0,
             "machine": 76,
             "stale": 0,
-            "missing": 2
+            "missing": 0
           },
           "entries": {
             "_widgetLabel": {
@@ -1302,16 +1302,16 @@
           }
         },
         "cs": {
-          "file": "33096f4ec14f",
+          "file": "9dbf82701fb2",
           "counts": {
-            "esri": 11,
+            "esri": 13,
             "esri-check": 5,
             "community": 0,
             "manual": 0,
             "existing": 0,
             "machine": 76,
             "stale": 0,
-            "missing": 2
+            "missing": 0
           },
           "entries": {
             "_widgetLabel": {
@@ -1697,16 +1697,16 @@
           }
         },
         "da": {
-          "file": "bdb68176b5a7",
+          "file": "e5b4238c353e",
           "counts": {
-            "esri": 14,
+            "esri": 16,
             "esri-check": 1,
             "community": 0,
             "manual": 0,
             "existing": 0,
             "machine": 77,
             "stale": 0,
-            "missing": 2
+            "missing": 0
           },
           "entries": {
             "_widgetLabel": {
@@ -2097,16 +2097,16 @@
           }
         },
         "de": {
-          "file": "3fa214a2e53c",
+          "file": "1da864ff6ee2",
           "counts": {
-            "esri": 14,
+            "esri": 16,
             "esri-check": 2,
             "community": 0,
             "manual": 0,
             "existing": 0,
             "machine": 76,
             "stale": 0,
-            "missing": 2
+            "missing": 0
           },
           "entries": {
             "_widgetLabel": {
@@ -2492,16 +2492,16 @@
           }
         },
         "el": {
-          "file": "0bcb5bccd066",
+          "file": "77e2ecb128c1",
           "counts": {
-            "esri": 14,
+            "esri": 16,
             "esri-check": 2,
             "community": 0,
             "manual": 0,
             "existing": 0,
             "machine": 76,
             "stale": 0,
-            "missing": 2
+            "missing": 0
           },
           "entries": {
             "_widgetLabel": {
@@ -2887,16 +2887,16 @@
           }
         },
         "es": {
-          "file": "095d32481294",
+          "file": "328b42deeeb7",
           "counts": {
-            "esri": 13,
+            "esri": 15,
             "esri-check": 3,
             "community": 0,
             "manual": 0,
             "existing": 0,
             "machine": 76,
             "stale": 0,
-            "missing": 2
+            "missing": 0
           },
           "entries": {
             "_widgetLabel": {
@@ -3282,16 +3282,16 @@
           }
         },
         "et": {
-          "file": "a31808bae0ac",
+          "file": "1d7495a73809",
           "counts": {
-            "esri": 14,
+            "esri": 16,
             "esri-check": 2,
             "community": 0,
             "manual": 0,
             "existing": 0,
             "machine": 76,
             "stale": 0,
-            "missing": 2
+            "missing": 0
           },
           "entries": {
             "_widgetLabel": {
@@ -3677,16 +3677,16 @@
           }
         },
         "fi": {
-          "file": "65d385616b12",
+          "file": "44421056ea71",
           "counts": {
-            "esri": 14,
+            "esri": 16,
             "esri-check": 2,
             "community": 0,
             "manual": 0,
             "existing": 0,
             "machine": 76,
             "stale": 0,
-            "missing": 2
+            "missing": 0
           },
           "entries": {
             "_widgetLabel": {
@@ -4072,16 +4072,16 @@
           }
         },
         "fr": {
-          "file": "0e1683c44896",
+          "file": "f89cc20b9192",
           "counts": {
-            "esri": 15,
+            "esri": 17,
             "esri-check": 1,
             "community": 0,
             "manual": 0,
             "existing": 0,
             "machine": 76,
             "stale": 0,
-            "missing": 2
+            "missing": 0
           },
           "entries": {
             "_widgetLabel": {
@@ -4467,16 +4467,16 @@
           }
         },
         "he": {
-          "file": "ba60f53fe567",
+          "file": "e4c26f1e70e7",
           "counts": {
-            "esri": 14,
+            "esri": 16,
             "esri-check": 2,
             "community": 0,
             "manual": 0,
             "existing": 0,
             "machine": 76,
             "stale": 0,
-            "missing": 2
+            "missing": 0
           },
           "entries": {
             "_widgetLabel": {
@@ -4876,16 +4876,16 @@
           "entries": {}
         },
         "hu": {
-          "file": "f3b2ae4b7506",
+          "file": "01dde251810e",
           "counts": {
-            "esri": 13,
+            "esri": 15,
             "esri-check": 3,
             "community": 0,
             "manual": 0,
             "existing": 0,
             "machine": 76,
             "stale": 0,
-            "missing": 2
+            "missing": 0
           },
           "entries": {
             "_widgetLabel": {
@@ -5271,16 +5271,16 @@
           }
         },
         "id": {
-          "file": "25b582b7ee2c",
+          "file": "1f2144bdba68",
           "counts": {
-            "esri": 14,
+            "esri": 16,
             "esri-check": 2,
             "community": 0,
             "manual": 0,
             "existing": 0,
             "machine": 76,
             "stale": 0,
-            "missing": 2
+            "missing": 0
           },
           "entries": {
             "_widgetLabel": {
@@ -5666,16 +5666,16 @@
           }
         },
         "it": {
-          "file": "c068df6c3b65",
+          "file": "d21e01c2f6f2",
           "counts": {
-            "esri": 13,
+            "esri": 15,
             "esri-check": 3,
             "community": 0,
             "manual": 0,
             "existing": 0,
             "machine": 76,
             "stale": 0,
-            "missing": 2
+            "missing": 0
           },
           "entries": {
             "_widgetLabel": {
@@ -6061,16 +6061,16 @@
           }
         },
         "ja": {
-          "file": "c766d38ae2f5",
+          "file": "955251dc353b",
           "counts": {
-            "esri": 14,
+            "esri": 16,
             "esri-check": 2,
             "community": 0,
             "manual": 0,
             "existing": 0,
             "machine": 76,
             "stale": 0,
-            "missing": 2
+            "missing": 0
           },
           "entries": {
             "_widgetLabel": {
@@ -6456,16 +6456,16 @@
           }
         },
         "ko": {
-          "file": "354dd627503c",
+          "file": "aed5972421e1",
           "counts": {
-            "esri": 15,
+            "esri": 17,
             "esri-check": 1,
             "community": 0,
             "manual": 0,
             "existing": 0,
             "machine": 76,
             "stale": 0,
-            "missing": 2
+            "missing": 0
           },
           "entries": {
             "_widgetLabel": {
@@ -6851,16 +6851,16 @@
           }
         },
         "lt": {
-          "file": "832bb04a7e76",
+          "file": "a6164deb48f7",
           "counts": {
-            "esri": 12,
+            "esri": 14,
             "esri-check": 4,
             "community": 0,
             "manual": 0,
             "existing": 0,
             "machine": 76,
             "stale": 0,
-            "missing": 2
+            "missing": 0
           },
           "entries": {
             "_widgetLabel": {
@@ -7246,16 +7246,16 @@
           }
         },
         "lv": {
-          "file": "46469e175ccb",
+          "file": "e2ee16149058",
           "counts": {
-            "esri": 13,
+            "esri": 15,
             "esri-check": 3,
             "community": 0,
             "manual": 0,
             "existing": 0,
             "machine": 76,
             "stale": 0,
-            "missing": 2
+            "missing": 0
           },
           "entries": {
             "_widgetLabel": {
@@ -7641,16 +7641,16 @@
           }
         },
         "no": {
-          "file": "212507b01d75",
+          "file": "2de08eee7545",
           "counts": {
-            "esri": 15,
+            "esri": 17,
             "esri-check": 1,
             "community": 0,
             "manual": 0,
             "existing": 0,
             "machine": 76,
             "stale": 0,
-            "missing": 2
+            "missing": 0
           },
           "entries": {
             "_widgetLabel": {
@@ -8036,16 +8036,16 @@
           }
         },
         "nl": {
-          "file": "344099f47ed7",
+          "file": "9939f6766feb",
           "counts": {
-            "esri": 14,
+            "esri": 16,
             "esri-check": 2,
             "community": 0,
             "manual": 0,
             "existing": 0,
             "machine": 76,
             "stale": 0,
-            "missing": 2
+            "missing": 0
           },
           "entries": {
             "_widgetLabel": {
@@ -8431,16 +8431,16 @@
           }
         },
         "pl": {
-          "file": "d42ec1d0d7b0",
+          "file": "b77d39372abc",
           "counts": {
-            "esri": 11,
+            "esri": 13,
             "esri-check": 5,
             "community": 0,
             "manual": 0,
             "existing": 0,
             "machine": 76,
             "stale": 0,
-            "missing": 2
+            "missing": 0
           },
           "entries": {
             "_widgetLabel": {
@@ -8826,16 +8826,16 @@
           }
         },
         "pt-br": {
-          "file": "930f460aad98",
+          "file": "c28780cddcd6",
           "counts": {
-            "esri": 15,
+            "esri": 17,
             "esri-check": 1,
             "community": 0,
             "manual": 0,
             "existing": 0,
             "machine": 76,
             "stale": 0,
-            "missing": 2
+            "missing": 0
           },
           "entries": {
             "_widgetLabel": {
@@ -9221,16 +9221,16 @@
           }
         },
         "pt-pt": {
-          "file": "c6a7b689b833",
+          "file": "b9a19c566afb",
           "counts": {
-            "esri": 14,
+            "esri": 16,
             "esri-check": 2,
             "community": 0,
             "manual": 0,
             "existing": 0,
             "machine": 76,
             "stale": 0,
-            "missing": 2
+            "missing": 0
           },
           "entries": {
             "_widgetLabel": {
@@ -9616,16 +9616,16 @@
           }
         },
         "ro": {
-          "file": "f500e8f4faf3",
+          "file": "9aba26345377",
           "counts": {
-            "esri": 15,
+            "esri": 17,
             "esri-check": 1,
             "community": 0,
             "manual": 0,
             "existing": 0,
             "machine": 76,
             "stale": 0,
-            "missing": 2
+            "missing": 0
           },
           "entries": {
             "_widgetLabel": {
@@ -10011,16 +10011,16 @@
           }
         },
         "ru": {
-          "file": "136361b92c9f",
+          "file": "f6a6bd5e9c8b",
           "counts": {
-            "esri": 11,
+            "esri": 13,
             "esri-check": 5,
             "community": 0,
             "manual": 0,
             "existing": 0,
             "machine": 76,
             "stale": 0,
-            "missing": 2
+            "missing": 0
           },
           "entries": {
             "_widgetLabel": {
@@ -10406,16 +10406,16 @@
           }
         },
         "sk": {
-          "file": "954349f6e9b7",
+          "file": "741e20a30a83",
           "counts": {
-            "esri": 14,
+            "esri": 16,
             "esri-check": 2,
             "community": 0,
             "manual": 0,
             "existing": 0,
             "machine": 76,
             "stale": 0,
-            "missing": 2
+            "missing": 0
           },
           "entries": {
             "_widgetLabel": {
@@ -10801,16 +10801,16 @@
           }
         },
         "sl": {
-          "file": "1455724e4bf3",
+          "file": "22caa61e1388",
           "counts": {
-            "esri": 14,
+            "esri": 16,
             "esri-check": 2,
             "community": 0,
             "manual": 0,
             "existing": 0,
             "machine": 76,
             "stale": 0,
-            "missing": 2
+            "missing": 0
           },
           "entries": {
             "_widgetLabel": {
@@ -11210,16 +11210,16 @@
           "entries": {}
         },
         "sv": {
-          "file": "233c50e1d477",
+          "file": "fa99e4ff5a6c",
           "counts": {
-            "esri": 15,
+            "esri": 17,
             "esri-check": 1,
             "community": 0,
             "manual": 0,
             "existing": 0,
             "machine": 76,
             "stale": 0,
-            "missing": 2
+            "missing": 0
           },
           "entries": {
             "_widgetLabel": {
@@ -11605,16 +11605,16 @@
           }
         },
         "th": {
-          "file": "24c55a67738c",
+          "file": "a137e472f0b5",
           "counts": {
-            "esri": 16,
+            "esri": 18,
             "esri-check": 0,
             "community": 0,
             "manual": 0,
             "existing": 0,
             "machine": 76,
             "stale": 0,
-            "missing": 2
+            "missing": 0
           },
           "entries": {
             "_widgetLabel": {
@@ -12000,16 +12000,16 @@
           }
         },
         "tr": {
-          "file": "fa262a581d31",
+          "file": "6a23fcc05e67",
           "counts": {
-            "esri": 13,
+            "esri": 15,
             "esri-check": 3,
             "community": 0,
             "manual": 0,
             "existing": 0,
             "machine": 76,
             "stale": 0,
-            "missing": 2
+            "missing": 0
           },
           "entries": {
             "_widgetLabel": {
@@ -12395,16 +12395,16 @@
           }
         },
         "zh-cn": {
-          "file": "cbf738a9cac9",
+          "file": "f8a0af2af4b5",
           "counts": {
-            "esri": 15,
+            "esri": 17,
             "esri-check": 1,
             "community": 0,
             "manual": 0,
             "existing": 0,
             "machine": 76,
             "stale": 0,
-            "missing": 2
+            "missing": 0
           },
           "entries": {
             "_widgetLabel": {
@@ -12790,16 +12790,16 @@
           }
         },
         "uk": {
-          "file": "925bf5bb14ea",
+          "file": "f616d9b90d8e",
           "counts": {
-            "esri": 15,
+            "esri": 17,
             "esri-check": 1,
             "community": 0,
             "manual": 0,
             "existing": 0,
             "machine": 76,
             "stale": 0,
-            "missing": 2
+            "missing": 0
           },
           "entries": {
             "_widgetLabel": {
@@ -13185,16 +13185,16 @@
           }
         },
         "vi": {
-          "file": "0680ea33bde5",
+          "file": "ec447edc9358",
           "counts": {
-            "esri": 15,
+            "esri": 17,
             "esri-check": 1,
             "community": 0,
             "manual": 0,
             "existing": 0,
             "machine": 76,
             "stale": 0,
-            "missing": 2
+            "missing": 0
           },
           "entries": {
             "_widgetLabel": {
@@ -13580,16 +13580,16 @@
           }
         },
         "zh-hk": {
-          "file": "0bc806e51ea0",
+          "file": "48d2e5c60004",
           "counts": {
-            "esri": 14,
+            "esri": 16,
             "esri-check": 2,
             "community": 0,
             "manual": 0,
             "existing": 0,
             "machine": 76,
             "stale": 0,
-            "missing": 2
+            "missing": 0
           },
           "entries": {
             "_widgetLabel": {
@@ -13975,16 +13975,16 @@
           }
         },
         "zh-tw": {
-          "file": "0bc806e51ea0",
+          "file": "48d2e5c60004",
           "counts": {
-            "esri": 14,
+            "esri": 16,
             "esri-check": 2,
             "community": 0,
             "manual": 0,
             "existing": 0,
             "machine": 76,
             "stale": 0,
-            "missing": 2
+            "missing": 0
           },
           "entries": {
             "_widgetLabel": {
@@ -14409,16 +14409,16 @@
       },
       "locales": {
         "ar": {
-          "file": "7c0bb25a1715",
+          "file": "d3d9d784efe3",
           "counts": {
             "esri": 4,
             "esri-check": 0,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 11,
+            "machine": 27,
             "stale": 0,
-            "missing": 16
+            "missing": 0
           },
           "entries": {
             "direction": {
@@ -14475,20 +14475,100 @@
               "t": "Layer Compare",
               "src": "machine",
               "h": "6bfaa4178b12"
+            },
+            "optionsSection": {
+              "t": "خيارات المقارنة",
+              "src": "machine",
+              "h": "07b545068b92"
+            },
+            "startPosition": {
+              "t": "مركز الأسهم الأولي (%)",
+              "src": "machine",
+              "h": "1d9ce9a0b350"
+            },
+            "allowContextToggle": {
+              "t": "السماح للمستعملين بأن يظهروا طبقات الخرائط المرئية الأخرى",
+              "src": "machine",
+              "h": "d176c1daab5a"
+            },
+            "startContext": {
+              "t": "تظهر في البداية طبقات مرئية أخرى على الجانبين",
+              "src": "machine",
+              "h": "1ea640ebc646"
+            },
+            "showHelp": {
+              "t": "عرض المساعدة والتلميح الأول",
+              "src": "machine",
+              "h": "20378e243404"
+            },
+            "startLabel": {
+              "t": "العلامة الجانبية الأولى (اختيارية)",
+              "src": "machine",
+              "h": "45fff0334b3d"
+            },
+            "endLabel": {
+              "t": "العلامة الجانبية الثانية (اختيارية)",
+              "src": "machine",
+              "h": "124964735b68"
+            },
+            "labelsHint": {
+              "t": "ترك علامات فارغة لاستخدام اليسار/اليمين أو الأعلى/القاع في قائمة الطبقات تلقائيا.",
+              "src": "machine",
+              "h": "14a7b2e1b2c8"
+            },
+            "availabilityHint": {
+              "t": "اختر ما يمكن لمستخدمي طبقات الخرائط أن يقارنوه لايرز مخبأة من قبل مواضع قائمة الخرائط تبقى مخبأة هنا",
+              "src": "machine",
+              "h": "e6bf18f1050d"
+            },
+            "defaultSection": {
+              "t": "الاختيارات الافتراضية (اختيارية)",
+              "src": "machine",
+              "h": "962a4ac8a554"
+            },
+            "defaultsHint": {
+              "t": "اختر أي طبقات بداية لكل جانب المقارنات تبقى متوقفة حتى يقوم المستخدم باختيار مقارنات البداية",
+              "src": "machine",
+              "h": "fe24b4c4f53b"
+            },
+            "previewMap": {
+              "t": "إربطوا جهازاً من طراز 2D وفتحوا تلك الخريطة في المبنى لاختيار الطبقات والقصورات المتاحة",
+              "src": "machine",
+              "h": "293ef17d7eea"
+            },
+            "telemetrySection": {
+              "t": "القياس عن بعد",
+              "src": "machine",
+              "h": "7f16d779903e"
+            },
+            "telemetryLabel": {
+              "t": "التمكين من استخدام القياس عن بعد",
+              "src": "machine",
+              "h": "1a529818313f"
+            },
+            "telemetryHint": {
+              "t": "ويستخدم نفس وحدة القياس عن بعد المشتركة التي تستخدمها النظارات التقليدية الأخرى. ولا تُرسل أي أحداث إلا إذا قامت هذه المنظمة بتشكيل وجهة قياس عن بعد.",
+              "src": "machine",
+              "h": "7b88cf61d3ad"
+            },
+            "settingLoadError": {
+              "t": "لا يمكن قراءة طبقات الخرائط. افتحي الخريطة في البنّاء وحاولي إصلاح الطبقات",
+              "src": "machine",
+              "h": "754e025f20f1"
             }
           }
         },
         "bg": {
-          "file": "a20dc6d84bbb",
+          "file": "4cbb3375b6bf",
           "counts": {
             "esri": 4,
             "esri-check": 0,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 11,
+            "machine": 27,
             "stale": 0,
-            "missing": 16
+            "missing": 0
           },
           "entries": {
             "direction": {
@@ -14545,6 +14625,86 @@
               "t": "Сравнение на слой",
               "src": "machine",
               "h": "6bfaa4178b12"
+            },
+            "optionsSection": {
+              "t": "Опции за сравнение",
+              "src": "machine",
+              "h": "07b545068b92"
+            },
+            "startPosition": {
+              "t": "Първоначално положение на делителя (%)",
+              "src": "machine",
+              "h": "1d9ce9a0b350"
+            },
+            "allowContextToggle": {
+              "t": "Позволете на потребителите да показват други видими слоеве от картата",
+              "src": "machine",
+              "h": "d176c1daab5a"
+            },
+            "startContext": {
+              "t": "Първоначално показват други видими слоеве от двете страни",
+              "src": "machine",
+              "h": "1ea640ebc646"
+            },
+            "showHelp": {
+              "t": "Показване на помощта и на намека за първото пускане",
+              "src": "machine",
+              "h": "20378e243404"
+            },
+            "startLabel": {
+              "t": "Етикет от първа страна (по избор)",
+              "src": "machine",
+              "h": "45fff0334b3d"
+            },
+            "endLabel": {
+              "t": "Втори страничен етикет (по избор)",
+              "src": "machine",
+              "h": "124964735b68"
+            },
+            "labelsHint": {
+              "t": "Оставете етикетите празни, за да използвате левия / десния или горния / долния в списъка на слоевете автоматично.",
+              "src": "machine",
+              "h": "14a7b2e1b2c8"
+            },
+            "availabilityHint": {
+              "t": "Изберете кои карти слоеве потребителите могат да сравнят. Слоеве скрити от настройките на листа от карти остават скрити тук.",
+              "src": "machine",
+              "h": "e6bf18f1050d"
+            },
+            "defaultSection": {
+              "t": "Избор по подразбиране (по избор)",
+              "src": "machine",
+              "h": "962a4ac8a554"
+            },
+            "defaultsHint": {
+              "t": "Изберете начални слоеве за всяка страна. Сравнението остава изключено, докато потребителят избере Стартовото сравнение.",
+              "src": "machine",
+              "h": "fe24b4c4f53b"
+            },
+            "previewMap": {
+              "t": "Свържете 2D Map джаджа и отворете тази карта в строителя, за да изберете налични слоеве и по подразбиране.",
+              "src": "machine",
+              "h": "293ef17d7eea"
+            },
+            "telemetrySection": {
+              "t": "Използване на телеметрия",
+              "src": "machine",
+              "h": "7f16d779903e"
+            },
+            "telemetryLabel": {
+              "t": "Включване на споделената телеметрия",
+              "src": "machine",
+              "h": "1a529818313f"
+            },
+            "telemetryHint": {
+              "t": "Използва същия споделен телеметричен модул като другите потребителски джаджи. Никакви събития не се изпращат, освен ако тази организация не е настроила телеметрична дестинация.",
+              "src": "machine",
+              "h": "7b88cf61d3ad"
+            },
+            "settingLoadError": {
+              "t": "Файловете на картата не могат да бъдат прочетени. Отворете картата в строителя и опитайте Refresh слоеве.",
+              "src": "machine",
+              "h": "754e025f20f1"
             }
           }
         },
@@ -14563,16 +14723,16 @@
           "entries": {}
         },
         "ca": {
-          "file": "21fa6ac84f1a",
+          "file": "cd24602a7709",
           "counts": {
             "esri": 4,
             "esri-check": 0,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 11,
+            "machine": 27,
             "stale": 0,
-            "missing": 16
+            "missing": 0
           },
           "entries": {
             "direction": {
@@ -14629,20 +14789,100 @@
               "t": "Comparació de capes",
               "src": "machine",
               "h": "6bfaa4178b12"
+            },
+            "optionsSection": {
+              "t": "Opcions de comparació",
+              "src": "machine",
+              "h": "07b545068b92"
+            },
+            "startPosition": {
+              "t": "Posició inicial del divisor (%)",
+              "src": "machine",
+              "h": "1d9ce9a0b350"
+            },
+            "allowContextToggle": {
+              "t": "Permet als usuaris mostrar altres capes de mapa visibles",
+              "src": "machine",
+              "h": "d176c1daab5a"
+            },
+            "startContext": {
+              "t": "Inicialment mostra altres capes visibles en ambdós costats",
+              "src": "machine",
+              "h": "1ea640ebc646"
+            },
+            "showHelp": {
+              "t": "Mostra l' ajuda i el primer suggeriment",
+              "src": "machine",
+              "h": "20378e243404"
+            },
+            "startLabel": {
+              "t": "Etiqueta del primer costat (opcional)",
+              "src": "machine",
+              "h": "45fff0334b3d"
+            },
+            "endLabel": {
+              "t": "Etiqueta de segon costat (opcional)",
+              "src": "machine",
+              "h": "124964735b68"
+            },
+            "labelsHint": {
+              "t": "Deixa les etiquetes buides a usar a l' esquerra / dreta o a dalt / inferior a la llista de capes automàticament.",
+              "src": "machine",
+              "h": "14a7b2e1b2c8"
+            },
+            "availabilityHint": {
+              "t": "Escolliu quin mapa poden comparar els usuaris. Les capes ocultes per l' arranjament de la llista de la capa del mapa es queden ocultes aquí.",
+              "src": "machine",
+              "h": "e6bf18f1050d"
+            },
+            "defaultSection": {
+              "t": "Selecció per omissió (opcional)",
+              "src": "machine",
+              "h": "962a4ac8a554"
+            },
+            "defaultsHint": {
+              "t": "Escolliu qualsevol capa que comenci per cada costat. La comparació continua fins que l' usuari selecciona la comparació inicial.",
+              "src": "machine",
+              "h": "fe24b4c4f53b"
+            },
+            "previewMap": {
+              "t": "Connecteu un estri de mapa en 2D i obriu aquest mapa en el constructor per escollir capes disponibles i per omissió.",
+              "src": "machine",
+              "h": "293ef17d7eea"
+            },
+            "telemetrySection": {
+              "t": "Utilitza telemetria",
+              "src": "machine",
+              "h": "7f16d779903e"
+            },
+            "telemetryLabel": {
+              "t": "Habilita la telemetria d' ús compartida",
+              "src": "machine",
+              "h": "1a529818313f"
+            },
+            "telemetryHint": {
+              "t": "Usa el mateix mòdul de telemetria compartida com a estris personalitzats. No hi ha esdeveniments a menys que aquesta organització hagi configurat un destí de telemetria.",
+              "src": "machine",
+              "h": "7b88cf61d3ad"
+            },
+            "settingLoadError": {
+              "t": "No s' han pogut llegir les capes de mapa. Obre el mapa del constructor i prova de refrescar capes.",
+              "src": "machine",
+              "h": "754e025f20f1"
             }
           }
         },
         "cs": {
-          "file": "71d790e11ca1",
+          "file": "9ae35f3c1126",
           "counts": {
             "esri": 4,
             "esri-check": 0,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 11,
+            "machine": 27,
             "stale": 0,
-            "missing": 16
+            "missing": 0
           },
           "entries": {
             "direction": {
@@ -14699,20 +14939,100 @@
               "t": "Porovnat vrstvu",
               "src": "machine",
               "h": "6bfaa4178b12"
+            },
+            "optionsSection": {
+              "t": "Možnosti srovnání",
+              "src": "machine",
+              "h": "07b545068b92"
+            },
+            "startPosition": {
+              "t": "Počáteční dělicí pozice (%)",
+              "src": "machine",
+              "h": "1d9ce9a0b350"
+            },
+            "allowContextToggle": {
+              "t": "Umožnit uživatelům zobrazit další viditelné mapové vrstvy",
+              "src": "machine",
+              "h": "d176c1daab5a"
+            },
+            "startContext": {
+              "t": "Zpočátku zobrazovat jiné viditelné vrstvy na obou stranách",
+              "src": "machine",
+              "h": "1ea640ebc646"
+            },
+            "showHelp": {
+              "t": "Zobrazit nápovědu a první nápovědu",
+              "src": "machine",
+              "h": "20378e243404"
+            },
+            "startLabel": {
+              "t": "První boční štítek (nepovinné)",
+              "src": "machine",
+              "h": "45fff0334b3d"
+            },
+            "endLabel": {
+              "t": "Druhé boční označení (nepovinné)",
+              "src": "machine",
+              "h": "124964735b68"
+            },
+            "labelsHint": {
+              "t": "Štítky ponechte prázdné pro automatické použití v seznamu vrstev vlevo / vpravo nebo nahoře / dole.",
+              "src": "machine",
+              "h": "14a7b2e1b2c8"
+            },
+            "availabilityHint": {
+              "t": "Vyberte si, které vrstvy mapy mohou uživatelé porovnat. Vrstvy ukryté u map a nastavení seznamu zůstávají skryty zde.",
+              "src": "machine",
+              "h": "e6bf18f1050d"
+            },
+            "defaultSection": {
+              "t": "Výchozí volby (nepovinné)",
+              "src": "machine",
+              "h": "962a4ac8a554"
+            },
+            "defaultsHint": {
+              "t": "Vyberte si jakékoliv počáteční vrstvy pro každou stranu. Srovnání zůstává vypnuto, dokud uživatel nevybere Srovnání.",
+              "src": "machine",
+              "h": "fe24b4c4f53b"
+            },
+            "previewMap": {
+              "t": "Připojte widget 2D mapy a otevřete mapu v staviteli pro výběr dostupných vrstev a vad.",
+              "src": "machine",
+              "h": "293ef17d7eea"
+            },
+            "telemetrySection": {
+              "t": "Použití telemetrie",
+              "src": "machine",
+              "h": "7f16d779903e"
+            },
+            "telemetryLabel": {
+              "t": "Povolit telemetrii sdíleného využití",
+              "src": "machine",
+              "h": "1a529818313f"
+            },
+            "telemetryHint": {
+              "t": "Používá stejný sdílený telemetrický modul jako ostatní vlastní widgety. Žádné události se neposílají, pokud tato organizace nenastavila telemetrický cíl.",
+              "src": "machine",
+              "h": "7b88cf61d3ad"
+            },
+            "settingLoadError": {
+              "t": "Nedalo se číst mapové vrstvy. Otevřete mapu v staviteli a zkuste Obnovit vrstvy.",
+              "src": "machine",
+              "h": "754e025f20f1"
             }
           }
         },
         "da": {
-          "file": "1602421d700d",
+          "file": "1573a82bf65a",
           "counts": {
             "esri": 4,
             "esri-check": 0,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 11,
+            "machine": 27,
             "stale": 0,
-            "missing": 16
+            "missing": 0
           },
           "entries": {
             "direction": {
@@ -14769,20 +15089,100 @@
               "t": "Lag sammenligning",
               "src": "machine",
               "h": "6bfaa4178b12"
+            },
+            "optionsSection": {
+              "t": "Sammenligningsmuligheder",
+              "src": "machine",
+              "h": "07b545068b92"
+            },
+            "startPosition": {
+              "t": "Oprindelig opdelingsposition (%)",
+              "src": "machine",
+              "h": "1d9ce9a0b350"
+            },
+            "allowContextToggle": {
+              "t": "Tillad brugere at vise andre synlige kortlag",
+              "src": "machine",
+              "h": "d176c1daab5a"
+            },
+            "startContext": {
+              "t": "I første omgang viser andre synlige lag på begge sider",
+              "src": "machine",
+              "h": "1ea640ebc646"
+            },
+            "showHelp": {
+              "t": "Vis hjælp og første- run vink",
+              "src": "machine",
+              "h": "20378e243404"
+            },
+            "startLabel": {
+              "t": "Første side etiket (valgfri)",
+              "src": "machine",
+              "h": "45fff0334b3d"
+            },
+            "endLabel": {
+              "t": "Anden side etiket (valgfri)",
+              "src": "machine",
+              "h": "124964735b68"
+            },
+            "labelsHint": {
+              "t": "Lad etiketterne være tomme for automatisk at bruge venstre / højre eller top / bund på laglisten.",
+              "src": "machine",
+              "h": "14a7b2e1b2c8"
+            },
+            "availabilityHint": {
+              "t": "Vælg hvilke kortlag brugerne kan sammenligne. Lag skjult af kortets layerlisteindstillinger forblive skjult her.",
+              "src": "machine",
+              "h": "e6bf18f1050d"
+            },
+            "defaultSection": {
+              "t": "Standardvalg (valgfrit)",
+              "src": "machine",
+              "h": "962a4ac8a554"
+            },
+            "defaultsHint": {
+              "t": "Vælg alle startlag for hver side. Sammenligning forbliver slukket, indtil brugeren vælger Start sammenligning.",
+              "src": "machine",
+              "h": "fe24b4c4f53b"
+            },
+            "previewMap": {
+              "t": "Tilslut en 2D kort kontrol og åbne dette kort i bygherren til at vælge tilgængelige lag og standard.",
+              "src": "machine",
+              "h": "293ef17d7eea"
+            },
+            "telemetrySection": {
+              "t": "Brug telemetri",
+              "src": "machine",
+              "h": "7f16d779903e"
+            },
+            "telemetryLabel": {
+              "t": "Aktivér det delte brugertelemetri",
+              "src": "machine",
+              "h": "1a529818313f"
+            },
+            "telemetryHint": {
+              "t": "Bruger det samme delte telemetrimodul som de andre brugerdefinerede widgets. Ingen begivenheder sendes, medmindre denne organisation har konfigureret en telemetri destination.",
+              "src": "machine",
+              "h": "7b88cf61d3ad"
+            },
+            "settingLoadError": {
+              "t": "Kortlag kunne ikke læses. Åbn kortet i bygherren og prøv Genopfrisk lag.",
+              "src": "machine",
+              "h": "754e025f20f1"
             }
           }
         },
         "de": {
-          "file": "cbadcac1fd51",
+          "file": "ed0d2b114d44",
           "counts": {
             "esri": 4,
             "esri-check": 0,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 11,
+            "machine": 27,
             "stale": 0,
-            "missing": 16
+            "missing": 0
           },
           "entries": {
             "direction": {
@@ -14839,20 +15239,100 @@
               "t": "Schichtvergleich",
               "src": "machine",
               "h": "6bfaa4178b12"
+            },
+            "optionsSection": {
+              "t": "Vergleichsoptionen",
+              "src": "machine",
+              "h": "07b545068b92"
+            },
+            "startPosition": {
+              "t": "Anfangsteilerposition (%)",
+              "src": "machine",
+              "h": "1d9ce9a0b350"
+            },
+            "allowContextToggle": {
+              "t": "Ermöglichen Sie Benutzern, andere sichtbare Kartenebenen anzuzeigen",
+              "src": "machine",
+              "h": "d176c1daab5a"
+            },
+            "startContext": {
+              "t": "Zunächst zeigen andere sichtbare Schichten auf beiden Seiten",
+              "src": "machine",
+              "h": "1ea640ebc646"
+            },
+            "showHelp": {
+              "t": "Show Help und der First Run Hinweis",
+              "src": "machine",
+              "h": "20378e243404"
+            },
+            "startLabel": {
+              "t": "Erstes Seitenetikett (fakultativ)",
+              "src": "machine",
+              "h": "45fff0334b3d"
+            },
+            "endLabel": {
+              "t": "Zweitseitige Kennzeichnung (fakultativ)",
+              "src": "machine",
+              "h": "124964735b68"
+            },
+            "labelsHint": {
+              "t": "Lassen Sie Etiketten leer, um Links / Rechts oder Oben / Unten in der Layerliste automatisch zu verwenden.",
+              "src": "machine",
+              "h": "14a7b2e1b2c8"
+            },
+            "availabilityHint": {
+              "t": "Wählen Sie aus, welche Kartenebenen Benutzer vergleichen können. Layers, die durch die Karten-Layerlisten-Einstellungen verborgen sind, bleiben hier verborgen.",
+              "src": "machine",
+              "h": "e6bf18f1050d"
+            },
+            "defaultSection": {
+              "t": "Standardauswahl (fakultativ)",
+              "src": "machine",
+              "h": "962a4ac8a554"
+            },
+            "defaultsHint": {
+              "t": "Wählen Sie beliebige Startschichten für jede Seite. Der Vergleich bleibt ausgeschaltet, bis der Benutzer den Vergleich Start auswählt.",
+              "src": "machine",
+              "h": "fe24b4c4f53b"
+            },
+            "previewMap": {
+              "t": "Verbinden Sie ein 2D-Karten-Widget und öffnen Sie diese Karte im Builder, um verfügbare Ebenen und Standardwerte auszuwählen.",
+              "src": "machine",
+              "h": "293ef17d7eea"
+            },
+            "telemetrySection": {
+              "t": "Nutzungstelemetrie",
+              "src": "machine",
+              "h": "7f16d779903e"
+            },
+            "telemetryLabel": {
+              "t": "Aktivieren Sie die Shared Use Telemetry",
+              "src": "machine",
+              "h": "1a529818313f"
+            },
+            "telemetryHint": {
+              "t": "Verwendet das gleiche gemeinsame Telemetriemodul wie die anderen benutzerdefinierten Widgets. Es werden keine Ereignisse gesendet, es sei denn, diese Organisation hat ein Telemetrieziel konfiguriert.",
+              "src": "machine",
+              "h": "7b88cf61d3ad"
+            },
+            "settingLoadError": {
+              "t": "Kartenebenen konnten nicht gelesen werden. Öffnen Sie die Karte im Builder und versuchen Sie, Ebenen zu aktualisieren.",
+              "src": "machine",
+              "h": "754e025f20f1"
             }
           }
         },
         "el": {
-          "file": "bbd1206b4900",
+          "file": "c64178ec2ef2",
           "counts": {
             "esri": 3,
             "esri-check": 1,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 11,
+            "machine": 27,
             "stale": 0,
-            "missing": 16
+            "missing": 0
           },
           "entries": {
             "direction": {
@@ -14909,20 +15389,100 @@
               "t": "Σύγκριση στρώματος",
               "src": "machine",
               "h": "6bfaa4178b12"
+            },
+            "optionsSection": {
+              "t": "Επιλογές σύγκρισης",
+              "src": "machine",
+              "h": "07b545068b92"
+            },
+            "startPosition": {
+              "t": "Αρχική θέση διαχωριστικού (%)",
+              "src": "machine",
+              "h": "1d9ce9a0b350"
+            },
+            "allowContextToggle": {
+              "t": "Επίτρεψε στους χρήστες να εμφανίσουν άλλα ορατά στρώματα χαρτών",
+              "src": "machine",
+              "h": "d176c1daab5a"
+            },
+            "startContext": {
+              "t": "Αρχικά εμφάνιση άλλων ορατών στρωμάτων και στις δύο πλευρές",
+              "src": "machine",
+              "h": "1ea640ebc646"
+            },
+            "showHelp": {
+              "t": "Εμφάνιση βοήθειας και η πρώτη επιλογή",
+              "src": "machine",
+              "h": "20378e243404"
+            },
+            "startLabel": {
+              "t": "Πρώτη πλευρική ετικέτα (προαιρετική)",
+              "src": "machine",
+              "h": "45fff0334b3d"
+            },
+            "endLabel": {
+              "t": "Ετικέτα δεύτερης πλευράς (προαιρετική)",
+              "src": "machine",
+              "h": "124964735b68"
+            },
+            "labelsHint": {
+              "t": "Αφήστε τις ετικέτες κενές για χρήση αυτόματα αριστερά / δεξιά ή πάνω / κάτω στη λίστα επιπέδων.",
+              "src": "machine",
+              "h": "14a7b2e1b2c8"
+            },
+            "availabilityHint": {
+              "t": "Επιλέξτε ποια επίπεδα χάρτη μπορούν να συγκρίνουν οι χρήστες. Τα στρώματα που κρύβονται από τις ρυθμίσεις layer-list χάρτη παραμένουν κρυμμένα εδώ.",
+              "src": "machine",
+              "h": "e6bf18f1050d"
+            },
+            "defaultSection": {
+              "t": "Προκαθορισμένες επιλογές (προαιρετικές)",
+              "src": "machine",
+              "h": "962a4ac8a554"
+            },
+            "defaultsHint": {
+              "t": "Επιλέξτε οποιαδήποτε αρχικά στρώματα για κάθε πλευρά. Η σύγκριση παραμένει εκτός μέχρι να επιλέξει ο χρήστης Έναρξη σύγκρισης.",
+              "src": "machine",
+              "h": "fe24b4c4f53b"
+            },
+            "previewMap": {
+              "t": "Συνδέστε ένα γραφικό συστατικό 2D Map και ανοίξτε αυτόν τον χάρτη στον κατασκευαστή για να επιλέξετε τα διαθέσιμα στρώματα και τις προεπιλογές.",
+              "src": "machine",
+              "h": "293ef17d7eea"
+            },
+            "telemetrySection": {
+              "t": "Τηλεμετρία χρήσης",
+              "src": "machine",
+              "h": "7f16d779903e"
+            },
+            "telemetryLabel": {
+              "t": "Ενεργοποίηση τηλεμετρίας κοινής χρήσης",
+              "src": "machine",
+              "h": "1a529818313f"
+            },
+            "telemetryHint": {
+              "t": "Χρησιμοποιεί την ίδια ενότητα κοινής τηλεμετρίας με τα άλλα προσαρμοσμένα widgets. Δεν αποστέλλονται γεγονότα εκτός αν αυτός ο οργανισμός έχει διαμορφώσει έναν προορισμό τηλεμετρίας.",
+              "src": "machine",
+              "h": "7b88cf61d3ad"
+            },
+            "settingLoadError": {
+              "t": "Τα στρώματα χαρτών δεν μπορούν να διαβαστούν. Ανοίξτε το χάρτη στον κατασκευαστή και δοκιμάστε Refresh στρώματα.",
+              "src": "machine",
+              "h": "754e025f20f1"
             }
           }
         },
         "es": {
-          "file": "f6f2ff4bcd9f",
+          "file": "0e84debf9a77",
           "counts": {
             "esri": 4,
             "esri-check": 0,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 11,
+            "machine": 27,
             "stale": 0,
-            "missing": 16
+            "missing": 0
           },
           "entries": {
             "direction": {
@@ -14979,20 +15539,100 @@
               "t": "Layer Compare",
               "src": "machine",
               "h": "6bfaa4178b12"
+            },
+            "optionsSection": {
+              "t": "Opciones de comparación",
+              "src": "machine",
+              "h": "07b545068b92"
+            },
+            "startPosition": {
+              "t": "Posición inicial de divider (%)",
+              "src": "machine",
+              "h": "1d9ce9a0b350"
+            },
+            "allowContextToggle": {
+              "t": "Permitir a los usuarios mostrar otras capas de mapa visibles",
+              "src": "machine",
+              "h": "d176c1daab5a"
+            },
+            "startContext": {
+              "t": "Mostrar inicialmente otras capas visibles en ambos lados",
+              "src": "machine",
+              "h": "1ea640ebc646"
+            },
+            "showHelp": {
+              "t": "Mostrar Ayuda y la pista de primera ejecución",
+              "src": "machine",
+              "h": "20378e243404"
+            },
+            "startLabel": {
+              "t": "Primera etiqueta lateral (opcional)",
+              "src": "machine",
+              "h": "45fff0334b3d"
+            },
+            "endLabel": {
+              "t": "Segunda etiqueta lateral (opcional)",
+              "src": "machine",
+              "h": "124964735b68"
+            },
+            "labelsHint": {
+              "t": "Deje las etiquetas vacías para usar Izquierda / Derecha o Parte superior / átomo en la lista de capas automáticamente.",
+              "src": "machine",
+              "h": "14a7b2e1b2c8"
+            },
+            "availabilityHint": {
+              "t": "Elija qué capas de mapa los usuarios pueden comparar. Las capas ocultas por la lista de capas del mapa permanecen ocultas aquí.",
+              "src": "machine",
+              "h": "e6bf18f1050d"
+            },
+            "defaultSection": {
+              "t": "Selección por defecto (opcional)",
+              "src": "machine",
+              "h": "962a4ac8a554"
+            },
+            "defaultsHint": {
+              "t": "Elige cualquier capa inicial para cada lado. La comparación se mantiene apagada hasta que el usuario seleccione Iniciar la comparación.",
+              "src": "machine",
+              "h": "fe24b4c4f53b"
+            },
+            "previewMap": {
+              "t": "Conecte un widget de mapa 2D y abra ese mapa en el constructor para elegir las capas y predeterminados disponibles.",
+              "src": "machine",
+              "h": "293ef17d7eea"
+            },
+            "telemetrySection": {
+              "t": "Telemetría de uso",
+              "src": "machine",
+              "h": "7f16d779903e"
+            },
+            "telemetryLabel": {
+              "t": "Permitir la telemetría de uso compartido",
+              "src": "machine",
+              "h": "1a529818313f"
+            },
+            "telemetryHint": {
+              "t": "Utiliza el mismo módulo de telemetría compartida que los otros widgets personalizados. No se envían eventos a menos que esta organización haya configurado un destino de telemetría.",
+              "src": "machine",
+              "h": "7b88cf61d3ad"
+            },
+            "settingLoadError": {
+              "t": "Las capas de mapa no se pueden leer. Abra el mapa en el constructor y pruebe capas Refresh.",
+              "src": "machine",
+              "h": "754e025f20f1"
             }
           }
         },
         "et": {
-          "file": "7e2a43eca2f7",
+          "file": "277e284de906",
           "counts": {
             "esri": 4,
             "esri-check": 0,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 11,
+            "machine": 27,
             "stale": 0,
-            "missing": 16
+            "missing": 0
           },
           "entries": {
             "direction": {
@@ -15049,20 +15689,100 @@
               "t": "Kihi võrdlemine",
               "src": "machine",
               "h": "6bfaa4178b12"
+            },
+            "optionsSection": {
+              "t": "Võrdlusvõimalused",
+              "src": "machine",
+              "h": "07b545068b92"
+            },
+            "startPosition": {
+              "t": "Jagaja esialgne positsioon (%)",
+              "src": "machine",
+              "h": "1d9ce9a0b350"
+            },
+            "allowContextToggle": {
+              "t": "Võimaldab kasutajatel näidata teisi nähtavaid kaardikihte",
+              "src": "machine",
+              "h": "d176c1daab5a"
+            },
+            "startContext": {
+              "t": "Esialgu näidatakse mõlemal küljel teisi nähtavaid kihte",
+              "src": "machine",
+              "h": "1ea640ebc646"
+            },
+            "showHelp": {
+              "t": "Abi ja esimese käigu vihje näitamine",
+              "src": "machine",
+              "h": "20378e243404"
+            },
+            "startLabel": {
+              "t": "Esimene külgmärgis (valikuline)",
+              "src": "machine",
+              "h": "45fff0334b3d"
+            },
+            "endLabel": {
+              "t": "Teine külgmärgis (valikuline)",
+              "src": "machine",
+              "h": "124964735b68"
+            },
+            "labelsHint": {
+              "t": "Jätta sildid tühjaks, et kihtide nimekirjas automaatselt kasutada vasakut / paremat või ülevalt / alt.",
+              "src": "machine",
+              "h": "14a7b2e1b2c8"
+            },
+            "availabilityHint": {
+              "t": "Valige, milliseid kaardikihte kasutajad saavad võrrelda. Kihid, mis on peidetud kaardi kihiloendi seadistustega, jäävad siia varju.",
+              "src": "machine",
+              "h": "e6bf18f1050d"
+            },
+            "defaultSection": {
+              "t": "Vaikimisi valikud (valikuline)",
+              "src": "machine",
+              "h": "962a4ac8a554"
+            },
+            "defaultsHint": {
+              "t": "Valige igale küljele algkihid. Võrdlus jääb välja, kuni kasutaja valib võrdlemise alustamise.",
+              "src": "machine",
+              "h": "fe24b4c4f53b"
+            },
+            "previewMap": {
+              "t": "Ühendage 2D-kaardi vidin ja avage see kaart ehitajas, et valida saadaolevad kihid ja vaikeväärtused.",
+              "src": "machine",
+              "h": "293ef17d7eea"
+            },
+            "telemetrySection": {
+              "t": "Telemeetria kasutamine",
+              "src": "machine",
+              "h": "7f16d779903e"
+            },
+            "telemetryLabel": {
+              "t": "Ühiskasutuse telemeetria lubamine",
+              "src": "machine",
+              "h": "1a529818313f"
+            },
+            "telemetryHint": {
+              "t": "Kasutab sama jagatud telemeetria moodulit nagu teised kohandatud vidinad. Sündmusi ei saadeta, kui see organisatsioon pole seadistanud telemeetria sihtkohta.",
+              "src": "machine",
+              "h": "7b88cf61d3ad"
+            },
+            "settingLoadError": {
+              "t": "Kaardikihtide lugemine nurjus. Avage kaart ehitajas ja proovige värskendada kihid.",
+              "src": "machine",
+              "h": "754e025f20f1"
             }
           }
         },
         "fi": {
-          "file": "483928cf8fbe",
+          "file": "865dd9472202",
           "counts": {
             "esri": 4,
             "esri-check": 0,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 11,
+            "machine": 27,
             "stale": 0,
-            "missing": 16
+            "missing": 0
           },
           "entries": {
             "direction": {
@@ -15119,20 +15839,100 @@
               "t": "Taso Vertaa",
               "src": "machine",
               "h": "6bfaa4178b12"
+            },
+            "optionsSection": {
+              "t": "Vertailuvaihtoehdot",
+              "src": "machine",
+              "h": "07b545068b92"
+            },
+            "startPosition": {
+              "t": "Alkujakajan sijainti (%)",
+              "src": "machine",
+              "h": "1d9ce9a0b350"
+            },
+            "allowContextToggle": {
+              "t": "Salli käyttäjien näyttää muut näkyvät karttatasot",
+              "src": "machine",
+              "h": "d176c1daab5a"
+            },
+            "startContext": {
+              "t": "Aluksi näyttää muita näkyviä kerroksia molemmin puolin",
+              "src": "machine",
+              "h": "1ea640ebc646"
+            },
+            "showHelp": {
+              "t": "Näytä ohje ja ensimmäisen kierroksen vihje",
+              "src": "machine",
+              "h": "20378e243404"
+            },
+            "startLabel": {
+              "t": "Ensimmäisen puolen etiketti (valinnainen)",
+              "src": "machine",
+              "h": "45fff0334b3d"
+            },
+            "endLabel": {
+              "t": "Toisen puolen etiketti (valinnainen)",
+              "src": "machine",
+              "h": "124964735b68"
+            },
+            "labelsHint": {
+              "t": "Jätä etiketit tyhjäksi käyttääksesi Vasenta / Oikeaa tai yläreunaa / Alareunaa kerroslistassa automaattisesti.",
+              "src": "machine",
+              "h": "14a7b2e1b2c8"
+            },
+            "availabilityHint": {
+              "t": "Valitse mitkä karttatasot käyttäjät voivat vertailla. Kartan kerroslistan asetusten piilotetut tasot pysyvät piilossa täällä.",
+              "src": "machine",
+              "h": "e6bf18f1050d"
+            },
+            "defaultSection": {
+              "t": "Oletusvalinnat (valinnainen)",
+              "src": "machine",
+              "h": "962a4ac8a554"
+            },
+            "defaultsHint": {
+              "t": "Valitse kaikki lähtötasot kummallekin sivulle. Vertailu pysyy poissa kunnes käyttäjä valitsee Aloita vertailu.",
+              "src": "machine",
+              "h": "fe24b4c4f53b"
+            },
+            "previewMap": {
+              "t": "Liitä 2D-kartta widget ja avaa että kartta rakentaja valita käytettävissä kerroksia ja oletusarvoja.",
+              "src": "machine",
+              "h": "293ef17d7eea"
+            },
+            "telemetrySection": {
+              "t": "Käyttötelemetria",
+              "src": "machine",
+              "h": "7f16d779903e"
+            },
+            "telemetryLabel": {
+              "t": "Ota käyttöön jaetun käytön telemetria",
+              "src": "machine",
+              "h": "1a529818313f"
+            },
+            "telemetryHint": {
+              "t": "Käyttää samaa jaettua telemetria moduulia kuin muut mukautetut widgetit. Mitään tapahtumia ei lähetetä, ellei tämä organisaatio ole asettanut telemetriakohdetta.",
+              "src": "machine",
+              "h": "7b88cf61d3ad"
+            },
+            "settingLoadError": {
+              "t": "Karttakerroksia ei voitu lukea. Avaa kartta rakennuttajassa ja kokeile Päivitä kerroksia.",
+              "src": "machine",
+              "h": "754e025f20f1"
             }
           }
         },
         "fr": {
-          "file": "39cc2f9016c5",
+          "file": "c0d5c1f8c8cf",
           "counts": {
             "esri": 4,
             "esri-check": 0,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 11,
+            "machine": 27,
             "stale": 0,
-            "missing": 16
+            "missing": 0
           },
           "entries": {
             "direction": {
@@ -15189,20 +15989,100 @@
               "t": "Comparaison des calques",
               "src": "machine",
               "h": "6bfaa4178b12"
+            },
+            "optionsSection": {
+              "t": "Options de comparaison",
+              "src": "machine",
+              "h": "07b545068b92"
+            },
+            "startPosition": {
+              "t": "Position initiale du diviseur (%)",
+              "src": "machine",
+              "h": "1d9ce9a0b350"
+            },
+            "allowContextToggle": {
+              "t": "Permettre aux utilisateurs d'afficher d'autres couches de cartes visibles",
+              "src": "machine",
+              "h": "d176c1daab5a"
+            },
+            "startContext": {
+              "t": "Afficher d'abord d'autres couches visibles des deux côtés",
+              "src": "machine",
+              "h": "1ea640ebc646"
+            },
+            "showHelp": {
+              "t": "Afficher l'aide et le premier indice",
+              "src": "machine",
+              "h": "20378e243404"
+            },
+            "startLabel": {
+              "t": "Première étiquette latérale (facultative)",
+              "src": "machine",
+              "h": "45fff0334b3d"
+            },
+            "endLabel": {
+              "t": "Deuxième étiquette latérale (facultative)",
+              "src": "machine",
+              "h": "124964735b68"
+            },
+            "labelsHint": {
+              "t": "Laissez les étiquettes vides pour les utiliser automatiquement.",
+              "src": "machine",
+              "h": "14a7b2e1b2c8"
+            },
+            "availabilityHint": {
+              "t": "Choisissez quelles couches de carte les utilisateurs peuvent comparer. Les calques cachés par les paramètres de la liste des calques restent cachés ici.",
+              "src": "machine",
+              "h": "e6bf18f1050d"
+            },
+            "defaultSection": {
+              "t": "Sélection par défaut (facultatif)",
+              "src": "machine",
+              "h": "962a4ac8a554"
+            },
+            "defaultsHint": {
+              "t": "Choisissez les couches de départ pour chaque côté. La comparaison reste en suspens jusqu'à ce que l'utilisateur sélectionne la comparaison.",
+              "src": "machine",
+              "h": "fe24b4c4f53b"
+            },
+            "previewMap": {
+              "t": "Connectez un widget 2D Map et ouvrez cette carte dans le constructeur pour choisir les calques disponibles et par défaut.",
+              "src": "machine",
+              "h": "293ef17d7eea"
+            },
+            "telemetrySection": {
+              "t": "Télémétrie d'utilisation",
+              "src": "machine",
+              "h": "7f16d779903e"
+            },
+            "telemetryLabel": {
+              "t": "Activer la télémétrie à usage partagé",
+              "src": "machine",
+              "h": "1a529818313f"
+            },
+            "telemetryHint": {
+              "t": "Utilise le même module de télémétrie partagée que les autres widgets personnalisés. Aucun événement n'est envoyé à moins que cette organisation n'ait configuré une destination télémétrique.",
+              "src": "machine",
+              "h": "7b88cf61d3ad"
+            },
+            "settingLoadError": {
+              "t": "Les calques de cartes n'ont pas pu être lus. Ouvrez la carte dans le constructeur et essayez de rafraîchir les calques.",
+              "src": "machine",
+              "h": "754e025f20f1"
             }
           }
         },
         "he": {
-          "file": "d05e7065dbcf",
+          "file": "61103fb0a065",
           "counts": {
             "esri": 4,
             "esri-check": 0,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 11,
+            "machine": 27,
             "stale": 0,
-            "missing": 16
+            "missing": 0
           },
           "entries": {
             "direction": {
@@ -15259,6 +16139,86 @@
               "t": "שכבה השוואת",
               "src": "machine",
               "h": "6bfaa4178b12"
+            },
+            "optionsSection": {
+              "t": "אפשרויות השוואת",
+              "src": "machine",
+              "h": "07b545068b92"
+            },
+            "startPosition": {
+              "t": "מיקום הפיצול הראשוני (%)",
+              "src": "machine",
+              "h": "1d9ce9a0b350"
+            },
+            "allowContextToggle": {
+              "t": "לאפשר למשתמשים להראות שכבות מפות גלויות אחרות",
+              "src": "machine",
+              "h": "d176c1daab5a"
+            },
+            "startContext": {
+              "t": "בתחילה מופיעים שכבות גלויות אחרות בשני הצדדים",
+              "src": "machine",
+              "h": "1ea640ebc646"
+            },
+            "showHelp": {
+              "t": "הצג עזרה והרמז הראשון",
+              "src": "machine",
+              "h": "20378e243404"
+            },
+            "startLabel": {
+              "t": "תוויות צד ראשון (אופציונלי)",
+              "src": "machine",
+              "h": "45fff0334b3d"
+            },
+            "endLabel": {
+              "t": "תוויות צד שני (אופציונלי)",
+              "src": "machine",
+              "h": "124964735b68"
+            },
+            "labelsHint": {
+              "t": "השאירו תוויות ריקות לשימוש בשמאל / ימין או למעלה/למטה ברשימת השכבות באופן אוטומטי.",
+              "src": "machine",
+              "h": "14a7b2e1b2c8"
+            },
+            "availabilityHint": {
+              "t": "בחר אילו שכבות מפות משתמשים יכולים להשוות. שכבה מוסתרת על ידי הגדרות שכבת המפה נשאר חבוי כאן.",
+              "src": "machine",
+              "h": "e6bf18f1050d"
+            },
+            "defaultSection": {
+              "t": "בחירת Default (אופציונלי)",
+              "src": "machine",
+              "h": "962a4ac8a554"
+            },
+            "defaultsHint": {
+              "t": "בחרו כל שכבות התחלה לכל צד. ההשוואה נשארת עד שהמשתמש בוחר להתחיל השוואה.",
+              "src": "machine",
+              "h": "fe24b4c4f53b"
+            },
+            "previewMap": {
+              "t": "התחברו ל- 2D Map widget ופותחים את המפה ב-Builder כדי לבחור שכבות זמינות ו- ברירת מחדל.",
+              "src": "machine",
+              "h": "293ef17d7eea"
+            },
+            "telemetrySection": {
+              "t": "שימוש בTelemetry",
+              "src": "machine",
+              "h": "7f16d779903e"
+            },
+            "telemetryLabel": {
+              "t": "אפשרות לשימוש משותף",
+              "src": "machine",
+              "h": "1a529818313f"
+            },
+            "telemetryHint": {
+              "t": "השתמש באותה מודול טלמטרי משותף כמו widget מותאם אישית אחרים. לא נשלחים אירועים אלא אם כן ארגון זה הגדיר יעד טלמטי.",
+              "src": "machine",
+              "h": "7b88cf61d3ad"
+            },
+            "settingLoadError": {
+              "t": "לא ניתן לקרוא שכבות מפה. פתח את המפה במבנה ונסה שכבות מעודנות.",
+              "src": "machine",
+              "h": "754e025f20f1"
             }
           }
         },
@@ -15277,16 +16237,16 @@
           "entries": {}
         },
         "hu": {
-          "file": "1f489353860d",
+          "file": "f1664f859b90",
           "counts": {
             "esri": 4,
             "esri-check": 0,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 11,
+            "machine": 27,
             "stale": 0,
-            "missing": 16
+            "missing": 0
           },
           "entries": {
             "direction": {
@@ -15343,20 +16303,100 @@
               "t": "A rétegek összehasonlítása",
               "src": "machine",
               "h": "6bfaa4178b12"
+            },
+            "optionsSection": {
+              "t": "Összehasonlítási lehetőségek",
+              "src": "machine",
+              "h": "07b545068b92"
+            },
+            "startPosition": {
+              "t": "Kezdeti elválasztó pozíció (%)",
+              "src": "machine",
+              "h": "1d9ce9a0b350"
+            },
+            "allowContextToggle": {
+              "t": "Lehetővé teszi a felhasználók számára, hogy más látható térkép rétegek",
+              "src": "machine",
+              "h": "d176c1daab5a"
+            },
+            "startContext": {
+              "t": "Kezdetben más látható rétegek mindkét oldalon",
+              "src": "machine",
+              "h": "1ea640ebc646"
+            },
+            "showHelp": {
+              "t": "A Súgó és az első futási tipp megjelenítése",
+              "src": "machine",
+              "h": "20378e243404"
+            },
+            "startLabel": {
+              "t": "Első oldalsó címke (nem kötelező)",
+              "src": "machine",
+              "h": "45fff0334b3d"
+            },
+            "endLabel": {
+              "t": "Második oldalsó címke (nem kötelező)",
+              "src": "machine",
+              "h": "124964735b68"
+            },
+            "labelsHint": {
+              "t": "Hagyja üresen a címkéket a bal / jobb vagy a felső / alsó listában automatikusan.",
+              "src": "machine",
+              "h": "14a7b2e1b2c8"
+            },
+            "availabilityHint": {
+              "t": "Válassza ki, mely térkép rétegek felhasználók összehasonlítani. A térkép által rejtett rétegek listája beállítások itt maradnak elrejtve.",
+              "src": "machine",
+              "h": "e6bf18f1050d"
+            },
+            "defaultSection": {
+              "t": "Alapértelmezett választás (nem kötelező)",
+              "src": "machine",
+              "h": "962a4ac8a554"
+            },
+            "defaultsHint": {
+              "t": "Válassza ki a kiindulási rétegeket mindkét oldalon. Az összehasonlítás addig marad le, amíg a felhasználó kiválasztja az összehasonlítást.",
+              "src": "machine",
+              "h": "fe24b4c4f53b"
+            },
+            "previewMap": {
+              "t": "Csatlakoztassa a 2D Térkép widget, és nyissa meg a térképet az építőipari választani a rendelkezésre álló rétegek és alapértelmezések.",
+              "src": "machine",
+              "h": "293ef17d7eea"
+            },
+            "telemetrySection": {
+              "t": "A telemetria használata",
+              "src": "machine",
+              "h": "7f16d779903e"
+            },
+            "telemetryLabel": {
+              "t": "A megosztott használatú telemetria engedélyezése",
+              "src": "machine",
+              "h": "1a529818313f"
+            },
+            "telemetryHint": {
+              "t": "Ugyanazt a megosztott telemetriai modult használja, mint a többi egyedi widget. Nem küldünk eseményeket, hacsak a szervezet nem állított be egy telemetriai célt.",
+              "src": "machine",
+              "h": "7b88cf61d3ad"
+            },
+            "settingLoadError": {
+              "t": "A térképrétegeket nem lehetett leolvasni. Nyissa meg a térképet az építőiparban, és próbálja újra rétegek.",
+              "src": "machine",
+              "h": "754e025f20f1"
             }
           }
         },
         "id": {
-          "file": "d875f0e3ce9c",
+          "file": "caafc80f3383",
           "counts": {
             "esri": 4,
             "esri-check": 0,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 11,
+            "machine": 27,
             "stale": 0,
-            "missing": 16
+            "missing": 0
           },
           "entries": {
             "direction": {
@@ -15413,20 +16453,100 @@
               "t": "undo-type",
               "src": "machine",
               "h": "6bfaa4178b12"
+            },
+            "optionsSection": {
+              "t": "Opsi perbandingan",
+              "src": "machine",
+              "h": "07b545068b92"
+            },
+            "startPosition": {
+              "t": "Posisi pemecah awal (%)",
+              "src": "machine",
+              "h": "1d9ce9a0b350"
+            },
+            "allowContextToggle": {
+              "t": "Memungkinkan pengguna menampilkan lapis peta lain yang tampak",
+              "src": "machine",
+              "h": "d176c1daab5a"
+            },
+            "startContext": {
+              "t": "Pertama tampilkan lapis lain yang tampak di kedua sisi",
+              "src": "machine",
+              "h": "1ea640ebc646"
+            },
+            "showHelp": {
+              "t": "Tampilkan Bantuan dan petunjuk first-run",
+              "src": "machine",
+              "h": "20378e243404"
+            },
+            "startLabel": {
+              "t": "Label sisi pertama (opsional)",
+              "src": "machine",
+              "h": "45fff0334b3d"
+            },
+            "endLabel": {
+              "t": "Label sisi kedua (opsional)",
+              "src": "machine",
+              "h": "124964735b68"
+            },
+            "labelsHint": {
+              "t": "Biarkan label kosong untuk menggunakan Kiri / Kanan atau Atas / Bottom dalam daftar lapis secara otomatis.",
+              "src": "machine",
+              "h": "14a7b2e1b2c8"
+            },
+            "availabilityHint": {
+              "t": "Pilih lapis peta mana yang dapat dibandingkan dengan pengguna. Lapisan tersembunyi oleh peta layerlist pengaturan tetap tersembunyi di sini.",
+              "src": "machine",
+              "h": "e6bf18f1050d"
+            },
+            "defaultSection": {
+              "t": "Pilihan baku (opsional)",
+              "src": "machine",
+              "h": "962a4ac8a554"
+            },
+            "defaultsHint": {
+              "t": "Pilih lapisan awal untuk setiap sisi. Perbandingan tetap off sampai pengguna memilih perbandingan Mulai.",
+              "src": "machine",
+              "h": "fe24b4c4f53b"
+            },
+            "previewMap": {
+              "t": "Hubungkan sebuah widget 2D Map dan buka peta dalam pembangun untuk memilih lapisan yang tersedia dan baku.",
+              "src": "machine",
+              "h": "293ef17d7eea"
+            },
+            "telemetrySection": {
+              "t": "Penggunaan telemetri",
+              "src": "machine",
+              "h": "7f16d779903e"
+            },
+            "telemetryLabel": {
+              "t": "Aktifkan telemetri penggunaan bersama",
+              "src": "machine",
+              "h": "1a529818313f"
+            },
+            "telemetryHint": {
+              "t": "Menggunakan modul telemetri bersama yang sama dengan widget gubahan lain. Tidak ada peristiwa yang dikirim kecuali organisasi ini telah dikonfigurasi tujuan telemetri.",
+              "src": "machine",
+              "h": "7b88cf61d3ad"
+            },
+            "settingLoadError": {
+              "t": "Lapisan peta tidak dapat dibaca. Buka peta di pembangun dan coba lapisan Refresh.",
+              "src": "machine",
+              "h": "754e025f20f1"
             }
           }
         },
         "it": {
-          "file": "5bcc6425a5e7",
+          "file": "dfe420364755",
           "counts": {
             "esri": 3,
             "esri-check": 1,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 11,
+            "machine": 27,
             "stale": 0,
-            "missing": 16
+            "missing": 0
           },
           "entries": {
             "direction": {
@@ -15483,20 +16603,100 @@
               "t": "Livello di confronto",
               "src": "machine",
               "h": "6bfaa4178b12"
+            },
+            "optionsSection": {
+              "t": "Opzioni di confronto",
+              "src": "machine",
+              "h": "07b545068b92"
+            },
+            "startPosition": {
+              "t": "Posizione iniziale del divisorio (%)",
+              "src": "machine",
+              "h": "1d9ce9a0b350"
+            },
+            "allowContextToggle": {
+              "t": "Permettere agli utenti di mostrare altri livelli di mappa visibile",
+              "src": "machine",
+              "h": "d176c1daab5a"
+            },
+            "startContext": {
+              "t": "Inizialmente mostrare altri strati visibili su entrambi i lati",
+              "src": "machine",
+              "h": "1ea640ebc646"
+            },
+            "showHelp": {
+              "t": "Mostra aiuto e il suggerimento di prima corsa",
+              "src": "machine",
+              "h": "20378e243404"
+            },
+            "startLabel": {
+              "t": "Prima etichetta laterale (opzionale)",
+              "src": "machine",
+              "h": "45fff0334b3d"
+            },
+            "endLabel": {
+              "t": "Etichetta secondaria (opzionale)",
+              "src": "machine",
+              "h": "124964735b68"
+            },
+            "labelsHint": {
+              "t": "Lasciare le etichette vuote per usare Sinistra / Destra o Superiore / In basso nell'elenco dei livelli automaticamente.",
+              "src": "machine",
+              "h": "14a7b2e1b2c8"
+            },
+            "availabilityHint": {
+              "t": "Scegli quale mappa gli utenti possono confrontare. I livelli nascosti dalle impostazioni della lista di strati della mappa rimangono nascosti qui.",
+              "src": "machine",
+              "h": "e6bf18f1050d"
+            },
+            "defaultSection": {
+              "t": "Selezioni di default (opzionale)",
+              "src": "machine",
+              "h": "962a4ac8a554"
+            },
+            "defaultsHint": {
+              "t": "Scegli qualsiasi livello di partenza per ogni lato. Il confronto rimane spento fino a quando l'utente seleziona il confronto Start.",
+              "src": "machine",
+              "h": "fe24b4c4f53b"
+            },
+            "previewMap": {
+              "t": "Collegare un widget 2D Map e aprire quella mappa nel costruttore per scegliere strati e default disponibili.",
+              "src": "machine",
+              "h": "293ef17d7eea"
+            },
+            "telemetrySection": {
+              "t": "Telemetria di utilizzo",
+              "src": "machine",
+              "h": "7f16d779903e"
+            },
+            "telemetryLabel": {
+              "t": "Abilitare la telemetria di utilizzo condivisa",
+              "src": "machine",
+              "h": "1a529818313f"
+            },
+            "telemetryHint": {
+              "t": "Utilizza lo stesso modulo di telemetria condiviso come gli altri widget personalizzati. Nessun evento viene inviato a meno che questa organizzazione non abbia configurato una destinazione di telemetria.",
+              "src": "machine",
+              "h": "7b88cf61d3ad"
+            },
+            "settingLoadError": {
+              "t": "Gli strati della mappa non potevano essere letti. Aprire la mappa nel costruttore e provare strati Refresh.",
+              "src": "machine",
+              "h": "754e025f20f1"
             }
           }
         },
         "ja": {
-          "file": "a3c5e542e589",
+          "file": "e5e5d5af4635",
           "counts": {
             "esri": 4,
             "esri-check": 0,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 11,
+            "machine": 27,
             "stale": 0,
-            "missing": 16
+            "missing": 0
           },
           "entries": {
             "direction": {
@@ -15553,20 +16753,100 @@
               "t": "層の比較",
               "src": "machine",
               "h": "6bfaa4178b12"
+            },
+            "optionsSection": {
+              "t": "比較オプション",
+              "src": "machine",
+              "h": "07b545068b92"
+            },
+            "startPosition": {
+              "t": "初期ディバイダーの位置 (%)",
+              "src": "machine",
+              "h": "1d9ce9a0b350"
+            },
+            "allowContextToggle": {
+              "t": "他の地図層を表示できるように",
+              "src": "machine",
+              "h": "d176c1daab5a"
+            },
+            "startContext": {
+              "t": "両側の他の可視層を最初に表示して下さい",
+              "src": "machine",
+              "h": "1ea640ebc646"
+            },
+            "showHelp": {
+              "t": "Help と first-run ヒントを表示",
+              "src": "machine",
+              "h": "20378e243404"
+            },
+            "startLabel": {
+              "t": "最初の側面のラベル(任意)",
+              "src": "machine",
+              "h": "45fff0334b3d"
+            },
+            "endLabel": {
+              "t": "第2側面のラベル(任意)",
+              "src": "machine",
+              "h": "124964735b68"
+            },
+            "labelsHint": {
+              "t": "ラベルを空にしてレイヤーリストの左/右/上/下を自動で使用してください。",
+              "src": "machine",
+              "h": "14a7b2e1b2c8"
+            },
+            "availabilityHint": {
+              "t": "どのマップ層のユーザーが比較できるかを選択します。 地図レイヤーリストの設定で隠されているレイヤーはここに隠されています。",
+              "src": "machine",
+              "h": "e6bf18f1050d"
+            },
+            "defaultSection": {
+              "t": "デフォルト選択(オプション)",
+              "src": "machine",
+              "h": "962a4ac8a554"
+            },
+            "defaultsHint": {
+              "t": "各側面の開始層を選んで下さい。 比較は、ユーザーがStartの比較を選択するまでオフにとどまります。",
+              "src": "machine",
+              "h": "fe24b4c4f53b"
+            },
+            "previewMap": {
+              "t": "2Dマップウィジェットを接続し、そのマップをビルダーで開くと、利用可能なレイヤーとデフォルトを選択します。",
+              "src": "machine",
+              "h": "293ef17d7eea"
+            },
+            "telemetrySection": {
+              "t": "使用法 テレメトリー",
+              "src": "machine",
+              "h": "7f16d779903e"
+            },
+            "telemetryLabel": {
+              "t": "共有使用テレメトリーを有効にする",
+              "src": "machine",
+              "h": "1a529818313f"
+            },
+            "telemetryHint": {
+              "t": "他のカスタムウィジェットと同じ共有テレメトリーモジュールを使用します。 この組織がテレメトリーの宛先を設定している場合を除き、イベントは送信されません。",
+              "src": "machine",
+              "h": "7b88cf61d3ad"
+            },
+            "settingLoadError": {
+              "t": "地図レイヤーは読み込めない。 ビルダーのマップを開き、レイヤーをリフレッシュしてみてください。",
+              "src": "machine",
+              "h": "754e025f20f1"
             }
           }
         },
         "ko": {
-          "file": "bd047138e3ed",
+          "file": "d1dcafd0cad5",
           "counts": {
             "esri": 4,
             "esri-check": 0,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 11,
+            "machine": 27,
             "stale": 0,
-            "missing": 16
+            "missing": 0
           },
           "entries": {
             "direction": {
@@ -15623,20 +16903,100 @@
               "t": "Layer 비교",
               "src": "machine",
               "h": "6bfaa4178b12"
+            },
+            "optionsSection": {
+              "t": "비교 옵션",
+              "src": "machine",
+              "h": "07b545068b92"
+            },
+            "startPosition": {
+              "t": "초기 분배자 위치 (%)",
+              "src": "machine",
+              "h": "1d9ce9a0b350"
+            },
+            "allowContextToggle": {
+              "t": "다른 눈에 보이는 맵 레이어를 표시 할 수있는 사용자",
+              "src": "machine",
+              "h": "d176c1daab5a"
+            },
+            "startContext": {
+              "t": "처음에는 양측에 다른 눈에 보이는 층을 보여줍니다",
+              "src": "machine",
+              "h": "1ea640ebc646"
+            },
+            "showHelp": {
+              "t": "도움말 및 첫 번째 실행 힌트보기",
+              "src": "machine",
+              "h": "20378e243404"
+            },
+            "startLabel": {
+              "t": "(선택) 첫번째 옆 상표",
+              "src": "machine",
+              "h": "45fff0334b3d"
+            },
+            "endLabel": {
+              "t": "(선택) 두번째 옆 상표",
+              "src": "machine",
+              "h": "124964735b68"
+            },
+            "labelsHint": {
+              "t": "라벨을 왼쪽 / 오른쪽 또는 상단 / 하단 레이어 목록에서 자동으로 사용하십시오.",
+              "src": "machine",
+              "h": "14a7b2e1b2c8"
+            },
+            "availabilityHint": {
+              "t": "어떤 맵 레이어를 선택하여 비교할 수 있습니다. 지도 레이어 목록 설정에 의해 숨겨지은 레이어 여기에 숨겨.",
+              "src": "machine",
+              "h": "e6bf18f1050d"
+            },
+            "defaultSection": {
+              "t": "기본 선택 (선택 사항)",
+              "src": "machine",
+              "h": "962a4ac8a554"
+            },
+            "defaultsHint": {
+              "t": "각 측을 위한 어떤 시작 층든지 선택하십시오. 비교는 사용자가 시작 비교를 선택할 때까지 유지.",
+              "src": "machine",
+              "h": "fe24b4c4f53b"
+            },
+            "previewMap": {
+              "t": "2D Map 위젯을 연결하고 가능한 레이어와 기본값을 선택할 수있는 빌더의지도를 엽니 다.",
+              "src": "machine",
+              "h": "293ef17d7eea"
+            },
+            "telemetrySection": {
+              "t": "사용법 telemetry",
+              "src": "machine",
+              "h": "7f16d779903e"
+            },
+            "telemetryLabel": {
+              "t": "공유 사용 telemetry 활성화",
+              "src": "machine",
+              "h": "1a529818313f"
+            },
+            "telemetryHint": {
+              "t": "같은 공유 telemetry 모듈을 다른 사용자 정의 위젯으로 사용합니다. 이 조직이 원격 측정 대상을 구성하지 않는 한 이벤트가 전송되지 않습니다.",
+              "src": "machine",
+              "h": "7b88cf61d3ad"
+            },
+            "settingLoadError": {
+              "t": "지도 층은 읽을 수 없습니다. 건축업자에 지도를 열고 새로 고침 층을 시도하십시오.",
+              "src": "machine",
+              "h": "754e025f20f1"
             }
           }
         },
         "lt": {
-          "file": "8384d5defc08",
+          "file": "7bc7fa5e31b7",
           "counts": {
             "esri": 4,
             "esri-check": 0,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 11,
+            "machine": 27,
             "stale": 0,
-            "missing": 16
+            "missing": 0
           },
           "entries": {
             "direction": {
@@ -15693,20 +17053,100 @@
               "t": "Lygmuo",
               "src": "machine",
               "h": "6bfaa4178b12"
+            },
+            "optionsSection": {
+              "t": "Palyginimo galimybės",
+              "src": "machine",
+              "h": "07b545068b92"
+            },
+            "startPosition": {
+              "t": "Pradinė daliklio padėtis (%)",
+              "src": "machine",
+              "h": "1d9ce9a0b350"
+            },
+            "allowContextToggle": {
+              "t": "Leisti naudotojams rodyti kitus matomus žemėlapio sluoksnius",
+              "src": "machine",
+              "h": "d176c1daab5a"
+            },
+            "startContext": {
+              "t": "Iš pradžių parodyti kitus matomus sluoksnius iš abiejų pusių",
+              "src": "machine",
+              "h": "1ea640ebc646"
+            },
+            "showHelp": {
+              "t": "Rodyti žinyną ir pirmą kartą paleistą užuominą",
+              "src": "machine",
+              "h": "20378e243404"
+            },
+            "startLabel": {
+              "t": "Pirmoji šoninė etiketė (neprivaloma)",
+              "src": "machine",
+              "h": "45fff0334b3d"
+            },
+            "endLabel": {
+              "t": "Antroji šoninė etiketė (neprivaloma)",
+              "src": "machine",
+              "h": "124964735b68"
+            },
+            "labelsHint": {
+              "t": "Palikite etiketes tuščias naudoti Kairėje / dešinėje arba viršutinėje / apatinėje sluoksnių sąraše automatiškai.",
+              "src": "machine",
+              "h": "14a7b2e1b2c8"
+            },
+            "availabilityHint": {
+              "t": "Pasirinkite, kuriuos žemėlapio sluoksnius vartotojai gali palyginti. Sklypai paslėptas žemėlapio layer-sąrašas nustatymus likti paslėptas čia.",
+              "src": "machine",
+              "h": "e6bf18f1050d"
+            },
+            "defaultSection": {
+              "t": "Numatytieji pasirinkimai (pasirinktinai)",
+              "src": "machine",
+              "h": "962a4ac8a554"
+            },
+            "defaultsHint": {
+              "t": "Pasirinkite visus pradinius sluoksnius kiekvienai pusei. Palyginimas vyksta tol, kol vartotojas pasirenka pradėti palyginimą.",
+              "src": "machine",
+              "h": "fe24b4c4f53b"
+            },
+            "previewMap": {
+              "t": "Prijunkite 2D Žemėlapis valdikliui ir atidarykite tą žemėlapį statybininkas pasirinkti turimus sluoksnius ir įsipareigojimų neįvykdymo.",
+              "src": "machine",
+              "h": "293ef17d7eea"
+            },
+            "telemetrySection": {
+              "t": "Naudojimo telemetrija",
+              "src": "machine",
+              "h": "7f16d779903e"
+            },
+            "telemetryLabel": {
+              "t": "Įjungti bendro naudojimo telemetriją",
+              "src": "machine",
+              "h": "1a529818313f"
+            },
+            "telemetryHint": {
+              "t": "Naudoja tą patį bendrą telemetrijos modulį kaip ir kiti pasirinktiniai raštai. Renginiai nesiunčiami, jei ši organizacija nėra sukonfigūravusi telemetrijos paskirties.",
+              "src": "machine",
+              "h": "7b88cf61d3ad"
+            },
+            "settingLoadError": {
+              "t": "Nepavyko perskaityti žemėlapio sluoksnių. Atidarykite žemėlapį statybininkas ir pabandykite atnaujinti sluoksnius.",
+              "src": "machine",
+              "h": "754e025f20f1"
             }
           }
         },
         "lv": {
-          "file": "b0fa08458ded",
+          "file": "e9f8ba48df6d",
           "counts": {
             "esri": 4,
             "esri-check": 0,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 11,
+            "machine": 27,
             "stale": 0,
-            "missing": 16
+            "missing": 0
           },
           "entries": {
             "direction": {
@@ -15763,20 +17203,100 @@
               "t": "Slānis Salīdzināt",
               "src": "machine",
               "h": "6bfaa4178b12"
+            },
+            "optionsSection": {
+              "t": "Salīdzināšanas iespējas",
+              "src": "machine",
+              "h": "07b545068b92"
+            },
+            "startPosition": {
+              "t": "Sākotnējā dalītāja pozīcija (%)",
+              "src": "machine",
+              "h": "1d9ce9a0b350"
+            },
+            "allowContextToggle": {
+              "t": "Atļaut lietotājiem parādīt citus redzamos kartes slāņus",
+              "src": "machine",
+              "h": "d176c1daab5a"
+            },
+            "startContext": {
+              "t": "Sākotnēji parādīt citus redzamus slāņus abās pusēs",
+              "src": "machine",
+              "h": "1ea640ebc646"
+            },
+            "showHelp": {
+              "t": "Rādīt palīdzību un pirmās kārtas padomu",
+              "src": "machine",
+              "h": "20378e243404"
+            },
+            "startLabel": {
+              "t": "Pirmās puses marķējums (nav obligāti)",
+              "src": "machine",
+              "h": "45fff0334b3d"
+            },
+            "endLabel": {
+              "t": "Otrā sāna marķējums (nav obligāti)",
+              "src": "machine",
+              "h": "124964735b68"
+            },
+            "labelsHint": {
+              "t": "Atstājiet etiķetes tukšas, lai automātiski izmantotu kreiso / labo vai augšējo / apakšējo slāni sarakstā.",
+              "src": "machine",
+              "h": "14a7b2e1b2c8"
+            },
+            "availabilityHint": {
+              "t": "Izvēlieties kurus kartes slāņus lietotāji var salīdzināt. Kartes slāņa saraksta uzstādījumos paslēptie slāņi paliek šeit.",
+              "src": "machine",
+              "h": "e6bf18f1050d"
+            },
+            "defaultSection": {
+              "t": "Noklusētās izvēles (pēc izvēles)",
+              "src": "machine",
+              "h": "962a4ac8a554"
+            },
+            "defaultsHint": {
+              "t": "Izvēlieties sākuma slāņus katrā pusē. Salīdzinājums paliek izslēgts, līdz lietotājs izvēlas Start salīdzinājumu.",
+              "src": "machine",
+              "h": "fe24b4c4f53b"
+            },
+            "previewMap": {
+              "t": "Pievienojiet 2D Map widget un atvērt šo karti celtnieks, lai izvēlētos pieejamos slāņus un noklusējuma.",
+              "src": "machine",
+              "h": "293ef17d7eea"
+            },
+            "telemetrySection": {
+              "t": "Telemetrijas izmantošana",
+              "src": "machine",
+              "h": "7f16d779903e"
+            },
+            "telemetryLabel": {
+              "t": "Ieslēgt koplietošanas telemetriju",
+              "src": "machine",
+              "h": "1a529818313f"
+            },
+            "telemetryHint": {
+              "t": "Izmanto to pašu kopīgotu telemetrijas moduli kā citus pielāgotos sīkrīkus. Neviens notikums netiek nosūtīts, ja šī organizācija nav konfigurējusi telemetrijas galamērķi.",
+              "src": "machine",
+              "h": "7b88cf61d3ad"
+            },
+            "settingLoadError": {
+              "t": "Nevar nolasīt kartes slāņus. Atveriet karti celtājā un mēģiniet Atsvaidzināt slāņus.",
+              "src": "machine",
+              "h": "754e025f20f1"
             }
           }
         },
         "no": {
-          "file": "35b12a3dbc85",
+          "file": "8432dfe37d38",
           "counts": {
             "esri": 4,
             "esri-check": 0,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 11,
+            "machine": 27,
             "stale": 0,
-            "missing": 16
+            "missing": 0
           },
           "entries": {
             "direction": {
@@ -15833,20 +17353,100 @@
               "t": "Lagsammenligning",
               "src": "machine",
               "h": "6bfaa4178b12"
+            },
+            "optionsSection": {
+              "t": "Sammenligningsalternativer",
+              "src": "machine",
+              "h": "07b545068b92"
+            },
+            "startPosition": {
+              "t": "Innledende delerposisjon (%)",
+              "src": "machine",
+              "h": "1d9ce9a0b350"
+            },
+            "allowContextToggle": {
+              "t": "La brukerne vise andre synlige kartlag",
+              "src": "machine",
+              "h": "d176c1daab5a"
+            },
+            "startContext": {
+              "t": "Vis først andre synlige lag på begge sider",
+              "src": "machine",
+              "h": "1ea640ebc646"
+            },
+            "showHelp": {
+              "t": "Vis hjelp og den første kjørende hint",
+              "src": "machine",
+              "h": "20378e243404"
+            },
+            "startLabel": {
+              "t": "Første side etikett (valgfritt)",
+              "src": "machine",
+              "h": "45fff0334b3d"
+            },
+            "endLabel": {
+              "t": "Andre siden etikett (valgfritt)",
+              "src": "machine",
+              "h": "124964735b68"
+            },
+            "labelsHint": {
+              "t": "La etikettene være tomme for å bruke venstre / høyre eller topp / nederst i laglisten automatisk.",
+              "src": "machine",
+              "h": "14a7b2e1b2c8"
+            },
+            "availabilityHint": {
+              "t": "Velg hvilke kartlag brukere kan sammenligne. Lagene skjult av kartlag-liste innstillinger forblir skjult her.",
+              "src": "machine",
+              "h": "e6bf18f1050d"
+            },
+            "defaultSection": {
+              "t": "Standardvalg (valgfritt)",
+              "src": "machine",
+              "h": "962a4ac8a554"
+            },
+            "defaultsHint": {
+              "t": "Velg alle startlag for hver side. Sammenligning holder seg unna til brukeren velger Start sammenligning.",
+              "src": "machine",
+              "h": "fe24b4c4f53b"
+            },
+            "previewMap": {
+              "t": "Koble til en 2D Map widget og åpne kartet i byggmesteren for å velge tilgjengelige lag og standard.",
+              "src": "machine",
+              "h": "293ef17d7eea"
+            },
+            "telemetrySection": {
+              "t": "Bruk telemetri",
+              "src": "machine",
+              "h": "7f16d779903e"
+            },
+            "telemetryLabel": {
+              "t": "Aktiver telemetri for delt bruk",
+              "src": "machine",
+              "h": "1a529818313f"
+            },
+            "telemetryHint": {
+              "t": "Bruker den samme delte telemetrimodulen som de andre egendefinerte widgets. Ingen hendelser sendes med mindre denne organisasjonen har konfigurert et telemetridestinasjonssted.",
+              "src": "machine",
+              "h": "7b88cf61d3ad"
+            },
+            "settingLoadError": {
+              "t": "Kartlag kan ikke leses. Åpne kartet i byggmesteren og prøv Oppdater lag.",
+              "src": "machine",
+              "h": "754e025f20f1"
             }
           }
         },
         "nl": {
-          "file": "1bcfaf636ced",
+          "file": "d0c073adc33d",
           "counts": {
             "esri": 3,
             "esri-check": 1,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 11,
+            "machine": 27,
             "stale": 0,
-            "missing": 16
+            "missing": 0
           },
           "entries": {
             "direction": {
@@ -15903,20 +17503,100 @@
               "t": "Laagvergelijking",
               "src": "machine",
               "h": "6bfaa4178b12"
+            },
+            "optionsSection": {
+              "t": "Vergelijkingsopties",
+              "src": "machine",
+              "h": "07b545068b92"
+            },
+            "startPosition": {
+              "t": "Initiële scheidingspositie (%)",
+              "src": "machine",
+              "h": "1d9ce9a0b350"
+            },
+            "allowContextToggle": {
+              "t": "Gebruikers toestaan andere zichtbare kaartlagen te tonen",
+              "src": "machine",
+              "h": "d176c1daab5a"
+            },
+            "startContext": {
+              "t": "Toon eerst andere zichtbare lagen aan beide zijden",
+              "src": "machine",
+              "h": "1ea640ebc646"
+            },
+            "showHelp": {
+              "t": "Hulp en de eerste hint tonen",
+              "src": "machine",
+              "h": "20378e243404"
+            },
+            "startLabel": {
+              "t": "Eerste zijetiket (facultatief)",
+              "src": "machine",
+              "h": "45fff0334b3d"
+            },
+            "endLabel": {
+              "t": "Tweede zijetiket (facultatief)",
+              "src": "machine",
+              "h": "124964735b68"
+            },
+            "labelsHint": {
+              "t": "Laat labels leeg om links/rechts of boven/onder in de laaglijst automatisch te gebruiken.",
+              "src": "machine",
+              "h": "14a7b2e1b2c8"
+            },
+            "availabilityHint": {
+              "t": "Kies welke kaartlagen gebruikers kunnen vergelijken. Lagen verborgen door de instellingen van de kaartlaaglijst blijven hier verborgen.",
+              "src": "machine",
+              "h": "e6bf18f1050d"
+            },
+            "defaultSection": {
+              "t": "Standaard selecties (facultatief)",
+              "src": "machine",
+              "h": "962a4ac8a554"
+            },
+            "defaultsHint": {
+              "t": "Kies elke beginlaag voor elke kant. Vergelijking blijft uit totdat de gebruiker selecteert Start vergelijking.",
+              "src": "machine",
+              "h": "fe24b4c4f53b"
+            },
+            "previewMap": {
+              "t": "Verbind een 2D Kaart widget en open die kaart in de bouwer om de beschikbare lagen en standaardwaarden te kiezen.",
+              "src": "machine",
+              "h": "293ef17d7eea"
+            },
+            "telemetrySection": {
+              "t": "Gebruik telemetrie",
+              "src": "machine",
+              "h": "7f16d779903e"
+            },
+            "telemetryLabel": {
+              "t": "Telemetrie voor gedeeld gebruik inschakelen",
+              "src": "machine",
+              "h": "1a529818313f"
+            },
+            "telemetryHint": {
+              "t": "Gebruikt dezelfde gedeelde telemetriemodule als de andere aangepaste widgets. Er worden geen gebeurtenissen verstuurd tenzij deze organisatie een telemetriebestemming heeft geconfigureerd.",
+              "src": "machine",
+              "h": "7b88cf61d3ad"
+            },
+            "settingLoadError": {
+              "t": "Kaartlagen konden niet worden gelezen. Open de kaart in de bouwer en probeer lagen te vernieuwen.",
+              "src": "machine",
+              "h": "754e025f20f1"
             }
           }
         },
         "pl": {
-          "file": "c9b11bcbb8ab",
+          "file": "701994b24d69",
           "counts": {
             "esri": 4,
             "esri-check": 0,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 11,
+            "machine": 27,
             "stale": 0,
-            "missing": 16
+            "missing": 0
           },
           "entries": {
             "direction": {
@@ -15973,20 +17653,100 @@
               "t": "Porównaj warstwy",
               "src": "machine",
               "h": "6bfaa4178b12"
+            },
+            "optionsSection": {
+              "t": "Opcje porównania",
+              "src": "machine",
+              "h": "07b545068b92"
+            },
+            "startPosition": {
+              "t": "Początkowa pozycja dzielnika (%)",
+              "src": "machine",
+              "h": "1d9ce9a0b350"
+            },
+            "allowContextToggle": {
+              "t": "Umożliwić użytkownikom wyświetlanie innych widocznych warstw mapy",
+              "src": "machine",
+              "h": "d176c1daab5a"
+            },
+            "startContext": {
+              "t": "Początkowo widoczne są inne warstwy po obu stronach",
+              "src": "machine",
+              "h": "1ea640ebc646"
+            },
+            "showHelp": {
+              "t": "Pokaż pomoc i pierwszą podpowiedź",
+              "src": "machine",
+              "h": "20378e243404"
+            },
+            "startLabel": {
+              "t": "Etykieta po pierwszej stronie (opcjonalnie)",
+              "src": "machine",
+              "h": "45fff0334b3d"
+            },
+            "endLabel": {
+              "t": "Etykieta z drugiej strony (opcjonalnie)",
+              "src": "machine",
+              "h": "124964735b68"
+            },
+            "labelsHint": {
+              "t": "Pozostawić etykiety puste, aby używać lewy / prawy lub górny / dolny na liście warstw automatycznie.",
+              "src": "machine",
+              "h": "14a7b2e1b2c8"
+            },
+            "availabilityHint": {
+              "t": "Wybierz, które warstwy mapy użytkownicy mogą porównać. Warstwy ukryte przez ustawienia layer- list mapy pozostają tutaj ukryte.",
+              "src": "machine",
+              "h": "e6bf18f1050d"
+            },
+            "defaultSection": {
+              "t": "Wybór domyślny (opcjonalny)",
+              "src": "machine",
+              "h": "962a4ac8a554"
+            },
+            "defaultsHint": {
+              "t": "Wybierz wszystkie warstwy początkowe dla każdej strony. Porównanie pozostaje wyłączone dopóki użytkownik nie wybierze porównania Start.",
+              "src": "machine",
+              "h": "fe24b4c4f53b"
+            },
+            "previewMap": {
+              "t": "Podłącz widżet mapy 2D i otwórz tę mapę w budowniczym, aby wybrać dostępne warstwy i domyślnie.",
+              "src": "machine",
+              "h": "293ef17d7eea"
+            },
+            "telemetrySection": {
+              "t": "Telemetria użytkowa",
+              "src": "machine",
+              "h": "7f16d779903e"
+            },
+            "telemetryLabel": {
+              "t": "Włącz telemetrię współdzielonego użytkowania",
+              "src": "machine",
+              "h": "1a529818313f"
+            },
+            "telemetryHint": {
+              "t": "Używa tego samego wspólnego modułu telemetrii, co inne niestandardowe widżety. Nie wysyła się żadnych zdarzeń, chyba że ta organizacja skonfigurowała cel telemetrii.",
+              "src": "machine",
+              "h": "7b88cf61d3ad"
+            },
+            "settingLoadError": {
+              "t": "Warstwy mapy nie mogły być odczytywane. Otwórz mapę w budowniczym i spróbuj Refresh warstw.",
+              "src": "machine",
+              "h": "754e025f20f1"
             }
           }
         },
         "pt-br": {
-          "file": "239e524c80a4",
+          "file": "45238e389823",
           "counts": {
             "esri": 4,
             "esri-check": 0,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 11,
+            "machine": 27,
             "stale": 0,
-            "missing": 16
+            "missing": 0
           },
           "entries": {
             "direction": {
@@ -16043,20 +17803,100 @@
               "t": "Layer Compare",
               "src": "machine",
               "h": "6bfaa4178b12"
+            },
+            "optionsSection": {
+              "t": "Opções de comparação",
+              "src": "machine",
+              "h": "07b545068b92"
+            },
+            "startPosition": {
+              "t": "Posição inicial do divisor (%)",
+              "src": "machine",
+              "h": "1d9ce9a0b350"
+            },
+            "allowContextToggle": {
+              "t": "Permita que os usuários mostrem outras camadas visíveis do mapa.",
+              "src": "machine",
+              "h": "d176c1daab5a"
+            },
+            "startContext": {
+              "t": "Inicialmente mostrar outras camadas visíveis em ambos os lados",
+              "src": "machine",
+              "h": "1ea640ebc646"
+            },
+            "showHelp": {
+              "t": "Mostre ajuda e a dica de primeira corrida.",
+              "src": "machine",
+              "h": "20378e243404"
+            },
+            "startLabel": {
+              "t": "Primeiro rótulo lateral (opcional)",
+              "src": "machine",
+              "h": "45fff0334b3d"
+            },
+            "endLabel": {
+              "t": "Segunda etiqueta lateral (opcional)",
+              "src": "machine",
+              "h": "124964735b68"
+            },
+            "labelsHint": {
+              "t": "Deixe as etiquetas vazias para usar a esquerda / direita ou superior / inferior na lista de camadas automaticamente.",
+              "src": "machine",
+              "h": "14a7b2e1b2c8"
+            },
+            "availabilityHint": {
+              "t": "Escolha quais camadas de mapa os usuários podem comparar. Camadas escondidas pelas configurações da lista de mapas ficam escondidas aqui.",
+              "src": "machine",
+              "h": "e6bf18f1050d"
+            },
+            "defaultSection": {
+              "t": "Seleções padrão (opcional)",
+              "src": "machine",
+              "h": "962a4ac8a554"
+            },
+            "defaultsHint": {
+              "t": "Escolha qualquer camada inicial para cada lado. A comparação fica desligada até que o usuário selecione começar a comparação.",
+              "src": "machine",
+              "h": "fe24b4c4f53b"
+            },
+            "previewMap": {
+              "t": "Conecte um widget de mapas 2D e abra o mapa no construtor para escolher camadas disponíveis e padrões.",
+              "src": "machine",
+              "h": "293ef17d7eea"
+            },
+            "telemetrySection": {
+              "t": "Telemetria de uso",
+              "src": "machine",
+              "h": "7f16d779903e"
+            },
+            "telemetryLabel": {
+              "t": "Active a telemetria de uso compartilhado.",
+              "src": "machine",
+              "h": "1a529818313f"
+            },
+            "telemetryHint": {
+              "t": "Usa o mesmo módulo de telemetria que os outros widgets personalizados. Nenhum evento é enviado a menos que esta organização tenha configurado um destino de telemetria.",
+              "src": "machine",
+              "h": "7b88cf61d3ad"
+            },
+            "settingLoadError": {
+              "t": "Camadas de mapas não podiam ser lidas. Abra o mapa no construtor e tente Atualizar camadas.",
+              "src": "machine",
+              "h": "754e025f20f1"
             }
           }
         },
         "pt-pt": {
-          "file": "259b1e12a79a",
+          "file": "d5a0f78768db",
           "counts": {
             "esri": 4,
             "esri-check": 0,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 11,
+            "machine": 27,
             "stale": 0,
-            "missing": 16
+            "missing": 0
           },
           "entries": {
             "direction": {
@@ -16113,20 +17953,100 @@
               "t": "Camada Comparar",
               "src": "machine",
               "h": "6bfaa4178b12"
+            },
+            "optionsSection": {
+              "t": "Opções de comparação",
+              "src": "machine",
+              "h": "07b545068b92"
+            },
+            "startPosition": {
+              "t": "Posição inicial do separador (%)",
+              "src": "machine",
+              "h": "1d9ce9a0b350"
+            },
+            "allowContextToggle": {
+              "t": "Permitir que os usuários mostrem outras camadas visíveis do mapa",
+              "src": "machine",
+              "h": "d176c1daab5a"
+            },
+            "startContext": {
+              "t": "Mostra inicialmente outras camadas visíveis em ambos os lados",
+              "src": "machine",
+              "h": "1ea640ebc646"
+            },
+            "showHelp": {
+              "t": "Mostrar a Ajuda e a dica de primeira execução",
+              "src": "machine",
+              "h": "20378e243404"
+            },
+            "startLabel": {
+              "t": "Primeira etiqueta lateral (opcional)",
+              "src": "machine",
+              "h": "45fff0334b3d"
+            },
+            "endLabel": {
+              "t": "Segunda etiqueta lateral (opcional)",
+              "src": "machine",
+              "h": "124964735b68"
+            },
+            "labelsHint": {
+              "t": "Deixe as etiquetas vazias para usar a esquerda / direita ou superior / inferior na lista de camadas automaticamente.",
+              "src": "machine",
+              "h": "14a7b2e1b2c8"
+            },
+            "availabilityHint": {
+              "t": "Escolha quais camadas de mapa os usuários podem comparar. Camadas escondidas pelas configurações da lista de camadas do mapa permanecem escondidas aqui.",
+              "src": "machine",
+              "h": "e6bf18f1050d"
+            },
+            "defaultSection": {
+              "t": "Seleções padrão (opcional)",
+              "src": "machine",
+              "h": "962a4ac8a554"
+            },
+            "defaultsHint": {
+              "t": "Escolha quaisquer camadas iniciais para cada lado. A comparação fica desligada até que o usuário selecione Iniciar a comparação.",
+              "src": "machine",
+              "h": "fe24b4c4f53b"
+            },
+            "previewMap": {
+              "t": "Conecte um widget de Mapa 2D e abra esse mapa no construtor para escolher camadas disponíveis e padrões.",
+              "src": "machine",
+              "h": "293ef17d7eea"
+            },
+            "telemetrySection": {
+              "t": "Telemetria de uso",
+              "src": "machine",
+              "h": "7f16d779903e"
+            },
+            "telemetryLabel": {
+              "t": "Activar a telemetria de utilização partilhada",
+              "src": "machine",
+              "h": "1a529818313f"
+            },
+            "telemetryHint": {
+              "t": "Usa o mesmo módulo de telemetria compartilhado que os outros widgets personalizados. Nenhum evento é enviado a menos que esta organização tenha configurado um destino de telemetria.",
+              "src": "machine",
+              "h": "7b88cf61d3ad"
+            },
+            "settingLoadError": {
+              "t": "Não foi possível ler as camadas do mapa. Abra o mapa no construtor e tente Atualizar camadas.",
+              "src": "machine",
+              "h": "754e025f20f1"
             }
           }
         },
         "ro": {
-          "file": "f51605fcc3d8",
+          "file": "229fe28f78d6",
           "counts": {
             "esri": 4,
             "esri-check": 0,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 11,
+            "machine": 27,
             "stale": 0,
-            "missing": 16
+            "missing": 0
           },
           "entries": {
             "direction": {
@@ -16183,20 +18103,100 @@
               "t": "Comparare plan",
               "src": "machine",
               "h": "6bfaa4178b12"
+            },
+            "optionsSection": {
+              "t": "Opțiuni de comparație",
+              "src": "machine",
+              "h": "07b545068b92"
+            },
+            "startPosition": {
+              "t": "Poziția inițială a separatorului (%)",
+              "src": "machine",
+              "h": "1d9ce9a0b350"
+            },
+            "allowContextToggle": {
+              "t": "Permite utilizatorilor să arate alte straturi vizibile ale hărții",
+              "src": "machine",
+              "h": "d176c1daab5a"
+            },
+            "startContext": {
+              "t": "Afișează inițial alte straturi vizibile pe ambele fețe",
+              "src": "machine",
+              "h": "1ea640ebc646"
+            },
+            "showHelp": {
+              "t": "Arată ajutor și primul indiciu alerga",
+              "src": "machine",
+              "h": "20378e243404"
+            },
+            "startLabel": {
+              "t": "Prima etichetă laterală (opțional)",
+              "src": "machine",
+              "h": "45fff0334b3d"
+            },
+            "endLabel": {
+              "t": "A doua etichetă laterală (opțional)",
+              "src": "machine",
+              "h": "124964735b68"
+            },
+            "labelsHint": {
+              "t": "Lăsați etichetele goale pentru a utiliza stânga / dreapta sau sus / jos în lista de straturi automat.",
+              "src": "machine",
+              "h": "14a7b2e1b2c8"
+            },
+            "availabilityHint": {
+              "t": "Alegeți care hartă straturi utilizatorii pot compara. Straturile ascunse de setările de pe hartă rămân ascunse aici.",
+              "src": "machine",
+              "h": "e6bf18f1050d"
+            },
+            "defaultSection": {
+              "t": "Selecții implicite (opțional)",
+              "src": "machine",
+              "h": "962a4ac8a554"
+            },
+            "defaultsHint": {
+              "t": "Alegeți orice straturi de pornire pentru fiecare parte. Comparaţia rămâne închisă până când utilizatorul selectează comparaţia Start.",
+              "src": "machine",
+              "h": "fe24b4c4f53b"
+            },
+            "previewMap": {
+              "t": "Conectați un widget Harta 2D și deschideți harta în constructor pentru a alege straturi disponibile și implicite.",
+              "src": "machine",
+              "h": "293ef17d7eea"
+            },
+            "telemetrySection": {
+              "t": "Utilizarea telemetriei",
+              "src": "machine",
+              "h": "7f16d779903e"
+            },
+            "telemetryLabel": {
+              "t": "Activează telemetria de utilizare comună",
+              "src": "machine",
+              "h": "1a529818313f"
+            },
+            "telemetryHint": {
+              "t": "Folosește același modul de telemetrie comun ca și celelalte widget-uri personalizate. Nu sunt trimise evenimente cu excepția cazului în care această organizație a configurat o destinație telemetrie.",
+              "src": "machine",
+              "h": "7b88cf61d3ad"
+            },
+            "settingLoadError": {
+              "t": "Straturile hărții nu au putut fi citite. Deschideți harta în constructor și încercați straturi Refresh.",
+              "src": "machine",
+              "h": "754e025f20f1"
             }
           }
         },
         "ru": {
-          "file": "c87ae8e15f1a",
+          "file": "3f4d89cf4049",
           "counts": {
             "esri": 4,
             "esri-check": 0,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 11,
+            "machine": 27,
             "stale": 0,
-            "missing": 16
+            "missing": 0
           },
           "entries": {
             "direction": {
@@ -16253,20 +18253,100 @@
               "t": "Сравнение слоев",
               "src": "machine",
               "h": "6bfaa4178b12"
+            },
+            "optionsSection": {
+              "t": "Варианты сопоставления",
+              "src": "machine",
+              "h": "07b545068b92"
+            },
+            "startPosition": {
+              "t": "Начальное положение делителя (%)",
+              "src": "machine",
+              "h": "1d9ce9a0b350"
+            },
+            "allowContextToggle": {
+              "t": "Позволяет пользователям показывать другие видимые слои карты",
+              "src": "machine",
+              "h": "d176c1daab5a"
+            },
+            "startContext": {
+              "t": "Первоначально показывают другие видимые слои с обеих сторон.",
+              "src": "machine",
+              "h": "1ea640ebc646"
+            },
+            "showHelp": {
+              "t": "Показать помощь и первый намек",
+              "src": "machine",
+              "h": "20378e243404"
+            },
+            "startLabel": {
+              "t": "Первая боковая этикетка (необязательно)",
+              "src": "machine",
+              "h": "45fff0334b3d"
+            },
+            "endLabel": {
+              "t": "Вторая сторона этикетки (необязательно)",
+              "src": "machine",
+              "h": "124964735b68"
+            },
+            "labelsHint": {
+              "t": "Оставьте ярлыки пустыми, чтобы использовать Левый / Правый или Верхний / Нижний в списке слоев автоматически.",
+              "src": "machine",
+              "h": "14a7b2e1b2c8"
+            },
+            "availabilityHint": {
+              "t": "Выберите, какие слои карты пользователи могут сравнить. Слои, скрытые настройками списка слоев карты, остаются скрытыми здесь.",
+              "src": "machine",
+              "h": "e6bf18f1050d"
+            },
+            "defaultSection": {
+              "t": "Выбор по умолчанию (необязательно)",
+              "src": "machine",
+              "h": "962a4ac8a554"
+            },
+            "defaultsHint": {
+              "t": "Выберите начальные уровни для каждой стороны. Сравнение продолжается до тех пор, пока пользователь не выберет Сравнение.",
+              "src": "machine",
+              "h": "fe24b4c4f53b"
+            },
+            "previewMap": {
+              "t": "Подключите виджет 2D-карты и откройте эту карту в конструкторе, чтобы выбрать доступные слои и по умолчанию.",
+              "src": "machine",
+              "h": "293ef17d7eea"
+            },
+            "telemetrySection": {
+              "t": "Использование телеметрии",
+              "src": "machine",
+              "h": "7f16d779903e"
+            },
+            "telemetryLabel": {
+              "t": "Обеспечить совместное использование телеметрии",
+              "src": "machine",
+              "h": "1a529818313f"
+            },
+            "telemetryHint": {
+              "t": "Использует тот же модуль общей телеметрии, что и другие пользовательские виджеты. Никакие события не отправляются, если эта организация не настроила место назначения телеметрии.",
+              "src": "machine",
+              "h": "7b88cf61d3ad"
+            },
+            "settingLoadError": {
+              "t": "Слои карт не могут быть прочитаны. Откройте карту в конструкторе и попробуйте обновить слои.",
+              "src": "machine",
+              "h": "754e025f20f1"
             }
           }
         },
         "sk": {
-          "file": "14eddf504917",
+          "file": "c9ed1c76590d",
           "counts": {
             "esri": 4,
             "esri-check": 0,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 11,
+            "machine": 27,
             "stale": 0,
-            "missing": 16
+            "missing": 0
           },
           "entries": {
             "direction": {
@@ -16323,20 +18403,100 @@
               "t": "Porovnať vrstvu",
               "src": "machine",
               "h": "6bfaa4178b12"
+            },
+            "optionsSection": {
+              "t": "Možnosti porovnania",
+              "src": "machine",
+              "h": "07b545068b92"
+            },
+            "startPosition": {
+              "t": "Počiatočná poloha deliča (%)",
+              "src": "machine",
+              "h": "1d9ce9a0b350"
+            },
+            "allowContextToggle": {
+              "t": "Povoliť používateľom zobraziť ďalšie viditeľné mapové vrstvy",
+              "src": "machine",
+              "h": "d176c1daab5a"
+            },
+            "startContext": {
+              "t": "Spočiatku zobraziť ďalšie viditeľné vrstvy na oboch stranách",
+              "src": "machine",
+              "h": "1ea640ebc646"
+            },
+            "showHelp": {
+              "t": "Zobraziť nápovedu pomoci a prvý pokus",
+              "src": "machine",
+              "h": "20378e243404"
+            },
+            "startLabel": {
+              "t": "Štítok na prvej strane (nepovinné)",
+              "src": "machine",
+              "h": "45fff0334b3d"
+            },
+            "endLabel": {
+              "t": "Druhé bočné označenie (nepovinné)",
+              "src": "machine",
+              "h": "124964735b68"
+            },
+            "labelsHint": {
+              "t": "V zozname vrstiev nechajte etikety prázdne a použite ich vľavo / vpravo alebo hore / dole.",
+              "src": "machine",
+              "h": "14a7b2e1b2c8"
+            },
+            "availabilityHint": {
+              "t": "Vyberte, ktoré mapové vrstvy môžu používatelia porovnať. Vrstvy skryté nastaveniami mapového zoznamu zostávajú skryté tu.",
+              "src": "machine",
+              "h": "e6bf18f1050d"
+            },
+            "defaultSection": {
+              "t": "Štandardné výbery (nepovinné)",
+              "src": "machine",
+              "h": "962a4ac8a554"
+            },
+            "defaultsHint": {
+              "t": "Vyberte všetky počiatočné vrstvy pre každú stranu. Porovnanie zostáva vypnuté, kým užívateľ nevyberie porovnanie Štart.",
+              "src": "machine",
+              "h": "fe24b4c4f53b"
+            },
+            "previewMap": {
+              "t": "Pripojte 2D Mapový widget a otvorte, že mapa v staviteľovi vybrať dostupné vrstvy a predvolené.",
+              "src": "machine",
+              "h": "293ef17d7eea"
+            },
+            "telemetrySection": {
+              "t": "Využitie telemetrie",
+              "src": "machine",
+              "h": "7f16d779903e"
+            },
+            "telemetryLabel": {
+              "t": "Povoliť telemetriu zdieľaného používania",
+              "src": "machine",
+              "h": "1a529818313f"
+            },
+            "telemetryHint": {
+              "t": "Používa rovnaký zdieľaný telemetrický modul ako ostatné vlastné widgety. Žiadne udalosti sa nepošlú, ak táto organizácia nenakonfigurovala cieľ telemetria.",
+              "src": "machine",
+              "h": "7b88cf61d3ad"
+            },
+            "settingLoadError": {
+              "t": "Mapové vrstvy nebolo možné prečítať. Otvorte mapu v staviteľovi a skúste Obnoviť vrstvy.",
+              "src": "machine",
+              "h": "754e025f20f1"
             }
           }
         },
         "sl": {
-          "file": "1cf1b40c39d4",
+          "file": "0fd1ef922db2",
           "counts": {
             "esri": 4,
             "esri-check": 0,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 11,
+            "machine": 27,
             "stale": 0,
-            "missing": 16
+            "missing": 0
           },
           "entries": {
             "direction": {
@@ -16393,6 +18553,86 @@
               "t": "Primerjava plasti",
               "src": "machine",
               "h": "6bfaa4178b12"
+            },
+            "optionsSection": {
+              "t": "Možnosti primerjave",
+              "src": "machine",
+              "h": "07b545068b92"
+            },
+            "startPosition": {
+              "t": "Začetni položaj delilnika (%)",
+              "src": "machine",
+              "h": "1d9ce9a0b350"
+            },
+            "allowContextToggle": {
+              "t": "Dovoli uporabnikom, da prikažejo druge vidne plasti zemljevida",
+              "src": "machine",
+              "h": "d176c1daab5a"
+            },
+            "startContext": {
+              "t": "Sprva prikazuje druge vidne plasti na obeh straneh",
+              "src": "machine",
+              "h": "1ea640ebc646"
+            },
+            "showHelp": {
+              "t": "Prikaži pomoč in prvi namig",
+              "src": "machine",
+              "h": "20378e243404"
+            },
+            "startLabel": {
+              "t": "Prva stranska oznaka (neobvezno)",
+              "src": "machine",
+              "h": "45fff0334b3d"
+            },
+            "endLabel": {
+              "t": "Druga stranska oznaka (neobvezno)",
+              "src": "machine",
+              "h": "124964735b68"
+            },
+            "labelsHint": {
+              "t": "Pustite oznake prazne, da samodejno uporabite levo / desno ali zgornjo / spodnjo stran seznama slojev.",
+              "src": "machine",
+              "h": "14a7b2e1b2c8"
+            },
+            "availabilityHint": {
+              "t": "Izberite, katere plasti zemljevida lahko primerjate. Plasti, skrite z nastavitvami seznama plasti zemljevida, ostanejo skrite tukaj.",
+              "src": "machine",
+              "h": "e6bf18f1050d"
+            },
+            "defaultSection": {
+              "t": "Privzete izbire (neobvezno)",
+              "src": "machine",
+              "h": "962a4ac8a554"
+            },
+            "defaultsHint": {
+              "t": "Izberite vse začetne plasti za vsako stran. Primerjava se nadaljuje, dokler uporabnik ne izbere začetne primerjave.",
+              "src": "machine",
+              "h": "fe24b4c4f53b"
+            },
+            "previewMap": {
+              "t": "Povežite gradnik 2D Map in odprite zemljevid v graditelju, da izberete razpoložljive plasti in privzete.",
+              "src": "machine",
+              "h": "293ef17d7eea"
+            },
+            "telemetrySection": {
+              "t": "Telemetrija uporabe",
+              "src": "machine",
+              "h": "7f16d779903e"
+            },
+            "telemetryLabel": {
+              "t": "Omogoči telemetrijo skupne uporabe",
+              "src": "machine",
+              "h": "1a529818313f"
+            },
+            "telemetryHint": {
+              "t": "Uporablja isti modul za skupno telemetrijo kot drugi gradniki po meri. Noben dogodek ni poslan, razen če ta organizacija ni nastavila cilja telemetrije.",
+              "src": "machine",
+              "h": "7b88cf61d3ad"
+            },
+            "settingLoadError": {
+              "t": "Plasti zemljevida niso mogli brati. Odprite zemljevid v graditelju in poskusite Osveži plasti.",
+              "src": "machine",
+              "h": "754e025f20f1"
             }
           }
         },
@@ -16411,16 +18651,16 @@
           "entries": {}
         },
         "sv": {
-          "file": "6dfddd31c81f",
+          "file": "8c20fe982b42",
           "counts": {
             "esri": 4,
             "esri-check": 0,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 11,
+            "machine": 27,
             "stale": 0,
-            "missing": 16
+            "missing": 0
           },
           "entries": {
             "direction": {
@@ -16477,20 +18717,100 @@
               "t": "Layer jämför",
               "src": "machine",
               "h": "6bfaa4178b12"
+            },
+            "optionsSection": {
+              "t": "Jämförelsealternativ",
+              "src": "machine",
+              "h": "07b545068b92"
+            },
+            "startPosition": {
+              "t": "Inledande dividerposition (%)",
+              "src": "machine",
+              "h": "1d9ce9a0b350"
+            },
+            "allowContextToggle": {
+              "t": "Låt användare visa andra synliga kartlager",
+              "src": "machine",
+              "h": "d176c1daab5a"
+            },
+            "startContext": {
+              "t": "Inledningsvis visar andra synliga lager på båda sidor",
+              "src": "machine",
+              "h": "1ea640ebc646"
+            },
+            "showHelp": {
+              "t": "Visa hjälp och den första antydan",
+              "src": "machine",
+              "h": "20378e243404"
+            },
+            "startLabel": {
+              "t": "Första sidan etiketten (valfritt)",
+              "src": "machine",
+              "h": "45fff0334b3d"
+            },
+            "endLabel": {
+              "t": "Andra sidan etiketten (valfritt)",
+              "src": "machine",
+              "h": "124964735b68"
+            },
+            "labelsHint": {
+              "t": "Lämna etiketter tomma för att använda Vänster / Höger eller Top / Bottom i lagerlistan automatiskt.",
+              "src": "machine",
+              "h": "14a7b2e1b2c8"
+            },
+            "availabilityHint": {
+              "t": "Välj vilka kartlager användare kan jämföra. Layers dolda av map lager-list inställningarna förbli dolda här.",
+              "src": "machine",
+              "h": "e6bf18f1050d"
+            },
+            "defaultSection": {
+              "t": "Standardval (valfritt)",
+              "src": "machine",
+              "h": "962a4ac8a554"
+            },
+            "defaultsHint": {
+              "t": "Välj alla startskikt för varje sida. Jämförelse stannar tills användaren väljer Start jämförelse.",
+              "src": "machine",
+              "h": "fe24b4c4f53b"
+            },
+            "previewMap": {
+              "t": "Anslut en 2D Map widget och öppna den kartan i byggaren för att välja tillgängliga lager och standarder.",
+              "src": "machine",
+              "h": "293ef17d7eea"
+            },
+            "telemetrySection": {
+              "t": "Använd telemetri",
+              "src": "machine",
+              "h": "7f16d779903e"
+            },
+            "telemetryLabel": {
+              "t": "Möjliggöra den delade användningen telemetri",
+              "src": "machine",
+              "h": "1a529818313f"
+            },
+            "telemetryHint": {
+              "t": "Använder samma delade telemetrimodul som de andra anpassade widgets. Inga händelser skickas om inte denna organisation har konfigurerat en telemetri destination.",
+              "src": "machine",
+              "h": "7b88cf61d3ad"
+            },
+            "settingLoadError": {
+              "t": "Kartlager kunde inte läsas. Öppna kartan i byggaren och prova rena lager.",
+              "src": "machine",
+              "h": "754e025f20f1"
             }
           }
         },
         "th": {
-          "file": "a19d9a77265a",
+          "file": "4e1dc956894b",
           "counts": {
             "esri": 4,
             "esri-check": 0,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 11,
+            "machine": 27,
             "stale": 0,
-            "missing": 16
+            "missing": 0
           },
           "entries": {
             "direction": {
@@ -16547,20 +18867,100 @@
               "t": "เลเยอร์",
               "src": "machine",
               "h": "6bfaa4178b12"
+            },
+            "optionsSection": {
+              "t": "ตัวเลือกการเปรียบเทียบ",
+              "src": "machine",
+              "h": "07b545068b92"
+            },
+            "startPosition": {
+              "t": "เริ่มตําแหน่งตัวแบ่งส่วน (%)",
+              "src": "machine",
+              "h": "1d9ce9a0b350"
+            },
+            "allowContextToggle": {
+              "t": "อนุญาตให้ผู้ใช้แสดงเลเยอร์บนแผนที่อื่น ๆ",
+              "src": "machine",
+              "h": "d176c1daab5a"
+            },
+            "startContext": {
+              "t": "ตอน แรก แสดง ชั้น อื่น ๆ ที่ มอง เห็น ได้ ทั้ง สอง ด้าน",
+              "src": "machine",
+              "h": "1ea640ebc646"
+            },
+            "showHelp": {
+              "t": "แสดงวิธีใช้และคําใบ้การทํางานครั้งแรก",
+              "src": "machine",
+              "h": "20378e243404"
+            },
+            "startLabel": {
+              "t": "แถบชุดลวดลายStencils",
+              "src": "machine",
+              "h": "45fff0334b3d"
+            },
+            "endLabel": {
+              "t": "แถบกํากับด้านที่สอง",
+              "src": "machine",
+              "h": "124964735b68"
+            },
+            "labelsHint": {
+              "t": "ปล่อยป้ายว่างไว้ใช้ทั้งด้านซ้ายและขวา/ ล่าง ในรายการเลเยอร์โดยอัตโนมัติ",
+              "src": "machine",
+              "h": "14a7b2e1b2c8"
+            },
+            "availabilityHint": {
+              "t": "เลือกว่าจะให้ผู้ใช้บนชั้นของแผนที่สามารถเปรียบเทียบได้ เลเยอร์ที่ถูกซ่อนโดยชุดชั้นในแผนที่",
+              "src": "machine",
+              "h": "e6bf18f1050d"
+            },
+            "defaultSection": {
+              "t": "ตัวเลือกปริยาย",
+              "src": "machine",
+              "h": "962a4ac8a554"
+            },
+            "defaultsHint": {
+              "t": "เลือกเลเยอร์เริ่มต้นในแต่ละด้าน การเปรียบเทียบจะไม่ทํางาน จนกว่าผู้ใช้จะเลือก เริ่มเปรียบเทียบ",
+              "src": "machine",
+              "h": "fe24b4c4f53b"
+            },
+            "previewMap": {
+              "t": "เชื่อมต่อวิดเจ็ตของแผนที่ 2 มิติ และเปิดแผนที่ดังกล่าวในตัวสร้าง เพื่อเลือกเลเยอร์และค่าปริยายที่มี",
+              "src": "machine",
+              "h": "293ef17d7eea"
+            },
+            "telemetrySection": {
+              "t": "การโทรคมนาคม",
+              "src": "machine",
+              "h": "7f16d779903e"
+            },
+            "telemetryLabel": {
+              "t": "เปิดใช้งานรูปแบบการโทรคมนาคมที่ใช้ร่วมกัน",
+              "src": "machine",
+              "h": "1a529818313f"
+            },
+            "telemetryHint": {
+              "t": "ใช้โมดูลโทรคมนาคมที่ใช้ร่วมกันเป็นวิดเจ็ตที่กําหนดเองตัวอื่น ๆ ไม่มีการส่งเหตุการณ์ใดๆ เว้นแต่องค์กรนี้ ได้กําหนดจุดหมายปลายทาง",
+              "src": "machine",
+              "h": "7b88cf61d3ad"
+            },
+            "settingLoadError": {
+              "t": "ไม่สามารถอ่านชั้นของแผนที่ได้ เปิดแผนที่ในผู้สร้างและลองชั้นใหม่",
+              "src": "machine",
+              "h": "754e025f20f1"
             }
           }
         },
         "tr": {
-          "file": "7b156475db09",
+          "file": "409acada5376",
           "counts": {
             "esri": 4,
             "esri-check": 0,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 11,
+            "machine": 27,
             "stale": 0,
-            "missing": 16
+            "missing": 0
           },
           "entries": {
             "direction": {
@@ -16617,20 +19017,100 @@
               "t": "Katman Karşılaştırma",
               "src": "machine",
               "h": "6bfaa4178b12"
+            },
+            "optionsSection": {
+              "t": "Karşılaştırma seçenekleri",
+              "src": "machine",
+              "h": "07b545068b92"
+            },
+            "startPosition": {
+              "t": "İlk bölme pozisyonu (%)",
+              "src": "machine",
+              "h": "1d9ce9a0b350"
+            },
+            "allowContextToggle": {
+              "t": "Kullanıcıların diğer görünür harita tabakalarını göstermesine izin verin",
+              "src": "machine",
+              "h": "d176c1daab5a"
+            },
+            "startContext": {
+              "t": "Başlangıçta her iki tarafta diğer görünür katmanları gösterir",
+              "src": "machine",
+              "h": "1ea640ebc646"
+            },
+            "showHelp": {
+              "t": "Yardım ve ilk bilinen ipucu",
+              "src": "machine",
+              "h": "20378e243404"
+            },
+            "startLabel": {
+              "t": "İlk yan etiket (isteğenim)",
+              "src": "machine",
+              "h": "45fff0334b3d"
+            },
+            "endLabel": {
+              "t": "İkinci yan etiket (isteğenim)",
+              "src": "machine",
+              "h": "124964735b68"
+            },
+            "labelsHint": {
+              "t": "Doğrudan / Doğru veya Top / Altı katman listesinde otomatik olarak kullanmak için etiket bırakın.",
+              "src": "machine",
+              "h": "14a7b2e1b2c8"
+            },
+            "availabilityHint": {
+              "t": "Hangi harita katmanı kullanıcılarının karşılaştırılabileceğini seçin. Harita katmanı liste ayarları tarafından gizlenmiş katmanlar burada saklı kalıyor.",
+              "src": "machine",
+              "h": "e6bf18f1050d"
+            },
+            "defaultSection": {
+              "t": "Varsayılan seçimler (isteğenim)",
+              "src": "machine",
+              "h": "962a4ac8a554"
+            },
+            "defaultsHint": {
+              "t": "Her taraf için herhangi bir başlangıç katmanı seçin. Karşılaştırma kullanıcı başlangıç karşılaştırmasına kadar kapalı kalır.",
+              "src": "machine",
+              "h": "fe24b4c4f53b"
+            },
+            "previewMap": {
+              "t": "2D Map widget'ı bağlayın ve mevcut katmanları ve varsayılanları seçmek için bu haritayı açın.",
+              "src": "machine",
+              "h": "293ef17d7eea"
+            },
+            "telemetrySection": {
+              "t": "Kullanım telemetri",
+              "src": "machine",
+              "h": "7f16d779903e"
+            },
+            "telemetryLabel": {
+              "t": "Paylaşılan kullanım telemetrisi",
+              "src": "machine",
+              "h": "1a529818313f"
+            },
+            "telemetryHint": {
+              "t": "Diğer özel pencereler olarak aynı paylaşılan telemetri modülü kullanın. Bu organizasyon bir telemetri destinasyonunu yapılandırdığı sürece hiçbir olay gönderilir.",
+              "src": "machine",
+              "h": "7b88cf61d3ad"
+            },
+            "settingLoadError": {
+              "t": "Harita katmanları okunamadı. Yapımda haritayı açın ve yeni katmanları deneyin.",
+              "src": "machine",
+              "h": "754e025f20f1"
             }
           }
         },
         "zh-cn": {
-          "file": "6a9e302dbd04",
+          "file": "a62156a3b7dd",
           "counts": {
             "esri": 4,
             "esri-check": 0,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 11,
+            "machine": 27,
             "stale": 0,
-            "missing": 16
+            "missing": 0
           },
           "entries": {
             "direction": {
@@ -16687,20 +19167,100 @@
               "t": "图层比较",
               "src": "machine",
               "h": "6bfaa4178b12"
+            },
+            "optionsSection": {
+              "t": "比较选项",
+              "src": "machine",
+              "h": "07b545068b92"
+            },
+            "startPosition": {
+              "t": "初始分隔位置(%)",
+              "src": "machine",
+              "h": "1d9ce9a0b350"
+            },
+            "allowContextToggle": {
+              "t": "允许用户显示其他可见的映射层",
+              "src": "machine",
+              "h": "d176c1daab5a"
+            },
+            "startContext": {
+              "t": "最初显示两侧的其他可见层",
+              "src": "machine",
+              "h": "1ea640ebc646"
+            },
+            "showHelp": {
+              "t": "显示帮助和第一个运行的提示",
+              "src": "machine",
+              "h": "20378e243404"
+            },
+            "startLabel": {
+              "t": "第一个侧标签( 可选)",
+              "src": "machine",
+              "h": "45fff0334b3d"
+            },
+            "endLabel": {
+              "t": "第二边标签( 可选)",
+              "src": "machine",
+              "h": "124964735b68"
+            },
+            "labelsHint": {
+              "t": "在图层列表中将标签空留为使用左/右或上/下自动使用.",
+              "src": "machine",
+              "h": "14a7b2e1b2c8"
+            },
+            "availabilityHint": {
+              "t": "选择哪个地图层用户可以比较 。 地图层列表设置所隐藏的图层在这里继续隐藏 。",
+              "src": "machine",
+              "h": "e6bf18f1050d"
+            },
+            "defaultSection": {
+              "t": "默认选择( 可选)",
+              "src": "machine",
+              "h": "962a4ac8a554"
+            },
+            "defaultsHint": {
+              "t": "为每一边选择任何起始层。 在用户选择 Start 比较之前, 比较不开放 。",
+              "src": "machine",
+              "h": "fe24b4c4f53b"
+            },
+            "previewMap": {
+              "t": "连接一个 2D 映射部件并在构建器中打开该映射以选择可用的图层和默认值 。",
+              "src": "machine",
+              "h": "293ef17d7eea"
+            },
+            "telemetrySection": {
+              "t": "用法遥测",
+              "src": "machine",
+              "h": "7f16d779903e"
+            },
+            "telemetryLabel": {
+              "t": "启用共享用途遥测",
+              "src": "machine",
+              "h": "1a529818313f"
+            },
+            "telemetryHint": {
+              "t": "使用与其他自定义部件相同的共享遥测模块 。 除非该组织配置了遥测目标,否则不发送事件。",
+              "src": "machine",
+              "h": "7b88cf61d3ad"
+            },
+            "settingLoadError": {
+              "t": "无法读取地图层 。 在构建器中打开地图并尝试刷新图层 。",
+              "src": "machine",
+              "h": "754e025f20f1"
             }
           }
         },
         "uk": {
-          "file": "d9fc63caefb5",
+          "file": "9d45138a3fbb",
           "counts": {
             "esri": 4,
             "esri-check": 0,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 11,
+            "machine": 27,
             "stale": 0,
-            "missing": 16
+            "missing": 0
           },
           "entries": {
             "direction": {
@@ -16757,20 +19317,100 @@
               "t": "Порівняйте",
               "src": "machine",
               "h": "6bfaa4178b12"
+            },
+            "optionsSection": {
+              "t": "Варіанти порівняння",
+              "src": "machine",
+              "h": "07b545068b92"
+            },
+            "startPosition": {
+              "t": "Початкове положення дивідектора (%)",
+              "src": "machine",
+              "h": "1d9ce9a0b350"
+            },
+            "allowContextToggle": {
+              "t": "Дозволяє користувачам показати інші видимі шари карт",
+              "src": "machine",
+              "h": "d176c1daab5a"
+            },
+            "startContext": {
+              "t": "Спочатку показують інші видимі шари з обох сторін",
+              "src": "machine",
+              "h": "1ea640ebc646"
+            },
+            "showHelp": {
+              "t": "Показати допомогу і перший підказок",
+              "src": "machine",
+              "h": "20378e243404"
+            },
+            "startLabel": {
+              "t": "Перша бічна етикетка (за бажанням)",
+              "src": "machine",
+              "h": "45fff0334b3d"
+            },
+            "endLabel": {
+              "t": "Друга бічна етикетка (за бажанням)",
+              "src": "machine",
+              "h": "124964735b68"
+            },
+            "labelsHint": {
+              "t": "Залиште етикетки порожній, щоб використовувати лівий / правий або верхній / нижній в списку шарів автоматично.",
+              "src": "machine",
+              "h": "14a7b2e1b2c8"
+            },
+            "availabilityHint": {
+              "t": "Виберіть, які можна порівняти шари карт. Шари, приховані налаштуваннями шар-листа, залишаються прихованими тут.",
+              "src": "machine",
+              "h": "e6bf18f1050d"
+            },
+            "defaultSection": {
+              "t": "Вибір за замовчуванням (за бажанням)",
+              "src": "machine",
+              "h": "962a4ac8a554"
+            },
+            "defaultsHint": {
+              "t": "Виберіть будь-які стартові шари для кожної сторони. Порівняння залишається до тих пір, поки користувач вибирає порівняння.",
+              "src": "machine",
+              "h": "fe24b4c4f53b"
+            },
+            "previewMap": {
+              "t": "Підключіть віджет 2D мапи і відкрийте цю карту в конструкторі, щоб вибрати доступні шари і за замовчуванням.",
+              "src": "machine",
+              "h": "293ef17d7eea"
+            },
+            "telemetrySection": {
+              "t": "Телеметрія",
+              "src": "machine",
+              "h": "7f16d779903e"
+            },
+            "telemetryLabel": {
+              "t": "Увімкнути телеметрію спільного використання",
+              "src": "machine",
+              "h": "1a529818313f"
+            },
+            "telemetryHint": {
+              "t": "Використовуйте той самий загальний модуль телеметрії як інші спеціальні віджети. Якщо ця організація налаштовує призначення телеметрії.",
+              "src": "machine",
+              "h": "7b88cf61d3ad"
+            },
+            "settingLoadError": {
+              "t": "Мапи не можна прочитати. Відкрийте карту в конструкторі і намагайтеся перезавантажити шари.",
+              "src": "machine",
+              "h": "754e025f20f1"
             }
           }
         },
         "vi": {
-          "file": "e571b1de736d",
+          "file": "20ce507b9c0b",
           "counts": {
             "esri": 4,
             "esri-check": 0,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 11,
+            "machine": 27,
             "stale": 0,
-            "missing": 16
+            "missing": 0
           },
           "entries": {
             "direction": {
@@ -16827,20 +19467,100 @@
               "t": "So sánh Lớp",
               "src": "machine",
               "h": "6bfaa4178b12"
+            },
+            "optionsSection": {
+              "t": "Tùy chọn so sánh",
+              "src": "machine",
+              "h": "07b545068b92"
+            },
+            "startPosition": {
+              "t": "Vị trí phân chia ban đầu (%)",
+              "src": "machine",
+              "h": "1d9ce9a0b350"
+            },
+            "allowContextToggle": {
+              "t": "Cho phép người dùng hiển thị các lớp sơ đồ nhìn thấy khác",
+              "src": "machine",
+              "h": "d176c1daab5a"
+            },
+            "startContext": {
+              "t": "Ban đầu hiển thị các lớp nhìn thấy khác ở cả hai bên",
+              "src": "machine",
+              "h": "1ea640ebc646"
+            },
+            "showHelp": {
+              "t": "Hiện trợ giúp và gợi ý chạy đầu",
+              "src": "machine",
+              "h": "20378e243404"
+            },
+            "startLabel": {
+              "t": "Nhãn bên đầu (tùy chọn)",
+              "src": "machine",
+              "h": "45fff0334b3d"
+            },
+            "endLabel": {
+              "t": "Nhãn bên thứ hai (tùy chọn)",
+              "src": "machine",
+              "h": "124964735b68"
+            },
+            "labelsHint": {
+              "t": "Để nhãn trống trong danh sách lớp.",
+              "src": "machine",
+              "h": "14a7b2e1b2c8"
+            },
+            "availabilityHint": {
+              "t": "Chọn những lớp mà người dùng có thể so sánh. Các lớp bị ẩn bởi thiết lập danh sách lớp ở đây.",
+              "src": "machine",
+              "h": "e6bf18f1050d"
+            },
+            "defaultSection": {
+              "t": "Các phần chọn mặc định (tùy chọn)",
+              "src": "machine",
+              "h": "962a4ac8a554"
+            },
+            "defaultsHint": {
+              "t": "Chọn bất kỳ lớp khởi động cho mỗi mặt. So sánh sẽ dừng lại cho đến khi người dùng chọn bắt đầu so sánh.",
+              "src": "machine",
+              "h": "fe24b4c4f53b"
+            },
+            "previewMap": {
+              "t": "Kết nối một ô điều khiển sơ đồ 2 chiều và mở bản đồ đó trong người xây dựng để chọn các lớp và mặc định sẵn sàng.",
+              "src": "machine",
+              "h": "293ef17d7eea"
+            },
+            "telemetrySection": {
+              "t": "Theo dõi sử dụng",
+              "src": "machine",
+              "h": "7f16d779903e"
+            },
+            "telemetryLabel": {
+              "t": "Bật trình đo sử dụng chung",
+              "src": "machine",
+              "h": "1a529818313f"
+            },
+            "telemetryHint": {
+              "t": "Dùng cùng mô- đun đo từ xa với các ô điều khiển khác. Không có sự kiện nào được gửi trừ khi tổ chức này đã cấu hình một điểm đến từ xa.",
+              "src": "machine",
+              "h": "7b88cf61d3ad"
+            },
+            "settingLoadError": {
+              "t": "Không thể đọc các lớp bản đồ. Mở bản đồ trong người xây dựng và thử làm tươi các lớp.",
+              "src": "machine",
+              "h": "754e025f20f1"
             }
           }
         },
         "zh-hk": {
-          "file": "1a7143cdfae0",
+          "file": "e50b6dba1388",
           "counts": {
             "esri": 4,
             "esri-check": 0,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 11,
+            "machine": 27,
             "stale": 0,
-            "missing": 16
+            "missing": 0
           },
           "entries": {
             "direction": {
@@ -16897,20 +19617,100 @@
               "t": "層次比對",
               "src": "machine",
               "h": "6bfaa4178b12"
+            },
+            "optionsSection": {
+              "t": "比較選項",
+              "src": "machine",
+              "h": "07b545068b92"
+            },
+            "startPosition": {
+              "t": "初始分隔位置(%)",
+              "src": "machine",
+              "h": "1d9ce9a0b350"
+            },
+            "allowContextToggle": {
+              "t": "允許使用者顯示其他可见的地圖層",
+              "src": "machine",
+              "h": "d176c1daab5a"
+            },
+            "startContext": {
+              "t": "最初顯示兩邊的其他可见的層",
+              "src": "machine",
+              "h": "1ea640ebc646"
+            },
+            "showHelp": {
+              "t": "顯示說明和首個執行的提示",
+              "src": "machine",
+              "h": "20378e243404"
+            },
+            "startLabel": {
+              "t": "第一邊標籤( 可選擇的 )",
+              "src": "machine",
+              "h": "45fff0334b3d"
+            },
+            "endLabel": {
+              "t": "第二邊標籤( 可選擇的)",
+              "src": "machine",
+              "h": "124964735b68"
+            },
+            "labelsHint": {
+              "t": "將標籤留為空以使用左 / 右 或 上 / 下 。",
+              "src": "machine",
+              "h": "14a7b2e1b2c8"
+            },
+            "availabilityHint": {
+              "t": "選擇可以比較的地圖層 。 地圖層列表設定所隱藏的層次要在這裡隱藏 。",
+              "src": "machine",
+              "h": "e6bf18f1050d"
+            },
+            "defaultSection": {
+              "t": "預設選擇區( 可選擇的)",
+              "src": "machine",
+              "h": "962a4ac8a554"
+            },
+            "defaultsHint": {
+              "t": "選擇每邊的任何起始層 。 在使用者選擇開始比對之前不要做比對 。",
+              "src": "machine",
+              "h": "fe24b4c4f53b"
+            },
+            "previewMap": {
+              "t": "連接 2D 地圖元件, 在建構器中開啟地圖以選擇可用的層面與預設值 。",
+              "src": "machine",
+              "h": "293ef17d7eea"
+            },
+            "telemetrySection": {
+              "t": "用法遥測",
+              "src": "machine",
+              "h": "7f16d779903e"
+            },
+            "telemetryLabel": {
+              "t": "啟用共享用法遥测",
+              "src": "machine",
+              "h": "1a529818313f"
+            },
+            "telemetryHint": {
+              "t": "使用與其它自訂元件相同的共享遥測模組 。 除非這個組織設定了遥測目的地, 任何事件都無法傳送 。",
+              "src": "machine",
+              "h": "7b88cf61d3ad"
+            },
+            "settingLoadError": {
+              "t": "無法讀取地圖層 。 在建構器中開啟地圖並試圖刷新層面 。",
+              "src": "machine",
+              "h": "754e025f20f1"
             }
           }
         },
         "zh-tw": {
-          "file": "1a7143cdfae0",
+          "file": "e50b6dba1388",
           "counts": {
             "esri": 4,
             "esri-check": 0,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 11,
+            "machine": 27,
             "stale": 0,
-            "missing": 16
+            "missing": 0
           },
           "entries": {
             "direction": {
@@ -16967,6 +19767,86 @@
               "t": "層次比對",
               "src": "machine",
               "h": "6bfaa4178b12"
+            },
+            "optionsSection": {
+              "t": "比較選項",
+              "src": "machine",
+              "h": "07b545068b92"
+            },
+            "startPosition": {
+              "t": "初始分隔位置(%)",
+              "src": "machine",
+              "h": "1d9ce9a0b350"
+            },
+            "allowContextToggle": {
+              "t": "允許使用者顯示其他可见的地圖層",
+              "src": "machine",
+              "h": "d176c1daab5a"
+            },
+            "startContext": {
+              "t": "最初顯示兩邊的其他可见的層",
+              "src": "machine",
+              "h": "1ea640ebc646"
+            },
+            "showHelp": {
+              "t": "顯示說明和首個執行的提示",
+              "src": "machine",
+              "h": "20378e243404"
+            },
+            "startLabel": {
+              "t": "第一邊標籤( 可選擇的 )",
+              "src": "machine",
+              "h": "45fff0334b3d"
+            },
+            "endLabel": {
+              "t": "第二邊標籤( 可選擇的)",
+              "src": "machine",
+              "h": "124964735b68"
+            },
+            "labelsHint": {
+              "t": "將標籤留為空以使用左 / 右 或 上 / 下 。",
+              "src": "machine",
+              "h": "14a7b2e1b2c8"
+            },
+            "availabilityHint": {
+              "t": "選擇可以比較的地圖層 。 地圖層列表設定所隱藏的層次要在這裡隱藏 。",
+              "src": "machine",
+              "h": "e6bf18f1050d"
+            },
+            "defaultSection": {
+              "t": "預設選擇區( 可選擇的)",
+              "src": "machine",
+              "h": "962a4ac8a554"
+            },
+            "defaultsHint": {
+              "t": "選擇每邊的任何起始層 。 在使用者選擇開始比對之前不要做比對 。",
+              "src": "machine",
+              "h": "fe24b4c4f53b"
+            },
+            "previewMap": {
+              "t": "連接 2D 地圖元件, 在建構器中開啟地圖以選擇可用的層面與預設值 。",
+              "src": "machine",
+              "h": "293ef17d7eea"
+            },
+            "telemetrySection": {
+              "t": "用法遥測",
+              "src": "machine",
+              "h": "7f16d779903e"
+            },
+            "telemetryLabel": {
+              "t": "啟用共享用法遥测",
+              "src": "machine",
+              "h": "1a529818313f"
+            },
+            "telemetryHint": {
+              "t": "使用與其它自訂元件相同的共享遥測模組 。 除非這個組織設定了遥測目的地, 任何事件都無法傳送 。",
+              "src": "machine",
+              "h": "7b88cf61d3ad"
+            },
+            "settingLoadError": {
+              "t": "無法讀取地圖層 。 在建構器中開啟地圖並試圖刷新層面 。",
+              "src": "machine",
+              "h": "754e025f20f1"
             }
           }
         }

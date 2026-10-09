@@ -95,8 +95,8 @@ System.register([], function (e) {
         helpTips1: "Din baskarta, kart omfattning och lagerdata förblir densamma. Jämförelsen använder tillfälliga lagerkopior.",
         helpTips2: "Dina val gäller endast i denna öppna app. De sparas inte på webbkartan.",
         helpTips3: "Använd kryssrutorna i Layer Jämför när du jämför. För att tillämpa filter- eller stiländringar som gjorts någon annanstans, stoppa och starta jämförelsen igen.",
-        unknownError: "unknown error",
-        unserializableError: "unserializable error"
+        unknownError: "Okänd fel",
+        unserializableError: "oserialiserbart fel"
       })
     }
   }

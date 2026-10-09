@@ -95,8 +95,8 @@ System.register([], function (e) {
         helpTips1: "Vos données de base, d'étendue et de couche restent les mêmes. La comparaison utilise des copies de couches temporaires.",
         helpTips2: "Vos sélections s'appliquent uniquement dans cette application ouverte. Ils ne sont pas enregistrés sur la carte Web.",
         helpTips3: "Utilisez les cases à cocher dans Layer Comparer lors de la comparaison. Pour appliquer des changements de filtre ou de style faits ailleurs, arrêtez et recommencez la comparaison.",
-        unknownError: "unknown error",
-        unserializableError: "unserializable error"
+        unknownError: "erreur inconnue",
+        unserializableError: "Erreur non sérialisable"
       })
     }
   }

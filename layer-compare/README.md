@@ -93,3 +93,7 @@ The widget uses the same shared `beacon.ts` module as the other custom widgets. 
 Bugs and requests are welcome on [GitHub issues](https://github.com/brianmcleer/layer-compare-widget/issues) or on the Esri Community post. Include the widget version, the Experience Builder version, the layer type, the steps to reproduce, and the first error in the browser console.
 
 Apache-2.0. Copyright City of Grand Junction, CO.
+
+## Localization verification
+
+The October 2026 i18n pass connects local UI helpers, messages and metadata to the app locale and uses the app locale for date/number formatting. Existing units, currencies and configured format options are preserved. Translation files use Esri wording, shared memory and English fallbacks; machine translations still need language review. Catalog coverage is separate from UI coverage. Changes were checked with the widget’s Experience Builder webpack build and compared against its existing TypeScript diagnostics. Test runtime, settings, accessibility text and locale switching in your target languages.

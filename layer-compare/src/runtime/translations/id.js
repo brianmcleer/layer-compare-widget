@@ -95,8 +95,8 @@ System.register([], function (e) {
         helpTips1: "Peta dasar Anda, batas peta, dan data lapisan tetap sama. Perbandingan menggunakan salinan lapisan sementara.",
         helpTips2: "Pilihan Anda hanya berlaku dalam aplikasi terbuka ini. Mereka tidak disimpan ke peta web.",
         helpTips3: "Gunakan kotak cek di Lapis Bandingkan sambil membandingkan. Untuk menerapkan filter atau perubahan gaya yang dibuat di tempat lain, berhenti dan mulai perbandingan lagi.",
-        unknownError: "unknown error",
-        unserializableError: "unserializable error"
+        unknownError: "galat tak dikenal",
+        unserializableError: "kesalahan tidak serialisasi"
       })
     }
   }

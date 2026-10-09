@@ -95,8 +95,8 @@ System.register([], function (e) {
         helpTips1: "Ihre Basiskarte, Kartenausdehnung und Schichtdaten bleiben gleich. Der Vergleich verwendet temporäre Schichtkopien.",
         helpTips2: "Ihre Auswahl gilt nur in dieser offenen App. Sie werden nicht auf der Webmap gespeichert.",
         helpTips3: "Verwenden Sie die Kontrollkästchen in Layer Vergleichen beim Vergleichen. Um Filter- oder Stiländerungen an anderer Stelle anzuwenden, stoppen und starten Sie den Vergleich erneut.",
-        unknownError: "unknown error",
-        unserializableError: "unserializable error"
+        unknownError: "Unbekannter Fehler",
+        unserializableError: "nichtialisierbarer Fehler"
       })
     }
   }

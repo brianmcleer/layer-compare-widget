@@ -95,8 +95,8 @@ System.register([], function (e) {
         helpTips1: "Din basemap, kort udstrækning, og lag data forbliver det samme. Sammenligningen bruger midlertidige lag kopier.",
         helpTips2: "Dine valg gælder kun i denne åbne app. De gemmes ikke til webkortet.",
         helpTips3: "Brug afkrydsningsfelterne i Layer Sammenlign mens du sammenligner. For at anvende filter eller stil ændringer foretaget andetsteds, stoppe og starte sammenligningen igen.",
-        unknownError: "unknown error",
-        unserializableError: "unserializable error"
+        unknownError: "ukendt fejl",
+        unserializableError: "userialiserbar fejl"
       })
     }
   }

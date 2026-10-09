@@ -95,8 +95,8 @@ System.register([], function (e) {
         helpTips1: "Su mapa base, extensión de mapa y datos de capas permanecen iguales. La comparación utiliza copias temporales de capa.",
         helpTips2: "Sus selecciones se aplican sólo en esta aplicación abierta. No se guardan en el mapa web.",
         helpTips3: "Utilice las casillas de verificación en Layer Compare mientras se compara. Para aplicar los cambios de filtro o estilo hechos en otro lugar, detenga y comience la comparación de nuevo.",
-        unknownError: "unknown error",
-        unserializableError: "unserializable error"
+        unknownError: "error desconocido",
+        unserializableError: "error unserializable"
       })
     }
   }

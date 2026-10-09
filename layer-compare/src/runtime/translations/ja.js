@@ -95,8 +95,8 @@ System.register([], function (e) {
         helpTips1: "ベースマップ、地図範囲、レイヤーデータが同じままになります。 比較では、一時的なレイヤーコピーを使用します。",
         helpTips2: "選択は、このオープンアプリでのみ適用されます。 Webマップに保存されません。",
         helpTips3: "比較中にレイヤ比較のチェックボックスを使用します。 フィルターやスタイルの変更を他の場所で適用するには、再度比較を停止し、開始します。",
-        unknownError: "unknown error",
-        unserializableError: "unserializable error"
+        unknownError: "未知のエラー",
+        unserializableError: "unserializable エラー"
       })
     }
   }

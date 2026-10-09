@@ -95,8 +95,8 @@ System.register([], function (e) {
         helpTips1: "당신의 basemap, 지도 범위 및 층 자료는 동일하게 체재합니다. 비교는 임시 층 사본을 이용합니다.",
         helpTips2: "선택은이 오픈 앱에서만 적용됩니다. 그들은 웹 맵에 저장되지 않습니다.",
         helpTips3: "레이어의 체크 박스를 사용하여 비교하면서 비교합니다. 필터 또는 스타일 변경을 다른 곳에서 적용하려면, 중지하고 다시 비교를 시작합니다.",
-        unknownError: "unknown error",
-        unserializableError: "unserializable error"
+        unknownError: "알 수없는 오류",
+        unserializableError: "unserializable 오류"
       })
     }
   }

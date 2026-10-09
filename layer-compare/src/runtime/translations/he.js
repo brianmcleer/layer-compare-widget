@@ -95,8 +95,8 @@ System.register([], function (e) {
         helpTips1: "מפת הבסיס שלך, היקף המפה ונתוני השכבה נשארים אותו הדבר. ההשוואה משתמשת עותקים של שכבתיים זמנית.",
         helpTips2: "הבחירות שלך חלות רק באפליקציה פתוחה זו. הם לא נשמרים למפת האינטרנט.",
         helpTips3: "השתמש בתיבת הצ'ק בשכבה בהשוואה תוך השוואת. כדי ליישם פילטר או שינויים בסגנון שנעשו במקום אחר, לעצור ולהתחיל את ההשוואה שוב.",
-        unknownError: "unknown error",
-        unserializableError: "unserializable error"
+        unknownError: "טעות לא ידועה",
+        unserializableError: "טעות בלתי אפשרית"
       })
     }
   }

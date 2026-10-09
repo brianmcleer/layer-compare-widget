@@ -95,8 +95,8 @@ System.register([], function (e) {
         helpTips1: "Bazmap, harita boyutu ve tabaka verileri aynı kalır. Karşılaştırma geçici katman kopyalarını kullanır.",
         helpTips2: "Seçimleriniz sadece bu açık uygulamada geçerlidir. Web haritasına kurtarılmıyorlar.",
         helpTips3: "Karşılaştırma yaparken Katmandaki çek kutuları kullanın. Başka yerlerde yapılan filtre veya stil değişiklikleri uygulamak için, tekrar karşılaştırmayı durdurun.",
-        unknownError: "unknown error",
-        unserializableError: "unserializable error"
+        unknownError: "Bilinmeyen hata",
+        unserializableError: "Başarısız olmayan hata"
       })
     }
   }

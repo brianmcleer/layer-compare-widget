@@ -95,8 +95,8 @@ System.register([], function (e) {
         helpTips1: "Vaš bazni zemljevid, obseg zemljevida in podatki o plasteh ostajajo enaki. Primerjava uporablja začasne plastne kopije.",
         helpTips2: "Vaše izbire veljajo samo v tej odprti aplikaciji. Niso shranjene na spletnem zemljevidu.",
         helpTips3: "Med primerjanjem uporabite potrditvena polja v Layer Compare. Če želite uporabiti filter ali slog spremembe, ki drugje, ustaviti in začeti primerjavo znova.",
-        unknownError: "unknown error",
-        unserializableError: "unserializable error"
+        unknownError: "neznana napaka",
+        unserializableError: "Neizvedljiva napaka"
       })
     }
   }

@@ -95,8 +95,8 @@ System.register([], function (e) {
         helpTips1: "Sơ đồ cơ bản, phạm vi bản đồ, và dữ liệu lớp của bạn vẫn như cũ. So sánh này dùng các bản sao lớp học tạm thời.",
         helpTips2: "Các lựa chọn của bạn chỉ áp dụng trong ứng dụng mở này. Chúng không được lưu vào bản đồ web.",
         helpTips3: "Dùng các hộp đánh dấu trong lớp trong khi so sánh. Để áp dụng các thay đổi về bộ lọc hay kiểu dáng ở nơi khác, hãy dừng lại và bắt đầu lại so sánh.",
-        unknownError: "unknown error",
-        unserializableError: "unserializable error"
+        unknownError: "lỗi không rõ",
+        unserializableError: "Lỗi không thể gửi đi được"
       })
     }
   }

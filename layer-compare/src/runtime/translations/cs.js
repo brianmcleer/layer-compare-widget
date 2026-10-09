@@ -95,8 +95,8 @@ System.register([], function (e) {
         helpTips1: "Vaše základní mapa, rozsah mapy a data z vrstvy zůstávají stejná. Srovnání používá dočasné kopie vrstvy.",
         helpTips2: "Vaše volby platí pouze v této otevřené aplikaci. Nejsou uloženy do webové mapy.",
         helpTips3: "Pomocí políček v Layer Compare při porovnávání. Chcete-li použít filtr nebo změny stylu provedené jinde, zastavte a znovu spusťte porovnání.",
-        unknownError: "unknown error",
-        unserializableError: "unserializable error"
+        unknownError: "neznámá chyba",
+        unserializableError: "neserializovatelná chyba"
       })
     }
   }

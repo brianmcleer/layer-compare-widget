@@ -95,8 +95,8 @@ System.register([], function (e) {
         helpTips1: "您的基底圖、 地圖範圍、 層層數據都一樣 。 比較使用暫時層面副本 。",
         helpTips2: "您的選擇只應用於此開啟的應用程式 。 它們沒有儲存到網頁地圖中 。",
         helpTips3: "比較時使用圖層中的對話框 。 要套用在別處做的過程或樣式變更, 請停止並重新開始比對 。",
-        unknownError: "unknown error",
-        unserializableError: "unserializable error"
+        unknownError: "未知的錯誤",
+        unserializableError: "不串連的錯誤"
       })
     }
   }

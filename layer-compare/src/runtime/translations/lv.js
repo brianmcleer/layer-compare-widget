@@ -95,8 +95,8 @@ System.register([], function (e) {
         helpTips1: "Jūsu pamatkarte, kartes apjoms, un slānis dati palikt tāds pats. Salīdzinājums izmanto pagaidu slāņa kopijas.",
         helpTips2: "Jūsu izvēle attiecas tikai uz šo atvērto programmu. Tie netiek saglabāti tīmekļa kartē.",
         helpTips3: "Izmantojiet rūtiņas Layer Salīdzināt, salīdzinot. Lai piemērotu filtra vai stila izmaiņas, kas veiktas citur, apturiet un sāciet salīdzināšanu vēlreiz.",
-        unknownError: "unknown error",
-        unserializableError: "unserializable error"
+        unknownError: "nezināma kļūda",
+        unserializableError: "nepārspējama kļūda"
       })
     }
   }

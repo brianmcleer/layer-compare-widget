@@ -95,8 +95,8 @@ System.register([], function (e) {
         helpTips1: "Basemap, zakres mapy i dane warstw pozostają takie same. Porównanie wykorzystuje tymczasowe kopie warstw.",
         helpTips2: "Wybór dotyczy tylko tej otwartej aplikacji. Nie są zapisywane na mapie.",
         helpTips3: "Użyj pól kontrolnych w równaniu warstw podczas porównywania. Aby zastosować filtry lub zmiany stylu dokonane gdzie indziej, zatrzymać i rozpocząć porównanie ponownie.",
-        unknownError: "unknown error",
-        unserializableError: "unserializable error"
+        unknownError: "nieznany błąd",
+        unserializableError: "błąd niezserializowalny"
       })
     }
   }

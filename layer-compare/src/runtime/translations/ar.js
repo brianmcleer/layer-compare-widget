@@ -95,8 +95,8 @@ System.register([], function (e) {
         helpTips1: "خريطة قاعدتك، مدى الخريطة، وبيانات الطبقات تبقى على حالها. وتستخدم المقارنة نسخاً مؤقتة من الطبقات.",
         helpTips2: "إختياراتك تنطبق فقط في هذا التطبيق المفتوح لم يتم إنقاذهم من الخريطة",
         helpTips3: "استخدمي صناديق الشيكات في شركة لاير بينما تقارن لتطبيق التصفيق أو تغيير النمط في مكان آخر، وقف وبدء المقارنة مرة أخرى.",
-        unknownError: "unknown error",
-        unserializableError: "unserializable error"
+        unknownError: "خطأ مجهول",
+        unserializableError: "خطأ غير معقول"
       })
     }
   }

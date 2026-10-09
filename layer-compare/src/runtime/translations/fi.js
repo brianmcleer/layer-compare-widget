@@ -95,8 +95,8 @@ System.register([], function (e) {
         helpTips1: "Pohjakarttasi, karttasi laajuus ja kerrostiedot pysyvät samoina. Vertailussa käytetään väliaikaisia kerroskopioita.",
         helpTips2: "Valintasi koskevat vain tätä avointa sovellusta. Niitä ei ole tallennettu nettikartalle.",
         helpTips3: "Käytä valintaruutuja Layer Vertaile vertailtaessa. Jos haluat soveltaa muualla tehtyjä suodatin- tai tyylimuutoksia, keskeytä ja aloita vertailu uudelleen.",
-        unknownError: "unknown error",
-        unserializableError: "unserializable error"
+        unknownError: "tuntematon virhe",
+        unserializableError: "epätavallinen virhe"
       })
     }
   }

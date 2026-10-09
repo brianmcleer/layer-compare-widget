@@ -95,8 +95,8 @@ System.register([], function (e) {
         helpTips1: "La tua mappa di base, la dimensione della mappa e i dati dello strato rimangono gli stessi. Il confronto utilizza copie a strati temporanei.",
         helpTips2: "Le tue selezioni si applicano solo in questa app aperta. Non vengono salvati sulla mappa web.",
         helpTips3: "Utilizzare le caselle di controllo in Livello Confronta mentre si confronta. Per applicare i cambiamenti di filtro o stile fatti altrove, ferma e ricomincia il confronto.",
-        unknownError: "unknown error",
-        unserializableError: "unserializable error"
+        unknownError: "errore sconosciuto",
+        unserializableError: "errore non serializzabile"
       })
     }
   }

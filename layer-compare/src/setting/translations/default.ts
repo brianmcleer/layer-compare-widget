@@ -1,6 +1,17 @@
-import runtime from '../../runtime/translations/default'
 export default {
-  ...runtime,
+  // Runtime strings the settings panel also shows (copied here: the kit reads plain objects only)
+  direction: 'Compare direction',
+  filterLayers: 'Filter map layers',
+  include: 'Include',
+  leftRight: 'Left / right',
+  mapLoading: 'Loading map layers...',
+  refreshLayers: 'Refresh layers',
+  topBottom: 'Top / bottom',
+  layerSelections: 'Choose layers for each comparison side',
+  layers: 'Layers',
+  outsideScale: 'Outside the current map scale',
+  wholeTiledLayer: 'Compared as one tiled layer',
+  _widgetLabel: 'Layer Compare',
   mapSection: 'Map',
   selectMap: 'Select a Map widget',
   optionsSection: 'Comparison options',

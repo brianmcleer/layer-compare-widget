@@ -61,8 +61,8 @@ System.register([], function (e) {
         helpIntro: "Kihivõrdlus näitab valitud kaardikihte liikuva jagaja eri külgedel.",
         helpSearchPlaceholder: "Otsige juhendist (proovige \"kihid\" või \"liugurid\")",
         helpNoMatches: "Mitte miski juhendis ei klapi selle sõnaga. Proovige teist või avage ülaltoodud lõigud.",
-        helpAnd: "and",
-        firstRunTitle: "New here?",
+        helpAnd: "ja",
+        firstRunTitle: "Uus siin?",
         firstRunBody: "Vali iga külje kihid, vali Start comparison ja lohista seejärel kaardil jagaja.",
         firstRunHelpLink: "Tee teejuht lahti.",
         firstRunDismiss: "Tühista vihje",
@@ -94,7 +94,9 @@ System.register([], function (e) {
         helpTipsTitle: "Hea teada",
         helpTips1: "Teie baaskaart, kaardi ulatus ja kihtandmed jäävad samaks. Võrdluseks kasutatakse ajutisi kihikoopiaid.",
         helpTips2: "Teie valikud kehtivad ainult selles avatud rakenduses. Neid ei salvestata veebikaardile.",
-        helpTips3: "Kasuta võrdlemisel märkekaste kihivõrdluses. Mujal tehtud filtri- või stiilimuudatuste rakendamiseks peatage ja alustage võrdlust uuesti."
+        helpTips3: "Kasuta võrdlemisel märkekaste kihivõrdluses. Mujal tehtud filtri- või stiilimuudatuste rakendamiseks peatage ja alustage võrdlust uuesti.",
+        unknownError: "unknown error",
+        unserializableError: "unserializable error"
       })
     }
   }

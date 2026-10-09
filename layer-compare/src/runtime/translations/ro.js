@@ -62,7 +62,7 @@ System.register([], function (e) {
         helpSearchPlaceholder: "Căutaţi ghidul (încercaţi \"straturi\" sau \"scaun\")",
         helpNoMatches: "Nimic din ghid nu se potriveşte cu acest cuvânt. Încearcă altul, sau deschide secţiunile de mai sus.",
         helpAnd: "și",
-        firstRunTitle: "New here?",
+        firstRunTitle: "Nou aici?",
         firstRunBody: "Alegeți straturi pentru fiecare parte, selectați comparație Start, apoi trageți separatorul de pe hartă.",
         firstRunHelpLink: "Deschide ghidul.",
         firstRunDismiss: "Respingeţi aluzia.",
@@ -91,10 +91,12 @@ System.register([], function (e) {
         helpTrouble2: "Un strat nu este disponibil: serviciul său poate fi offline, poate necesita sign-in, sau tipul său de strat poate să nu funcționeze pe o hartă 2D. Verifică stratul din hartă.",
         helpTrouble3: "Comparaţia s-a oprit după adăugarea sau îndepărtarea unui strat: harta s-a schimbat. Revizuiţi lista de straturi şi selectaţi din nou comparaţia Start.",
         helpTroubleContact: "Încă blocat? Contactați divizia GIS și menționați numele Layer Compare și această aplicație.",
-        helpTipsTitle: "E bine de ştiut.",
+        helpTipsTitle: "E bine de ştiut",
         helpTips1: "Harta ta de bază, amploarea hărții și datele straturilor rămân aceleași. Comparaţia foloseşte copii temporare ale straturilor.",
         helpTips2: "Selecțiile dumneavoastră se aplică numai în această aplicație deschisă. Acestea nu sunt salvate pe harta web.",
-        helpTips3: "Utilizați casetele de verificare în Layer Comparați în timp ce comparați. Pentru a aplica modificările de filtrare sau stil efectuate în altă parte, opriți și începeți din nou compararea."
+        helpTips3: "Utilizați casetele de verificare în Layer Comparați în timp ce comparați. Pentru a aplica modificările de filtrare sau stil efectuate în altă parte, opriți și începeți din nou compararea.",
+        unknownError: "unknown error",
+        unserializableError: "unserializable error"
       })
     }
   }

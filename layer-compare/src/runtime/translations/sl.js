@@ -62,7 +62,7 @@ System.register([], function (e) {
         helpSearchPlaceholder: "Preiščite vodnik (poskusite \"layers\" ali \"slider\")",
         helpNoMatches: "Nič v vodiču se ne ujema s to besedo. Poskusite drugo ali pa odprite zgornje oddelke.",
         helpAnd: "in",
-        firstRunTitle: "New here?",
+        firstRunTitle: "Nova tukaj?",
         firstRunBody: "Izberite plasti za vsako stran, izberite Začni primerjavo, nato pa povlecite delilnik na zemljevidu.",
         firstRunHelpLink: "Odpri vodič.",
         firstRunDismiss: "Zavrni namig",
@@ -86,15 +86,17 @@ System.register([], function (e) {
         helpStop1: "Ustavi primerjavo odstrani delilnik in obnovi vidljivost zemljevida. Vaši stranski izbori ostanejo pripravljeni za naslednjo primerjavo.",
         helpStop2: "Ponastavi primerjavo ustavi, obnovi privzete izbire in ponastavi položaj delilnika in smer.",
         helpStop3: "Zapiranje gradnika, spreminjanje zemljevida, ali zapusti aplikacijo tudi ustavi primerjavo.",
-        helpTroubleTitle: "Če je kaj narobe.",
+        helpTroubleTitle: "Če je kaj narobe",
         helpTrouble1: "Manjka plast: lahko je zunaj trenutne karte lestvice. Približaj ali izdihni in poglej pod njegovo ime.",
         helpTrouble2: "Plast ni na voljo: njena storitev je lahko izključena, lahko zahteva vpis ali pa tip sloja ne deluje na 2D zemljevidu. Preveri tisto plast na zemljevidu.",
         helpTrouble3: "Primerjava se je ustavila po dodajanju ali odstranjevanju plasti: zemljevid se je spremenil. Pregled seznama slojev in ponovno izberite Začni primerjavo.",
         helpTroubleContact: "Še vedno obtičal? Kontaktirajte oddelek GIS in omenite ime Layer Compare in to aplikacijo.",
-        helpTipsTitle: "Dobro je vedeti.",
+        helpTipsTitle: "Dobro je vedeti",
         helpTips1: "Vaš bazni zemljevid, obseg zemljevida in podatki o plasteh ostajajo enaki. Primerjava uporablja začasne plastne kopije.",
         helpTips2: "Vaše izbire veljajo samo v tej odprti aplikaciji. Niso shranjene na spletnem zemljevidu.",
-        helpTips3: "Med primerjanjem uporabite potrditvena polja v Layer Compare. Če želite uporabiti filter ali slog spremembe, ki drugje, ustaviti in začeti primerjavo znova."
+        helpTips3: "Med primerjanjem uporabite potrditvena polja v Layer Compare. Če želite uporabiti filter ali slog spremembe, ki drugje, ustaviti in začeti primerjavo znova.",
+        unknownError: "unknown error",
+        unserializableError: "unserializable error"
       })
     }
   }

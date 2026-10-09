@@ -61,8 +61,8 @@ System.register([], function (e) {
         helpIntro: "レイヤー比較は、選択したマップレイヤーを移動可能なディバイダーの異なる側面に表示します。",
         helpSearchPlaceholder: "ガイド(「レイヤー」または「スライダー」)を検索",
         helpNoMatches: "ガイドがその単語と一致するわけではありません。 別のセクションを試し、または上記のセクションを開きます。",
-        helpAnd: "and",
-        firstRunTitle: "New here?",
+        helpAnd: "および",
+        firstRunTitle: "詳しくはこちら",
         firstRunBody: "各サイドのレイヤーを選択し、[スタート比較] を選択し、マップ上のディバイダーをドラッグします。",
         firstRunHelpLink: "ガイドを開きます。",
         firstRunDismiss: "ヒントを却下",
@@ -94,7 +94,9 @@ System.register([], function (e) {
         helpTipsTitle: "よく知る",
         helpTips1: "ベースマップ、地図範囲、レイヤーデータが同じままになります。 比較では、一時的なレイヤーコピーを使用します。",
         helpTips2: "選択は、このオープンアプリでのみ適用されます。 Webマップに保存されません。",
-        helpTips3: "比較中にレイヤ比較のチェックボックスを使用します。 フィルターやスタイルの変更を他の場所で適用するには、再度比較を停止し、開始します。"
+        helpTips3: "比較中にレイヤ比較のチェックボックスを使用します。 フィルターやスタイルの変更を他の場所で適用するには、再度比較を停止し、開始します。",
+        unknownError: "unknown error",
+        unserializableError: "unserializable error"
       })
     }
   }

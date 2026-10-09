@@ -62,7 +62,7 @@ System.register([], function (e) {
         helpSearchPlaceholder: "Durchsuchen Sie den Guide (versuchen Sie \"Layers\" oder \"Slider\")",
         helpNoMatches: "Nichts im Guide passt zu diesem Wort. Versuchen Sie es mit einem anderen oder öffnen Sie die obigen Abschnitte.",
         helpAnd: "und",
-        firstRunTitle: "New here?",
+        firstRunTitle: "Neu hier?",
         firstRunBody: "Wählen Sie Ebenen für jede Seite aus, wählen Sie den Vergleich Start aus und ziehen Sie dann den Teiler auf die Karte.",
         firstRunHelpLink: "Öffne den Guide.",
         firstRunDismiss: "Verwerfen Sie den Hinweis",
@@ -94,7 +94,9 @@ System.register([], function (e) {
         helpTipsTitle: "Gut zu wissen",
         helpTips1: "Ihre Basiskarte, Kartenausdehnung und Schichtdaten bleiben gleich. Der Vergleich verwendet temporäre Schichtkopien.",
         helpTips2: "Ihre Auswahl gilt nur in dieser offenen App. Sie werden nicht auf der Webmap gespeichert.",
-        helpTips3: "Verwenden Sie die Kontrollkästchen in Layer Vergleichen beim Vergleichen. Um Filter- oder Stiländerungen an anderer Stelle anzuwenden, stoppen und starten Sie den Vergleich erneut."
+        helpTips3: "Verwenden Sie die Kontrollkästchen in Layer Vergleichen beim Vergleichen. Um Filter- oder Stiländerungen an anderer Stelle anzuwenden, stoppen und starten Sie den Vergleich erneut.",
+        unknownError: "unknown error",
+        unserializableError: "unserializable error"
       })
     }
   }

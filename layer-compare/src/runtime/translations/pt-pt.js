@@ -62,7 +62,7 @@ System.register([], function (e) {
         helpSearchPlaceholder: "Procure no guia (tentar \"camadas\" ou \"slider\")",
         helpNoMatches: "Nada no guia corresponde a essa palavra. Tente outro, ou abra as seções acima.",
         helpAnd: "E",
-        firstRunTitle: "New here?",
+        firstRunTitle: "Nova aqui?",
         firstRunBody: "Escolha camadas para cada lado, selecione Iniciar comparação e, em seguida, arraste o separador no mapa.",
         firstRunHelpLink: "Abra o guia.",
         firstRunDismiss: "Descartar a dica",
@@ -91,10 +91,12 @@ System.register([], function (e) {
         helpTrouble2: "Uma camada não está disponível: o seu serviço pode estar offline, pode necessitar de entrada, ou o seu tipo de camada pode não funcionar num mapa 2D. Verifica essa camada no mapa.",
         helpTrouble3: "A comparação parou após adicionar ou remover uma camada: o mapa mudou. Reveja a lista de camadas e selecione Iniciar a comparação novamente.",
         helpTroubleContact: "Ainda preso? Entre em contato com a Divisão GIS e mencione o nome Layer Compare e este aplicativo.",
-        helpTipsTitle: "É bom saber.",
+        helpTipsTitle: "É bom saber",
         helpTips1: "Seu mapa de base, extensão do mapa e dados de camada permanecem os mesmos. A comparação utiliza cópias temporárias da camada.",
         helpTips2: "Suas seleções se aplicam apenas neste aplicativo aberto. Eles não são salvos no mapa web.",
-        helpTips3: "Use as caixas de seleção na Camada Compare ao comparar. Para aplicar as alterações de filtro ou estilo feitas em outro lugar, pare e comece a comparação novamente."
+        helpTips3: "Use as caixas de seleção na Camada Compare ao comparar. Para aplicar as alterações de filtro ou estilo feitas em outro lugar, pare e comece a comparação novamente.",
+        unknownError: "unknown error",
+        unserializableError: "unserializable error"
       })
     }
   }

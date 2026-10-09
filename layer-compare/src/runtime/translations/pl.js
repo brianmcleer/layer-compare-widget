@@ -62,7 +62,7 @@ System.register([], function (e) {
         helpSearchPlaceholder: "Szukaj przewodnika (spróbuj \"warstwy\" lub \"suwak\")",
         helpNoMatches: "Nic w przewodniku nie pasuje do tego słowa. Spróbuj innego, albo otwórz powyższe sekcje.",
         helpAnd: "i aplikacja",
-        firstRunTitle: "New here?",
+        firstRunTitle: "Nowy?",
         firstRunBody: "Wybierz warstwy dla każdej strony, wybierz porównanie Start, a następnie przeciągnij dzielnik na mapie.",
         firstRunHelpLink: "Otwórz przewodnik.",
         firstRunDismiss: "Odrzuć podpowiedź",
@@ -91,10 +91,12 @@ System.register([], function (e) {
         helpTrouble2: "Warstwa jest niedostępna: jej obsługa może być offline, może wymagać sign- in, lub jej typ warstwy może nie działać na mapie 2D. Sprawdź tę warstwę na mapie.",
         helpTrouble3: "Porównanie zatrzymało się po dodaniu lub usunięciu warstwy: mapa się zmieniła. Przejrzyj listę warstw i wybierz porównanie Start ponownie.",
         helpTroubleContact: "Nadal utknąłeś? Skontaktuj się z GIS Division i wymień nazwę warstwy i tę aplikację.",
-        helpTipsTitle: "Dobrze wiedzieć.",
+        helpTipsTitle: "Dobrze wiedzieć",
         helpTips1: "Basemap, zakres mapy i dane warstw pozostają takie same. Porównanie wykorzystuje tymczasowe kopie warstw.",
         helpTips2: "Wybór dotyczy tylko tej otwartej aplikacji. Nie są zapisywane na mapie.",
-        helpTips3: "Użyj pól kontrolnych w równaniu warstw podczas porównywania. Aby zastosować filtry lub zmiany stylu dokonane gdzie indziej, zatrzymać i rozpocząć porównanie ponownie."
+        helpTips3: "Użyj pól kontrolnych w równaniu warstw podczas porównywania. Aby zastosować filtry lub zmiany stylu dokonane gdzie indziej, zatrzymać i rozpocząć porównanie ponownie.",
+        unknownError: "unknown error",
+        unserializableError: "unserializable error"
       })
     }
   }

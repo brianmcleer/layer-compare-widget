@@ -62,7 +62,7 @@ System.register([], function (e) {
         helpSearchPlaceholder: "Søg i guiden (prøv \"lag\" eller \"skyder\")",
         helpNoMatches: "Intet i guiden matcher det ord. Prøv en anden, eller åbn afsnittene ovenfor.",
         helpAnd: "og",
-        firstRunTitle: "New here?",
+        firstRunTitle: "Ny her?",
         firstRunBody: "Vælg lag for hver side, vælg Start sammenligning, og træk derefter divideren på kortet.",
         firstRunHelpLink: "Åbn guiden.",
         firstRunDismiss: "Afvis vinklen",
@@ -94,7 +94,9 @@ System.register([], function (e) {
         helpTipsTitle: "Godt at vide",
         helpTips1: "Din basemap, kort udstrækning, og lag data forbliver det samme. Sammenligningen bruger midlertidige lag kopier.",
         helpTips2: "Dine valg gælder kun i denne åbne app. De gemmes ikke til webkortet.",
-        helpTips3: "Brug afkrydsningsfelterne i Layer Sammenlign mens du sammenligner. For at anvende filter eller stil ændringer foretaget andetsteds, stoppe og starte sammenligningen igen."
+        helpTips3: "Brug afkrydsningsfelterne i Layer Sammenlign mens du sammenligner. For at anvende filter eller stil ændringer foretaget andetsteds, stoppe og starte sammenligningen igen.",
+        unknownError: "unknown error",
+        unserializableError: "unserializable error"
       })
     }
   }

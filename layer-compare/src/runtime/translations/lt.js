@@ -62,7 +62,7 @@ System.register([], function (e) {
         helpSearchPlaceholder: "Ieškoti vadovas (pabandykite \"sluoksniai\" arba \"slankiklį\")",
         helpNoMatches: "Vadove nėra nieko, kas atitiktų šį žodį. Pabandykite kitą, arba atidaryti skyrių aukščiau.",
         helpAnd: "ir",
-        firstRunTitle: "New here?",
+        firstRunTitle: "Čia nauja?",
         firstRunBody: "Pasirinkite sluoksnius kiekvienai pusei, pasirinkite Pradėti palyginimą, tada vilkite daliklį žemėlapyje.",
         firstRunHelpLink: "Atidaryk gidą.",
         firstRunDismiss: "Nutraukti užuominą",
@@ -94,7 +94,9 @@ System.register([], function (e) {
         helpTipsTitle: "Gera žinoti",
         helpTips1: "Jūsų basemap, žemėlapio apimtis, ir sluoksnis duomenys likti tas pats. Palyginimui naudojamos laikinos sluoksnių kopijos.",
         helpTips2: "Jūsų pasirinkimai taikomi tik šioje atviroje programėlėje. Jie nėra išsaugomi žiniatinklio žemėlapyje.",
-        helpTips3: "Naudokite kontrolinius langelius sluoksnyje Lyginti lyginant. Norėdami taikyti filtro ar stiliaus pakeitimus, padarytus kitur, sustabdyti ir pradėti palyginimą iš naujo."
+        helpTips3: "Naudokite kontrolinius langelius sluoksnyje Lyginti lyginant. Norėdami taikyti filtro ar stiliaus pakeitimus, padarytus kitur, sustabdyti ir pradėti palyginimą iš naujo.",
+        unknownError: "unknown error",
+        unserializableError: "unserializable error"
       })
     }
   }

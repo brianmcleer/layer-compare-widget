@@ -62,7 +62,7 @@ System.register([], function (e) {
         helpSearchPlaceholder: "Chercher dans le guide (essayez \"couches\" ou \"glissière\")",
         helpNoMatches: "Rien dans le guide ne correspond à ce mot. Essayez un autre, ou ouvrez les sections ci-dessus.",
         helpAnd: "et",
-        firstRunTitle: "New here?",
+        firstRunTitle: "Nouveau ici ?",
         firstRunBody: "Choisissez des calques pour chaque côté, sélectionnez Démarrer la comparaison, puis faites glisser le diviseur sur la carte.",
         firstRunHelpLink: "Ouvrez le guide.",
         firstRunDismiss: "Rejeter l'indice",
@@ -94,7 +94,9 @@ System.register([], function (e) {
         helpTipsTitle: "Bon à savoir",
         helpTips1: "Vos données de base, d'étendue et de couche restent les mêmes. La comparaison utilise des copies de couches temporaires.",
         helpTips2: "Vos sélections s'appliquent uniquement dans cette application ouverte. Ils ne sont pas enregistrés sur la carte Web.",
-        helpTips3: "Utilisez les cases à cocher dans Layer Comparer lors de la comparaison. Pour appliquer des changements de filtre ou de style faits ailleurs, arrêtez et recommencez la comparaison."
+        helpTips3: "Utilisez les cases à cocher dans Layer Comparer lors de la comparaison. Pour appliquer des changements de filtre ou de style faits ailleurs, arrêtez et recommencez la comparaison.",
+        unknownError: "unknown error",
+        unserializableError: "unserializable error"
       })
     }
   }

@@ -62,7 +62,7 @@ System.register([], function (e) {
         helpSearchPlaceholder: "Vyhľadajte sprievodcu (skúste \"vrstvy\" alebo \"strider\")",
         helpNoMatches: "Nič v sprievodcovi nezodpovedá tomu slovu. Skúste iné, alebo otvoriť časti vyššie.",
         helpAnd: "a",
-        firstRunTitle: "New here?",
+        firstRunTitle: "Tu nový?",
         firstRunBody: "Vyberte vrstvy pre každú stranu, vyberte začiatok porovnania a potom pretiahnite delič na mape.",
         firstRunHelpLink: "Otvorte sprievodcu.",
         firstRunDismiss: "Odmietni nápovedu",
@@ -94,7 +94,9 @@ System.register([], function (e) {
         helpTipsTitle: "Dobré vedieť",
         helpTips1: "Váš basemap, rozsah mapy, a vrstva dát zostať rovnaký. Pri porovnaní sa používajú dočasné kópie vrstiev.",
         helpTips2: "Vaše výbery platia len v tejto otvorenej aplikácii. Nie sú uložené na webovú mapu.",
-        helpTips3: "Použiť zaškrtávacie políčka vo vrstve Porovnať pri porovnávaní. Ak chcete použiť zmeny filtra alebo štýlu vykonané inde, zastaviť a spustiť porovnanie znova."
+        helpTips3: "Použiť zaškrtávacie políčka vo vrstve Porovnať pri porovnávaní. Ak chcete použiť zmeny filtra alebo štýlu vykonané inde, zastaviť a spustiť porovnanie znova.",
+        unknownError: "unknown error",
+        unserializableError: "unserializable error"
       })
     }
   }

@@ -61,8 +61,8 @@ System.register([], function (e) {
         helpIntro: "Layer Confronta mostra i livelli di mappa scelti su diversi lati di un divisore mobile.",
         helpSearchPlaceholder: "Cerca la guida (prova \"layers\" o \"slider\")",
         helpNoMatches: "Niente nella guida corrisponde a quella parola. Prova un altro, o apri le sezioni sopra.",
-        helpAnd: "and",
-        firstRunTitle: "New here?",
+        helpAnd: "And",
+        firstRunTitle: "Nuovo qui?",
         firstRunBody: "Scegliere strati per ogni lato, selezionare Start confronto, quindi trascinare il divisore sulla mappa.",
         firstRunHelpLink: "Apri la guida.",
         firstRunDismiss: "respingere l'istanza",
@@ -94,7 +94,9 @@ System.register([], function (e) {
         helpTipsTitle: "Buono a sapersi",
         helpTips1: "La tua mappa di base, la dimensione della mappa e i dati dello strato rimangono gli stessi. Il confronto utilizza copie a strati temporanei.",
         helpTips2: "Le tue selezioni si applicano solo in questa app aperta. Non vengono salvati sulla mappa web.",
-        helpTips3: "Utilizzare le caselle di controllo in Livello Confronta mentre si confronta. Per applicare i cambiamenti di filtro o stile fatti altrove, ferma e ricomincia il confronto."
+        helpTips3: "Utilizzare le caselle di controllo in Livello Confronta mentre si confronta. Per applicare i cambiamenti di filtro o stile fatti altrove, ferma e ricomincia il confronto.",
+        unknownError: "unknown error",
+        unserializableError: "unserializable error"
       })
     }
   }

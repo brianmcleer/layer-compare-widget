@@ -62,7 +62,7 @@ System.register([], function (e) {
         helpSearchPlaceholder: "Rehberi arayın (Bölümler” veya \"slider\")",
         helpNoMatches: "Rehberde hiçbir şey bu kelimeyi maçları. Başka bir deneyin veya yukarıdaki bölümleri açın.",
         helpAnd: "ve",
-        firstRunTitle: "New here?",
+        firstRunTitle: "Yeni burada?",
         firstRunBody: "Her taraf için tabakaları seçin, başlangıç karşılaştırmasını seçin, sonra haritadaki bölmeyi sürükleyin.",
         firstRunHelpLink: "Rehberi açın.",
         firstRunDismiss: "Yalanı kabul et",
@@ -94,7 +94,9 @@ System.register([], function (e) {
         helpTipsTitle: "İyi bilmek",
         helpTips1: "Bazmap, harita boyutu ve tabaka verileri aynı kalır. Karşılaştırma geçici katman kopyalarını kullanır.",
         helpTips2: "Seçimleriniz sadece bu açık uygulamada geçerlidir. Web haritasına kurtarılmıyorlar.",
-        helpTips3: "Karşılaştırma yaparken Katmandaki çek kutuları kullanın. Başka yerlerde yapılan filtre veya stil değişiklikleri uygulamak için, tekrar karşılaştırmayı durdurun."
+        helpTips3: "Karşılaştırma yaparken Katmandaki çek kutuları kullanın. Başka yerlerde yapılan filtre veya stil değişiklikleri uygulamak için, tekrar karşılaştırmayı durdurun.",
+        unknownError: "unknown error",
+        unserializableError: "unserializable error"
       })
     }
   }

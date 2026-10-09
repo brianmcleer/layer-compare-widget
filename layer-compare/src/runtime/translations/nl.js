@@ -56,13 +56,13 @@ System.register([], function (e) {
         compareFailed: "De vergelijking kon niet worden voorbereid. Controleer de geselecteerde lagen en probeer het opnieuw.",
         anotherCompare: "Een andere Laagvergelijking gebruikt deze kaart. Stop die vergelijking eerst.",
         refreshLayers: "Lagen verversen",
-        helpTitle: "Help",
+        helpTitle: "Hulp",
         close: "Sluiten",
         helpIntro: "Lagen Vergelijken toont uw gekozen kaartlagen aan verschillende zijden van een verplaatsbare scheidingswand.",
         helpSearchPlaceholder: "De gids doorzoeken (probeer \"layers\" of \"slider\")",
         helpNoMatches: "Niets in de gids komt overeen met dat woord. Probeer een andere, of open de bovenstaande secties.",
         helpAnd: "en",
-        firstRunTitle: "New here?",
+        firstRunTitle: "Nieuw hier?",
         firstRunBody: "Kies lagen voor elke kant, selecteer Vergelijken starten en sleep de scheidingswand op de kaart.",
         firstRunHelpLink: "Open de gids.",
         firstRunDismiss: "De hint verwerpen",
@@ -86,7 +86,7 @@ System.register([], function (e) {
         helpStop1: "Stop vergelijking verwijdert de verdeler en herstelt de kaart zichtbaarheid. Uw zijselecties blijven klaar voor de volgende vergelijking.",
         helpStop2: "Reset stopt vergelijking, herstelt de standaard selecties, en stelt de scheidingspositie en -richting opnieuw in.",
         helpStop3: "Het sluiten van de widget, het veranderen van de kaart, of het verlaten van de app stopt ook vergelijking.",
-        helpTroubleTitle: "Als er iets mis lijkt.",
+        helpTroubleTitle: "Als er iets mis lijkt",
         helpTrouble1: "Er ontbreekt een laag: het kan buiten de huidige kaartschaal liggen. Zoom in of uit, en controleer het briefje onder zijn naam.",
         helpTrouble2: "Een laag is niet beschikbaar: de service kan offline zijn, het kan een aanmelding vereisen of het laagtype werkt mogelijk niet op een 2D-kaart. Controleer die laag in de kaart.",
         helpTrouble3: "De vergelijking stopte na het toevoegen of verwijderen van een laag: de kaart is veranderd. Bekijk de laaglijst en selecteer Start vergelijking opnieuw.",
@@ -94,7 +94,9 @@ System.register([], function (e) {
         helpTipsTitle: "Goed om te weten",
         helpTips1: "Uw basiskaart, kaartomvang en laaggegevens blijven hetzelfde. De vergelijking maakt gebruik van tijdelijke laagkopieën.",
         helpTips2: "Uw selecties gelden alleen in deze open app. Ze worden niet opgeslagen op de webkaart.",
-        helpTips3: "Gebruik de selectievakken in Laag Vergelijken tijdens het vergelijken. Om filter- of stijlwijzigingen elders toe te passen, stop en start de vergelijking opnieuw."
+        helpTips3: "Gebruik de selectievakken in Laag Vergelijken tijdens het vergelijken. Om filter- of stijlwijzigingen elders toe te passen, stop en start de vergelijking opnieuw.",
+        unknownError: "unknown error",
+        unserializableError: "unserializable error"
       })
     }
   }

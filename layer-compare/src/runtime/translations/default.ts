@@ -84,5 +84,7 @@ export default {
   helpTipsTitle: 'Good to know',
   helpTips1: 'Your basemap, map extent, and layer data stay the same. The comparison uses temporary layer copies.',
   helpTips2: 'Your selections apply only in this open app. They are not saved to the web map.',
-  helpTips3: 'Use the checkboxes in Layer Compare while comparing. To apply filter or style changes made elsewhere, stop and start the comparison again.'
+  helpTips3: 'Use the checkboxes in Layer Compare while comparing. To apply filter or style changes made elsewhere, stop and start the comparison again.',
+  unknownError: 'unknown error',
+  unserializableError: 'unserializable error'
 }

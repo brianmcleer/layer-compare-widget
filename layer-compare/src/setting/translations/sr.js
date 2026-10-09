@@ -3,6 +3,37 @@ System.register([], function (e) {
   return {
     execute: function () {
       e({
+        direction: "Compare direction",
+        filterLayers: "Filter map layers",
+        include: "Include",
+        leftRight: "Left / right",
+        mapLoading: "Loading map layers...",
+        refreshLayers: "Refresh layers",
+        topBottom: "Top / bottom",
+        layerSelections: "Choose layers for each comparison side",
+        layers: "Slojevi",
+        outsideScale: "Outside the current map scale",
+        wholeTiledLayer: "Compared as one tiled layer",
+        _widgetLabel: "Layer Compare",
+        mapSection: "Mapa",
+        selectMap: "Selektuj vidžet mape",
+        optionsSection: "Comparison options",
+        startPosition: "Initial divider position (%)",
+        allowContextToggle: "Allow users to show other visible map layers",
+        startContext: "Initially show other visible layers on both sides",
+        showHelp: "Show Help and the first-run hint",
+        startLabel: "First side label (optional)",
+        endLabel: "Second side label (optional)",
+        labelsHint: "Leave labels empty to use Left / Right or Top / Bottom in the layer list automatically.",
+        availableSection: "Dostupni slojevi",
+        availabilityHint: "Choose which map layers users can compare. Layers hidden by the map layer-list settings stay hidden here.",
+        defaultSection: "Default selections (optional)",
+        defaultsHint: "Choose any starting layers for each side. Comparison stays off until the user selects Start comparison.",
+        previewMap: "Connect a 2D Map widget and open that map in the builder to choose available layers and defaults.",
+        telemetrySection: "Usage telemetry",
+        telemetryLabel: "Enable the shared usage telemetry",
+        telemetryHint: "Uses the same shared telemetry module as the other custom widgets. No events are sent unless this organization has configured a telemetry destination.",
+        settingLoadError: "Map layers could not be read. Open the map in the builder and try Refresh layers."
       })
     }
   }

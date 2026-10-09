@@ -62,7 +62,7 @@ System.register([], function (e) {
         helpSearchPlaceholder: "Hledat průvodce (zkuste \"vrstvy\" nebo \"posuvník\")",
         helpNoMatches: "Nic v průvodci neodpovídá tomu slovu. Zkuste jiný, nebo otevřete sekce výše.",
         helpAnd: "A",
-        firstRunTitle: "New here?",
+        firstRunTitle: "Nový tady?",
         firstRunBody: "Vyberte vrstvy pro každou stranu, vyberte Spuštění porovnání a pak přetáhněte dělič na mapě.",
         firstRunHelpLink: "Otevři průvodce.",
         firstRunDismiss: "Zamítněte nápovědu",
@@ -91,10 +91,12 @@ System.register([], function (e) {
         helpTrouble2: "Vrstva není k dispozici: jeho obsluha může být vypnuta, může vyžadovat sign- in, nebo její typ vrstvy nemusí fungovat v mapě 2D. Zkontrolujte tu vrstvu na mapě.",
         helpTrouble3: "Srovnání se zastavilo po přidání nebo odstranění vrstvy: mapa se změnila. Zkontrolujte seznam vrstev a zvolte Znovu začít porovnávat.",
         helpTroubleContact: "Pořád se zasekl? Kontaktujte sekci GIS a zmiňte název vrstvy a tuto aplikaci.",
-        helpTipsTitle: "Dobré vědět.",
+        helpTipsTitle: "Dobré vědět",
         helpTips1: "Vaše základní mapa, rozsah mapy a data z vrstvy zůstávají stejná. Srovnání používá dočasné kopie vrstvy.",
         helpTips2: "Vaše volby platí pouze v této otevřené aplikaci. Nejsou uloženy do webové mapy.",
-        helpTips3: "Pomocí políček v Layer Compare při porovnávání. Chcete-li použít filtr nebo změny stylu provedené jinde, zastavte a znovu spusťte porovnání."
+        helpTips3: "Pomocí políček v Layer Compare při porovnávání. Chcete-li použít filtr nebo změny stylu provedené jinde, zastavte a znovu spusťte porovnání.",
+        unknownError: "unknown error",
+        unserializableError: "unserializable error"
       })
     }
   }

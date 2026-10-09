@@ -62,7 +62,7 @@ System.register([], function (e) {
         helpSearchPlaceholder: "Meklēt ceļvedī (tri \"slāņi\" vai \"slīdnis\")",
         helpNoMatches: "Nekas ceļvedī neatbilst šim vārdam. Mēģiniet citu, vai atvērt sadaļas iepriekš.",
         helpAnd: "un",
-        firstRunTitle: "New here?",
+        firstRunTitle: "Jauna šeit?",
         firstRunBody: "Izvēlieties slāņus katrā pusē, izvēlieties Sākt salīdzinājumu, pēc tam velciet dalītāju uz kartes.",
         firstRunHelpLink: "Atveriet ceļvedi.",
         firstRunDismiss: "Noņemt padomu",
@@ -94,7 +94,9 @@ System.register([], function (e) {
         helpTipsTitle: "Labi zināt",
         helpTips1: "Jūsu pamatkarte, kartes apjoms, un slānis dati palikt tāds pats. Salīdzinājums izmanto pagaidu slāņa kopijas.",
         helpTips2: "Jūsu izvēle attiecas tikai uz šo atvērto programmu. Tie netiek saglabāti tīmekļa kartē.",
-        helpTips3: "Izmantojiet rūtiņas Layer Salīdzināt, salīdzinot. Lai piemērotu filtra vai stila izmaiņas, kas veiktas citur, apturiet un sāciet salīdzināšanu vēlreiz."
+        helpTips3: "Izmantojiet rūtiņas Layer Salīdzināt, salīdzinot. Lai piemērotu filtra vai stila izmaiņas, kas veiktas citur, apturiet un sāciet salīdzināšanu vēlreiz.",
+        unknownError: "unknown error",
+        unserializableError: "unserializable error"
       })
     }
   }

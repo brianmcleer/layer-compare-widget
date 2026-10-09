@@ -62,7 +62,7 @@ System.register([], function (e) {
         helpSearchPlaceholder: "Cerca la guia (asterria \" o \"slider\")",
         helpNoMatches: "Res en la guia coincideix amb aquesta paraula. Proveu-ne una altra, o obriu les seccions de dalt.",
         helpAnd: "i",
-        firstRunTitle: "New here?",
+        firstRunTitle: "Nova aquí?",
         firstRunBody: "Escolliu capes per a cada costat, seleccioneu Inicia la comparació, i després arrossegueu el divisor en el mapa.",
         firstRunHelpLink: "Obre la guia.",
         firstRunDismiss: "Descarta el suggeriment",
@@ -94,7 +94,9 @@ System.register([], function (e) {
         helpTipsTitle: "Bo saber-ho",
         helpTips1: "El mapa base, l'abast del mapa i les dades de la capa romandran iguals. La comparació usa còpies de capa temporals.",
         helpTips2: "Les seleccions només s' apliquen en aquesta aplicació oberta. No són desats al mapa web.",
-        helpTips3: "Usa les caixes de selecció de la capa Compara quan es compara. Per aplicar el filtre o els canvis d' estil fets a un altre lloc, aturar i tornar a començar la comparació."
+        helpTips3: "Usa les caixes de selecció de la capa Compara quan es compara. Per aplicar el filtre o els canvis d' estil fets a un altre lloc, aturar i tornar a començar la comparació.",
+        unknownError: "unknown error",
+        unserializableError: "unserializable error"
       })
     }
   }

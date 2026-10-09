@@ -62,7 +62,7 @@ System.register([], function (e) {
         helpSearchPlaceholder: "Cari panduan (coba \"lapis\" atau \"slider\")",
         helpNoMatches: "Tidak ada dalam panduan cocok kata itu. Coba yang lain, atau buka bagian di atas.",
         helpAnd: "dan",
-        firstRunTitle: "New here?",
+        firstRunTitle: "Baru di sini?",
         firstRunBody: "Pilih lapisan untuk setiap sisi, pilih perbandingan Mulai, kemudian tarik pembagi pada peta.",
         firstRunHelpLink: "Buka panduannya.",
         firstRunDismiss: "Bubarkan petunjuknya",
@@ -94,7 +94,9 @@ System.register([], function (e) {
         helpTipsTitle: "Baik untuk mengetahui",
         helpTips1: "Peta dasar Anda, batas peta, dan data lapisan tetap sama. Perbandingan menggunakan salinan lapisan sementara.",
         helpTips2: "Pilihan Anda hanya berlaku dalam aplikasi terbuka ini. Mereka tidak disimpan ke peta web.",
-        helpTips3: "Gunakan kotak cek di Lapis Bandingkan sambil membandingkan. Untuk menerapkan filter atau perubahan gaya yang dibuat di tempat lain, berhenti dan mulai perbandingan lagi."
+        helpTips3: "Gunakan kotak cek di Lapis Bandingkan sambil membandingkan. Untuk menerapkan filter atau perubahan gaya yang dibuat di tempat lain, berhenti dan mulai perbandingan lagi.",
+        unknownError: "unknown error",
+        unserializableError: "unserializable error"
       })
     }
   }

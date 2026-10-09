@@ -58,7 +58,7 @@ export default function Setting (props: Props): React.ReactElement {
         await Promise.allSettled(roots.map(layer => withTimeout(Promise.resolve(layer.loadAll?.() ?? layer.load?.()))))
         if (!cancelled) { setCatalog(buildCatalog(mapView.view.map.layers, scope)); setError('') }
       } catch {
-        if (!cancelled) setError(messages.settingLoadError)
+        if (!cancelled) setError(t('settingLoadError'))
       } finally { if (!cancelled) setLoading(false) }
     })()
     return () => { cancelled = true }

@@ -20,11 +20,13 @@ import { buildHelpSections } from './helpSections'
 import { dismissHelpHint, isHelpHintDismissed } from './helpHint'
 import messages from './translations/default'
 import { beacon, type BeaconHandle } from '../shared/beacon'
+import { __setIntl } from './i18n-t'
 
 type Props = AllWidgetProps<IMConfig> & { id: string; useMapWidgetIds?: string[] }
 const { useEffect, useState, useRef, useCallback } = React
 
 export default function Widget (props: Props): React.ReactElement {
+  __setIntl((props as any).intl)
   const tokens = useTokens()
   const t = useCallback((id: string, values?: Record<string, any>) => translate(props.intl, messages, id, values), [props.intl])
   const [jimuMapView, setJimuMapView] = useState<JimuMapView>(null)

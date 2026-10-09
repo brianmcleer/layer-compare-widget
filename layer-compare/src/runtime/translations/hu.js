@@ -62,7 +62,7 @@ System.register([], function (e) {
         helpSearchPlaceholder: "Keresés az útmutató (próbálja \"rétegek\" vagy \"csúszka\")",
         helpNoMatches: "A kalauzban semmi sem egyezik ezzel a szóval. Próbálja meg egy másik, vagy nyissa ki a fenti szakaszok.",
         helpAnd: "és",
-        firstRunTitle: "New here?",
+        firstRunTitle: "Új itt?",
         firstRunBody: "Válassza ki a rétegeket mindkét oldalon, válassza Start összehasonlítás, majd húzza a megosztó a térképen.",
         firstRunHelpLink: "Nyisd ki az útmutatót.",
         firstRunDismiss: "Elutasítom a célzást.",
@@ -91,10 +91,12 @@ System.register([], function (e) {
         helpTrouble2: "Egy réteg nem elérhető: a szolgáltatás offline lehet, jelezhet, vagy a réteg típusa nem működik egy 2D térképen. Nézd meg azt a réteget a térképen.",
         helpTrouble3: "Az összehasonlítás egy réteg hozzáadása vagy eltávolítása után abbamaradt: a térkép megváltozott. Tekintse át a réteglistát, és válassza Start összehasonlítás újra.",
         helpTroubleContact: "Még mindig? Lépjen kapcsolatba a GIS Divízióval, és említse meg a Layer Összehasonlító nevet és ezt az alkalmazást.",
-        helpTipsTitle: "Jó tudni.",
+        helpTipsTitle: "Jó tudni",
         helpTips1: "A bázis, a térkép kiterjedése, és a réteg adatok ugyanazok maradnak. Az összehasonlítás ideiglenes rétegmásolatokat használ.",
         helpTips2: "Az Ön kiválasztása csak ebben a nyílt alkalmazásban érvényes. Ezek nem mentett a web térkép.",
-        helpTips3: "A Layer összehasonlításakor használja a jelölőnégyzetet. Ha máshol végzett szűrőt vagy stílusváltoztatást szeretne alkalmazni, állítsa le és kezdje újra az összehasonlítást."
+        helpTips3: "A Layer összehasonlításakor használja a jelölőnégyzetet. Ha máshol végzett szűrőt vagy stílusváltoztatást szeretne alkalmazni, állítsa le és kezdje újra az összehasonlítást.",
+        unknownError: "unknown error",
+        unserializableError: "unserializable error"
       })
     }
   }

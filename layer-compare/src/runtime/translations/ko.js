@@ -61,10 +61,10 @@ System.register([], function (e) {
         helpIntro: "레이어 비교는 이동식 분배기의 다른 측면에 선택한지도 레이어를 보여줍니다.",
         helpSearchPlaceholder: "가이드 검색 (try \"layers\" 또는 \"slider\")",
         helpNoMatches: "가이드의 아무것도 그 단어 일치. 다른 시도, 또는 위의 섹션을 엽니 다.",
-        helpAnd: "and",
-        firstRunTitle: "New here?",
+        helpAnd: "및",
+        firstRunTitle: "여기에 새로운?",
         firstRunBody: "각 측면에 레이어를 선택, 시작 비교를 선택, 다음지도에 디버를 드래그.",
-        firstRunHelpLink: "자주 묻는 질문",
+        firstRunHelpLink: "자주 묻는 질문.",
         firstRunDismiss: "힌트를 삭제",
         helpStartTitle: "여기에 시작: 세 단계",
         helpStart1: "층 목록에서, 각 측의 밑에 원하는 층을 검사하십시오. 당신은 몇몇 층을 선택할 수 있습니다.",
@@ -94,7 +94,9 @@ System.register([], function (e) {
         helpTipsTitle: "잘 알고",
         helpTips1: "당신의 basemap, 지도 범위 및 층 자료는 동일하게 체재합니다. 비교는 임시 층 사본을 이용합니다.",
         helpTips2: "선택은이 오픈 앱에서만 적용됩니다. 그들은 웹 맵에 저장되지 않습니다.",
-        helpTips3: "레이어의 체크 박스를 사용하여 비교하면서 비교합니다. 필터 또는 스타일 변경을 다른 곳에서 적용하려면, 중지하고 다시 비교를 시작합니다."
+        helpTips3: "레이어의 체크 박스를 사용하여 비교하면서 비교합니다. 필터 또는 스타일 변경을 다른 곳에서 적용하려면, 중지하고 다시 비교를 시작합니다.",
+        unknownError: "unknown error",
+        unserializableError: "unserializable error"
       })
     }
   }

@@ -62,7 +62,7 @@ System.register([], function (e) {
         helpSearchPlaceholder: "Busca la guía (de \"capas\" o \"slider\")",
         helpNoMatches: "Nada en la guía coincide con esa palabra. Pruebe otro, o abra las secciones anteriores.",
         helpAnd: "y",
-        firstRunTitle: "New here?",
+        firstRunTitle: "¿Eres nuevo aquí?",
         firstRunBody: "Elija capas para cada lado, seleccione Iniciar la comparación, luego arrastre el separador en el mapa.",
         firstRunHelpLink: "Abre el guía.",
         firstRunDismiss: "Desestimar la pista",
@@ -91,10 +91,12 @@ System.register([], function (e) {
         helpTrouble2: "Una capa no está disponible: su servicio puede estar fuera de línea, puede requerir registro, o su tipo de capa puede no trabajar en un mapa 2D. Revise esa capa en el mapa.",
         helpTrouble3: "La comparación se detuvo después de añadir o eliminar una capa: el mapa cambió. Revise la lista de capas y seleccione Iniciar la comparación de nuevo.",
         helpTroubleContact: "¿Sigues atrapado? Contacta con la División GIS y menciona el nombre de Layer Compare y esta aplicación.",
-        helpTipsTitle: "Es bueno saberlo.",
+        helpTipsTitle: "Es bueno saberlo",
         helpTips1: "Su mapa base, extensión de mapa y datos de capas permanecen iguales. La comparación utiliza copias temporales de capa.",
         helpTips2: "Sus selecciones se aplican sólo en esta aplicación abierta. No se guardan en el mapa web.",
-        helpTips3: "Utilice las casillas de verificación en Layer Compare mientras se compara. Para aplicar los cambios de filtro o estilo hechos en otro lugar, detenga y comience la comparación de nuevo."
+        helpTips3: "Utilice las casillas de verificación en Layer Compare mientras se compara. Para aplicar los cambios de filtro o estilo hechos en otro lugar, detenga y comience la comparación de nuevo.",
+        unknownError: "unknown error",
+        unserializableError: "unserializable error"
       })
     }
   }

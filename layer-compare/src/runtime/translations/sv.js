@@ -62,7 +62,7 @@ System.register([], function (e) {
         helpSearchPlaceholder: "Sök guiden (försök \"lager\" eller \"slider\")",
         helpNoMatches: "Ingenting i guiden matchar det ordet. Prova en annan, eller öppna avsnitten ovan.",
         helpAnd: "och",
-        firstRunTitle: "New here?",
+        firstRunTitle: "Ny här?",
         firstRunBody: "Välj lager för varje sida, välj Start jämförelse, dra sedan divideren på kartan.",
         firstRunHelpLink: "Öppna guiden.",
         firstRunDismiss: "Avfärda antydan",
@@ -94,7 +94,9 @@ System.register([], function (e) {
         helpTipsTitle: "Bra att veta",
         helpTips1: "Din baskarta, kart omfattning och lagerdata förblir densamma. Jämförelsen använder tillfälliga lagerkopior.",
         helpTips2: "Dina val gäller endast i denna öppna app. De sparas inte på webbkartan.",
-        helpTips3: "Använd kryssrutorna i Layer Jämför när du jämför. För att tillämpa filter- eller stiländringar som gjorts någon annanstans, stoppa och starta jämförelsen igen."
+        helpTips3: "Använd kryssrutorna i Layer Jämför när du jämför. För att tillämpa filter- eller stiländringar som gjorts någon annanstans, stoppa och starta jämförelsen igen.",
+        unknownError: "unknown error",
+        unserializableError: "unserializable error"
       })
     }
   }

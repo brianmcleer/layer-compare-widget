@@ -62,7 +62,7 @@ System.register([], function (e) {
         helpSearchPlaceholder: "搜索指南( try \"layers\" 或 \"slipper\")",
         helpNoMatches: "指南中没有任何内容与这个词相符。 尝试另一个,或者打开上面的部分。",
         helpAnd: "和",
-        firstRunTitle: "New here?",
+        firstRunTitle: "新来的?",
         firstRunBody: "为每边选择图层,选择“启动”比较,然后在地图上拖动分隔符。",
         firstRunHelpLink: "开导.",
         firstRunDismiss: "解开提示",
@@ -94,7 +94,9 @@ System.register([], function (e) {
         helpTipsTitle: "很高兴知道",
         helpTips1: "您的底图、 地图范围、 和图层数据保持不变 。 比较使用临时层复制.",
         helpTips2: "您的选择仅适用于此开放的应用程序 。 它们没有保存在网络地图中 。",
-        helpTips3: "在比较时使用图层中的复选框。 要应用别处的过滤器或样式修改,请停止并重新开始比较。"
+        helpTips3: "在比较时使用图层中的复选框。 要应用别处的过滤器或样式修改,请停止并重新开始比较。",
+        unknownError: "unknown error",
+        unserializableError: "unserializable error"
       })
     }
   }

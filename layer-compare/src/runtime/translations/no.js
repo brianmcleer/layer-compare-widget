@@ -62,7 +62,7 @@ System.register([], function (e) {
         helpSearchPlaceholder: "Søk i guiden (prøv \"lag\" eller \"slider\"))",
         helpNoMatches: "Ingenting i guiden stemmer med det ordet. Prøv en annen, eller åpne seksjonene ovenfor.",
         helpAnd: "og",
-        firstRunTitle: "New here?",
+        firstRunTitle: "Ny her?",
         firstRunBody: "Velg lag for hver side, velg Start sammenligning, og dra deretter deleren på kartet.",
         firstRunHelpLink: "Åpne guiden.",
         firstRunDismiss: "Avslutt hintet",
@@ -94,7 +94,9 @@ System.register([], function (e) {
         helpTipsTitle: "Godt å vite",
         helpTips1: "Basekart, kart og lagdata forblir det samme. Sammenligningen bruker midlertidige lag kopier.",
         helpTips2: "Ditt valg gjelder kun i denne åpne appen. De lagres ikke på nettet.",
-        helpTips3: "Bruk avkrysningsboksene i lag Sammenlign mens du sammenligner. For å bruke filter- eller stilendringer gjort andre steder, stopp og start sammenligningen igjen."
+        helpTips3: "Bruk avkrysningsboksene i lag Sammenlign mens du sammenligner. For å bruke filter- eller stilendringer gjort andre steder, stopp og start sammenligningen igjen.",
+        unknownError: "unknown error",
+        unserializableError: "unserializable error"
       })
     }
   }

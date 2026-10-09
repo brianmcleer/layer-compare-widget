@@ -62,7 +62,7 @@ System.register([], function (e) {
         helpSearchPlaceholder: "Etsi opas (yritä \"kerroksia\" tai \"slider\")",
         helpNoMatches: "Mikään oppaassa ei vastaa tuota sanaa. Kokeile toista, tai avaa kohdat yllä.",
         helpAnd: "ja",
-        firstRunTitle: "New here?",
+        firstRunTitle: "Uusi täällä?",
         firstRunBody: "Valitse kerrokset kummallekin sivulle, valitse Käynnistä vertailu ja vedä jakajaa kartalle.",
         firstRunHelpLink: "Avaa opas.",
         firstRunDismiss: "Hylkää vihje",
@@ -86,7 +86,7 @@ System.register([], function (e) {
         helpStop1: "Seis vertailu poistaa jakaja ja palauttaa kartan näkyvyyden. Sivuvalikoimasi pysyvät valmiina seuraavaa vertailua varten.",
         helpStop2: "Nollaa keskeyttää vertailun, palauttaa oletusvalinnat ja palauttaa jakajan sijainnin ja suunnan.",
         helpStop3: "Sovelman sulkeminen, kartan muuttaminen tai sovelluksen jättäminen estää myös vertailun.",
-        helpTroubleTitle: "Jos jokin näyttää väärältä.",
+        helpTroubleTitle: "Jos jokin näyttää väärältä",
         helpTrouble1: "Yksi kerros puuttuu: se voi olla nykyisen kartta-asteikon ulkopuolella. Zoomaa sisään tai ulos ja tarkista viesti sen alla.",
         helpTrouble2: "Taso ei ole käytettävissä: sen palvelu voi olla offline, se voi vaatia kirjautumista, tai sen kerrostyyppi ei välttämättä toimi 2D-kartassa. Tarkista tuo kerros kartasta.",
         helpTrouble3: "Vertailu loppui kerroksen lisäämisen tai poistamisen jälkeen: kartta muuttui. Tarkista kerrosluettelo ja valitse Käynnistä vertailu uudelleen.",
@@ -94,7 +94,9 @@ System.register([], function (e) {
         helpTipsTitle: "Hyvä tietää",
         helpTips1: "Pohjakarttasi, karttasi laajuus ja kerrostiedot pysyvät samoina. Vertailussa käytetään väliaikaisia kerroskopioita.",
         helpTips2: "Valintasi koskevat vain tätä avointa sovellusta. Niitä ei ole tallennettu nettikartalle.",
-        helpTips3: "Käytä valintaruutuja Layer Vertaile vertailtaessa. Jos haluat soveltaa muualla tehtyjä suodatin- tai tyylimuutoksia, keskeytä ja aloita vertailu uudelleen."
+        helpTips3: "Käytä valintaruutuja Layer Vertaile vertailtaessa. Jos haluat soveltaa muualla tehtyjä suodatin- tai tyylimuutoksia, keskeytä ja aloita vertailu uudelleen.",
+        unknownError: "unknown error",
+        unserializableError: "unserializable error"
       })
     }
   }

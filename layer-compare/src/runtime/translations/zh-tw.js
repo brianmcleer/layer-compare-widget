@@ -60,11 +60,11 @@ System.register([], function (e) {
         close: "關閉",
         helpIntro: "層次比對顯示您選擇的地圖層在可動分割符的不同邊緣 。",
         helpSearchPlaceholder: "搜尋導覽( 嘗試「 層級 」 或「 滑行者 」 )",
-        helpNoMatches: "向导裡沒有什麼能符合這個詞的 再試一次,或者打開上面的區域",
+        helpNoMatches: "向导裡沒有什麼能符合這個詞的 再試一次,或者打開上面的區域.",
         helpAnd: "和",
-        firstRunTitle: "New here?",
+        firstRunTitle: "新來的?",
         firstRunBody: "選擇每邊的層次, 選擇啟動比對, 然後拖曳在地圖上 。",
-        firstRunHelpLink: "打開向导",
+        firstRunHelpLink: "打開向导.",
         firstRunDismiss: "取消提示",
         helpStartTitle: "從這裡開始: 三步",
         helpStart1: "在層面清單中, 請檢查您想要的層面 。 您可以選擇多層 。",
@@ -94,7 +94,9 @@ System.register([], function (e) {
         helpTipsTitle: "很高興知道",
         helpTips1: "您的基底圖、 地圖範圍、 層層數據都一樣 。 比較使用暫時層面副本 。",
         helpTips2: "您的選擇只應用於此開啟的應用程式 。 它們沒有儲存到網頁地圖中 。",
-        helpTips3: "比較時使用圖層中的對話框 。 要套用在別處做的過程或樣式變更, 請停止並重新開始比對 。"
+        helpTips3: "比較時使用圖層中的對話框 。 要套用在別處做的過程或樣式變更, 請停止並重新開始比對 。",
+        unknownError: "unknown error",
+        unserializableError: "unserializable error"
       })
     }
   }

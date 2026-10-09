@@ -3,8 +3,8 @@
   "generator": "exb-i18n-kit",
   "parts": {
     "runtime": {
-      "en": "7014144e549c",
-      "keys": 92,
+      "en": "d2390e7d7e06",
+      "keys": 94,
       "hashes": {
         "_widgetLabel": "6bfaa4178b12",
         "title": "6bfaa4178b12",
@@ -97,20 +97,22 @@
         "helpTipsTitle": "79fc372dc790",
         "helpTips1": "02d5a1c4de99",
         "helpTips2": "b86ac4292304",
-        "helpTips3": "a69fcc41b12e"
+        "helpTips3": "a69fcc41b12e",
+        "unknownError": "af6321ca7a8b",
+        "unserializableError": "76e73551597a"
       },
       "locales": {
         "ar": {
-          "file": "d42b2739fbea",
+          "file": "0fe4a4e9894e",
           "counts": {
-            "esri": 10,
+            "esri": 15,
             "esri-check": 1,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 81,
+            "machine": 76,
             "stale": 0,
-            "missing": 0
+            "missing": 2
           },
           "entries": {
             "_widgetLabel": {
@@ -353,30 +355,15 @@
               "src": "machine",
               "h": "87b3ece01e65"
             },
-            "helpNoMatches": {
-              "t": "لا شيء في الدليل يطابق تلك الكلمة جرّبْ آخر، أَو يَفْتحُ الأقسامَ أعلاه.",
-              "src": "machine",
-              "h": "3fe179f75330"
-            },
             "firstRunBody": {
               "t": "اختر طبقات لكل جانب، اختيار مقارنة البداية، ثم سحب فاصلة على الخريطة.",
               "src": "machine",
               "h": "2b585a5250a7"
             },
-            "firstRunHelpLink": {
-              "t": "افتح الدليل",
-              "src": "machine",
-              "h": "2447dd6134ea"
-            },
             "firstRunDismiss": {
               "t": "انزع التلميح",
               "src": "machine",
               "h": "7de6acab53c4"
-            },
-            "helpStartTitle": {
-              "t": "ابدأ هنا: ثلاث خطوات",
-              "src": "machine",
-              "h": "789320b4831d"
             },
             "helpStart1": {
               "t": "في قائمة الطبقات تفقد الطبقات التي تريدها تحت كل جانب يمكنك اختيار عدة طبقات",
@@ -473,11 +460,6 @@
               "src": "machine",
               "h": "0ffba3196927"
             },
-            "helpTroubleTitle": {
-              "t": "إذا كان هناك شيء ما يبدو خاطئا",
-              "src": "machine",
-              "h": "6f7fec3ff1e0"
-            },
             "helpTrouble1": {
               "t": "طبقة مفقودة: قد تكون خارج نطاق الخريطة الحالي. تكبير في أو خارج، والتحقق من المذكرة تحت اسمها.",
               "src": "machine",
@@ -498,11 +480,6 @@
               "src": "machine",
               "h": "c97cca84242a"
             },
-            "helpTipsTitle": {
-              "t": "من الجيد معرفة",
-              "src": "machine",
-              "h": "79fc372dc790"
-            },
             "helpTips1": {
               "t": "خريطة قاعدتك، مدى الخريطة، وبيانات الطبقات تبقى على حالها. وتستخدم المقارنة نسخاً مؤقتة من الطبقات.",
               "src": "machine",
@@ -521,16 +498,16 @@
           }
         },
         "bg": {
-          "file": "df1e3add8e12",
+          "file": "5d6301d01158",
           "counts": {
-            "esri": 10,
+            "esri": 15,
             "esri-check": 1,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 81,
+            "machine": 76,
             "stale": 0,
-            "missing": 0
+            "missing": 2
           },
           "entries": {
             "_widgetLabel": {
@@ -773,30 +750,15 @@
               "src": "machine",
               "h": "87b3ece01e65"
             },
-            "helpNoMatches": {
-              "t": "Нищо в ръководството не съвпада с тази дума. Опитайте друг, или отвори секциите по-горе.",
-              "src": "machine",
-              "h": "3fe179f75330"
-            },
             "firstRunBody": {
               "t": "Изберете слоеве за всяка страна, изберете Сравнение Start, след което плъзнете делителя на картата.",
               "src": "machine",
               "h": "2b585a5250a7"
             },
-            "firstRunHelpLink": {
-              "t": "Отвори гидът.",
-              "src": "machine",
-              "h": "2447dd6134ea"
-            },
             "firstRunDismiss": {
               "t": "Освободете намека.",
               "src": "machine",
               "h": "7de6acab53c4"
-            },
-            "helpStartTitle": {
-              "t": "Започнете от тук: три стъпки",
-              "src": "machine",
-              "h": "789320b4831d"
             },
             "helpStart1": {
               "t": "В списъка на слоевете проверете слоевете под всяка страна. Можете да изберете няколко слоя.",
@@ -893,11 +855,6 @@
               "src": "machine",
               "h": "0ffba3196927"
             },
-            "helpTroubleTitle": {
-              "t": "Ако нещо не е наред",
-              "src": "machine",
-              "h": "6f7fec3ff1e0"
-            },
             "helpTrouble1": {
               "t": "Липсва слой: той може да бъде извън текущата скала на картата. Увеличи или изключи и провери бележката под името й.",
               "src": "machine",
@@ -918,11 +875,6 @@
               "src": "machine",
               "h": "c97cca84242a"
             },
-            "helpTipsTitle": {
-              "t": "Добре е да го знам.",
-              "src": "machine",
-              "h": "79fc372dc790"
-            },
             "helpTips1": {
               "t": "Базата ти карта, картата и данните от слоевете остават същите. Сравнението използва временни пластови копия.",
               "src": "machine",
@@ -941,30 +893,30 @@
           }
         },
         "bs": {
-          "file": "613b9d5e7af5",
+          "file": "0d437570721c",
           "counts": {
-            "esri": 10,
+            "esri": 9,
             "esri-check": 1,
             "community": 0,
             "manual": 0,
             "existing": 0,
             "machine": 0,
             "stale": 0,
-            "missing": 81
+            "missing": 84
           },
           "entries": {}
         },
         "ca": {
-          "file": "88132ebd8606",
+          "file": "659c4ada7b3b",
           "counts": {
-            "esri": 6,
+            "esri": 11,
             "esri-check": 5,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 81,
+            "machine": 76,
             "stale": 0,
-            "missing": 0
+            "missing": 2
           },
           "entries": {
             "_widgetLabel": {
@@ -1207,30 +1159,15 @@
               "src": "machine",
               "h": "87b3ece01e65"
             },
-            "helpNoMatches": {
-              "t": "Res en la guia coincideix amb aquesta paraula. Proveu-ne una altra, o obriu les seccions de dalt.",
-              "src": "machine",
-              "h": "3fe179f75330"
-            },
             "firstRunBody": {
               "t": "Escolliu capes per a cada costat, seleccioneu Inicia la comparació, i després arrossegueu el divisor en el mapa.",
               "src": "machine",
               "h": "2b585a5250a7"
             },
-            "firstRunHelpLink": {
-              "t": "Obre la guia.",
-              "src": "machine",
-              "h": "2447dd6134ea"
-            },
             "firstRunDismiss": {
               "t": "Descarta el suggeriment",
               "src": "machine",
               "h": "7de6acab53c4"
-            },
-            "helpStartTitle": {
-              "t": "Comença aquí: tres passes",
-              "src": "machine",
-              "h": "789320b4831d"
             },
             "helpStart1": {
               "t": "En la llista de capes, marqueu les capes que voleu a cada costat. Podeu escollir diverses capes.",
@@ -1327,11 +1264,6 @@
               "src": "machine",
               "h": "0ffba3196927"
             },
-            "helpTroubleTitle": {
-              "t": "Si alguna cosa sembla malament",
-              "src": "machine",
-              "h": "6f7fec3ff1e0"
-            },
             "helpTrouble1": {
               "t": "Falta una capa: Pot estar fora de l' escala del mapa actual. Apropa o allunya, i comprova la nota sota el seu nom.",
               "src": "machine",
@@ -1352,11 +1284,6 @@
               "src": "machine",
               "h": "c97cca84242a"
             },
-            "helpTipsTitle": {
-              "t": "Bo saber-ho",
-              "src": "machine",
-              "h": "79fc372dc790"
-            },
             "helpTips1": {
               "t": "El mapa base, l'abast del mapa i les dades de la capa romandran iguals. La comparació usa còpies de capa temporals.",
               "src": "machine",
@@ -1375,16 +1302,16 @@
           }
         },
         "cs": {
-          "file": "baa38e8f3105",
+          "file": "33096f4ec14f",
           "counts": {
-            "esri": 6,
+            "esri": 11,
             "esri-check": 5,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 81,
+            "machine": 76,
             "stale": 0,
-            "missing": 0
+            "missing": 2
           },
           "entries": {
             "_widgetLabel": {
@@ -1627,30 +1554,15 @@
               "src": "machine",
               "h": "87b3ece01e65"
             },
-            "helpNoMatches": {
-              "t": "Nic v průvodci neodpovídá tomu slovu. Zkuste jiný, nebo otevřete sekce výše.",
-              "src": "machine",
-              "h": "3fe179f75330"
-            },
             "firstRunBody": {
               "t": "Vyberte vrstvy pro každou stranu, vyberte Spuštění porovnání a pak přetáhněte dělič na mapě.",
               "src": "machine",
               "h": "2b585a5250a7"
             },
-            "firstRunHelpLink": {
-              "t": "Otevři průvodce.",
-              "src": "machine",
-              "h": "2447dd6134ea"
-            },
             "firstRunDismiss": {
               "t": "Zamítněte nápovědu",
               "src": "machine",
               "h": "7de6acab53c4"
-            },
-            "helpStartTitle": {
-              "t": "Začněte zde: tři kroky",
-              "src": "machine",
-              "h": "789320b4831d"
             },
             "helpStart1": {
               "t": "V seznamu vrstev zkontrolujte vrstvy, které chcete pod každou stranou. Můžete si vybrat několik vrstev.",
@@ -1747,11 +1659,6 @@
               "src": "machine",
               "h": "0ffba3196927"
             },
-            "helpTroubleTitle": {
-              "t": "Pokud něco vypadá špatně",
-              "src": "machine",
-              "h": "6f7fec3ff1e0"
-            },
             "helpTrouble1": {
               "t": "Chybí vrstva: může být mimo aktuální měřítko mapy. Přiblížit nebo ven, a zkontrolujte poznámku pod jeho jménem.",
               "src": "machine",
@@ -1772,11 +1679,6 @@
               "src": "machine",
               "h": "c97cca84242a"
             },
-            "helpTipsTitle": {
-              "t": "Dobré vědět.",
-              "src": "machine",
-              "h": "79fc372dc790"
-            },
             "helpTips1": {
               "t": "Vaše základní mapa, rozsah mapy a data z vrstvy zůstávají stejná. Srovnání používá dočasné kopie vrstvy.",
               "src": "machine",
@@ -1795,16 +1697,16 @@
           }
         },
         "da": {
-          "file": "a2e681a98018",
+          "file": "bdb68176b5a7",
           "counts": {
-            "esri": 10,
+            "esri": 14,
             "esri-check": 1,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 81,
+            "machine": 77,
             "stale": 0,
-            "missing": 0
+            "missing": 2
           },
           "entries": {
             "_widgetLabel": {
@@ -1841,6 +1743,11 @@
               "t": "Centerdeler",
               "src": "machine",
               "h": "779a6708e9c5"
+            },
+            "top": {
+              "t": "Top",
+              "src": "machine",
+              "h": "cae0435c41e8"
             },
             "leftRight": {
               "t": "Venstre / højre",
@@ -2047,30 +1954,15 @@
               "src": "machine",
               "h": "87b3ece01e65"
             },
-            "helpNoMatches": {
-              "t": "Intet i guiden matcher det ord. Prøv en anden, eller åbn afsnittene ovenfor.",
-              "src": "machine",
-              "h": "3fe179f75330"
-            },
             "firstRunBody": {
               "t": "Vælg lag for hver side, vælg Start sammenligning, og træk derefter divideren på kortet.",
               "src": "machine",
               "h": "2b585a5250a7"
             },
-            "firstRunHelpLink": {
-              "t": "Åbn guiden.",
-              "src": "machine",
-              "h": "2447dd6134ea"
-            },
             "firstRunDismiss": {
               "t": "Afvis vinklen",
               "src": "machine",
               "h": "7de6acab53c4"
-            },
-            "helpStartTitle": {
-              "t": "Start her: tre trin",
-              "src": "machine",
-              "h": "789320b4831d"
             },
             "helpStart1": {
               "t": "I laglisten, kontrollere de lag, du ønsker under hver side. Du kan vælge flere lag.",
@@ -2167,11 +2059,6 @@
               "src": "machine",
               "h": "0ffba3196927"
             },
-            "helpTroubleTitle": {
-              "t": "Hvis noget ser forkert ud",
-              "src": "machine",
-              "h": "6f7fec3ff1e0"
-            },
             "helpTrouble1": {
               "t": "Der mangler et lag: Det kan ligge uden for den aktuelle kortskala. Zoom ind eller ud, og tjek sedlen under dens navn.",
               "src": "machine",
@@ -2192,11 +2079,6 @@
               "src": "machine",
               "h": "c97cca84242a"
             },
-            "helpTipsTitle": {
-              "t": "Godt at vide",
-              "src": "machine",
-              "h": "79fc372dc790"
-            },
             "helpTips1": {
               "t": "Din basemap, kort udstrækning, og lag data forbliver det samme. Sammenligningen bruger midlertidige lag kopier.",
               "src": "machine",
@@ -2215,16 +2097,16 @@
           }
         },
         "de": {
-          "file": "1bb106779c61",
+          "file": "3fa214a2e53c",
           "counts": {
-            "esri": 9,
+            "esri": 14,
             "esri-check": 2,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 81,
+            "machine": 76,
             "stale": 0,
-            "missing": 0
+            "missing": 2
           },
           "entries": {
             "_widgetLabel": {
@@ -2467,30 +2349,15 @@
               "src": "machine",
               "h": "87b3ece01e65"
             },
-            "helpNoMatches": {
-              "t": "Nichts im Guide passt zu diesem Wort. Versuchen Sie es mit einem anderen oder öffnen Sie die obigen Abschnitte.",
-              "src": "machine",
-              "h": "3fe179f75330"
-            },
             "firstRunBody": {
               "t": "Wählen Sie Ebenen für jede Seite aus, wählen Sie den Vergleich Start aus und ziehen Sie dann den Teiler auf die Karte.",
               "src": "machine",
               "h": "2b585a5250a7"
             },
-            "firstRunHelpLink": {
-              "t": "Öffne den Guide.",
-              "src": "machine",
-              "h": "2447dd6134ea"
-            },
             "firstRunDismiss": {
               "t": "Verwerfen Sie den Hinweis",
               "src": "machine",
               "h": "7de6acab53c4"
-            },
-            "helpStartTitle": {
-              "t": "Beginnen Sie hier: drei Schritte",
-              "src": "machine",
-              "h": "789320b4831d"
             },
             "helpStart1": {
               "t": "Überprüfen Sie in der Layerliste die Layer, die Sie unter jeder Seite haben möchten. Sie können mehrere Schichten auswählen.",
@@ -2587,11 +2454,6 @@
               "src": "machine",
               "h": "0ffba3196927"
             },
-            "helpTroubleTitle": {
-              "t": "Wenn etwas falsch aussieht",
-              "src": "machine",
-              "h": "6f7fec3ff1e0"
-            },
             "helpTrouble1": {
               "t": "Eine Schicht fehlt: Sie kann außerhalb der aktuellen Kartenskala liegen. Zoom in oder out, und überprüfen Sie die Notiz unter seinem Namen.",
               "src": "machine",
@@ -2612,11 +2474,6 @@
               "src": "machine",
               "h": "c97cca84242a"
             },
-            "helpTipsTitle": {
-              "t": "Gut zu wissen",
-              "src": "machine",
-              "h": "79fc372dc790"
-            },
             "helpTips1": {
               "t": "Ihre Basiskarte, Kartenausdehnung und Schichtdaten bleiben gleich. Der Vergleich verwendet temporäre Schichtkopien.",
               "src": "machine",
@@ -2635,16 +2492,16 @@
           }
         },
         "el": {
-          "file": "5ee5848a4c6f",
+          "file": "0bcb5bccd066",
           "counts": {
-            "esri": 9,
+            "esri": 14,
             "esri-check": 2,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 81,
+            "machine": 76,
             "stale": 0,
-            "missing": 0
+            "missing": 2
           },
           "entries": {
             "_widgetLabel": {
@@ -2887,30 +2744,15 @@
               "src": "machine",
               "h": "87b3ece01e65"
             },
-            "helpNoMatches": {
-              "t": "Τίποτα στον οδηγό δεν ταιριάζει με αυτή τη λέξη. Δοκιμάστε ένα άλλο, ή ανοίξτε τα τμήματα παραπάνω.",
-              "src": "machine",
-              "h": "3fe179f75330"
-            },
             "firstRunBody": {
               "t": "Επιλέξτε στρώματα για κάθε πλευρά, επιλέξτε Έναρξη σύγκρισης, στη συνέχεια σύρετε το διαχωριστικό στο χάρτη.",
               "src": "machine",
               "h": "2b585a5250a7"
             },
-            "firstRunHelpLink": {
-              "t": "Άνοιξε τον οδηγό.",
-              "src": "machine",
-              "h": "2447dd6134ea"
-            },
             "firstRunDismiss": {
               "t": "Απόρριψη υποδείξεων",
               "src": "machine",
               "h": "7de6acab53c4"
-            },
-            "helpStartTitle": {
-              "t": "Εκκίνηση εδώ: τρία βήματα",
-              "src": "machine",
-              "h": "789320b4831d"
             },
             "helpStart1": {
               "t": "Στη λίστα στρωμάτων, ελέγξτε τα στρώματα που θέλετε κάτω από κάθε πλευρά. Μπορείτε να επιλέξετε διάφορα στρώματα.",
@@ -3007,11 +2849,6 @@
               "src": "machine",
               "h": "0ffba3196927"
             },
-            "helpTroubleTitle": {
-              "t": "Αν κάτι φαίνεται λάθος",
-              "src": "machine",
-              "h": "6f7fec3ff1e0"
-            },
             "helpTrouble1": {
               "t": "Λείπει ένα στρώμα: μπορεί να είναι έξω από την τρέχουσα κλίμακα χάρτη. Μεγέθυνε ή βγες, και έλεγξε το σημείωμα κάτω από το όνομά του.",
               "src": "machine",
@@ -3032,11 +2869,6 @@
               "src": "machine",
               "h": "c97cca84242a"
             },
-            "helpTipsTitle": {
-              "t": "Χαίρομαι που το μαθαίνω.",
-              "src": "machine",
-              "h": "79fc372dc790"
-            },
             "helpTips1": {
               "t": "Ο χάρτης βάσης, η έκταση του χάρτη και τα δεδομένα του στρώματος παραμένουν ίδια. Η σύγκριση χρησιμοποιεί αντίγραφα προσωρινού στρώματος.",
               "src": "machine",
@@ -3055,16 +2887,16 @@
           }
         },
         "es": {
-          "file": "f5f5878e039f",
+          "file": "095d32481294",
           "counts": {
-            "esri": 8,
+            "esri": 13,
             "esri-check": 3,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 81,
+            "machine": 76,
             "stale": 0,
-            "missing": 0
+            "missing": 2
           },
           "entries": {
             "_widgetLabel": {
@@ -3307,30 +3139,15 @@
               "src": "machine",
               "h": "87b3ece01e65"
             },
-            "helpNoMatches": {
-              "t": "Nada en la guía coincide con esa palabra. Pruebe otro, o abra las secciones anteriores.",
-              "src": "machine",
-              "h": "3fe179f75330"
-            },
             "firstRunBody": {
               "t": "Elija capas para cada lado, seleccione Iniciar la comparación, luego arrastre el separador en el mapa.",
               "src": "machine",
               "h": "2b585a5250a7"
             },
-            "firstRunHelpLink": {
-              "t": "Abre el guía.",
-              "src": "machine",
-              "h": "2447dd6134ea"
-            },
             "firstRunDismiss": {
               "t": "Desestimar la pista",
               "src": "machine",
               "h": "7de6acab53c4"
-            },
-            "helpStartTitle": {
-              "t": "Empieza aquí: tres pasos",
-              "src": "machine",
-              "h": "789320b4831d"
             },
             "helpStart1": {
               "t": "En la lista de capas, compruebe las capas que desea debajo de cada lado. Puede elegir varias capas.",
@@ -3427,11 +3244,6 @@
               "src": "machine",
               "h": "0ffba3196927"
             },
-            "helpTroubleTitle": {
-              "t": "Si algo se ve mal",
-              "src": "machine",
-              "h": "6f7fec3ff1e0"
-            },
             "helpTrouble1": {
               "t": "Falta una capa: puede estar fuera de la escala de mapa actual. Entre o salga, y compruebe la nota bajo su nombre.",
               "src": "machine",
@@ -3452,11 +3264,6 @@
               "src": "machine",
               "h": "c97cca84242a"
             },
-            "helpTipsTitle": {
-              "t": "Es bueno saberlo.",
-              "src": "machine",
-              "h": "79fc372dc790"
-            },
             "helpTips1": {
               "t": "Su mapa base, extensión de mapa y datos de capas permanecen iguales. La comparación utiliza copias temporales de capa.",
               "src": "machine",
@@ -3475,16 +3282,16 @@
           }
         },
         "et": {
-          "file": "f1439be7f404",
+          "file": "a31808bae0ac",
           "counts": {
-            "esri": 9,
+            "esri": 14,
             "esri-check": 2,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 81,
+            "machine": 76,
             "stale": 0,
-            "missing": 0
+            "missing": 2
           },
           "entries": {
             "_widgetLabel": {
@@ -3727,30 +3534,15 @@
               "src": "machine",
               "h": "87b3ece01e65"
             },
-            "helpNoMatches": {
-              "t": "Mitte miski juhendis ei klapi selle sõnaga. Proovige teist või avage ülaltoodud lõigud.",
-              "src": "machine",
-              "h": "3fe179f75330"
-            },
             "firstRunBody": {
               "t": "Vali iga külje kihid, vali Start comparison ja lohista seejärel kaardil jagaja.",
               "src": "machine",
               "h": "2b585a5250a7"
             },
-            "firstRunHelpLink": {
-              "t": "Tee teejuht lahti.",
-              "src": "machine",
-              "h": "2447dd6134ea"
-            },
             "firstRunDismiss": {
               "t": "Tühista vihje",
               "src": "machine",
               "h": "7de6acab53c4"
-            },
-            "helpStartTitle": {
-              "t": "Alusta siit: kolm sammu",
-              "src": "machine",
-              "h": "789320b4831d"
             },
             "helpStart1": {
               "t": "Kihtide loendis kontrollige iga külje all soovitud kihte. Võite valida mitu kihti.",
@@ -3847,11 +3639,6 @@
               "src": "machine",
               "h": "0ffba3196927"
             },
-            "helpTroubleTitle": {
-              "t": "Kui midagi on valesti",
-              "src": "machine",
-              "h": "6f7fec3ff1e0"
-            },
             "helpTrouble1": {
               "t": "Puudub kiht: see võib olla väljaspool aktiivset kaardiskaalat. Suurendage või vähendage ja kontrollige oma nime all olevat märkust.",
               "src": "machine",
@@ -3872,11 +3659,6 @@
               "src": "machine",
               "h": "c97cca84242a"
             },
-            "helpTipsTitle": {
-              "t": "Hea teada",
-              "src": "machine",
-              "h": "79fc372dc790"
-            },
             "helpTips1": {
               "t": "Teie baaskaart, kaardi ulatus ja kihtandmed jäävad samaks. Võrdluseks kasutatakse ajutisi kihikoopiaid.",
               "src": "machine",
@@ -3895,16 +3677,16 @@
           }
         },
         "fi": {
-          "file": "e1172948bdd4",
+          "file": "65d385616b12",
           "counts": {
-            "esri": 9,
+            "esri": 14,
             "esri-check": 2,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 81,
+            "machine": 76,
             "stale": 0,
-            "missing": 0
+            "missing": 2
           },
           "entries": {
             "_widgetLabel": {
@@ -4147,30 +3929,15 @@
               "src": "machine",
               "h": "87b3ece01e65"
             },
-            "helpNoMatches": {
-              "t": "Mikään oppaassa ei vastaa tuota sanaa. Kokeile toista, tai avaa kohdat yllä.",
-              "src": "machine",
-              "h": "3fe179f75330"
-            },
             "firstRunBody": {
               "t": "Valitse kerrokset kummallekin sivulle, valitse Käynnistä vertailu ja vedä jakajaa kartalle.",
               "src": "machine",
               "h": "2b585a5250a7"
             },
-            "firstRunHelpLink": {
-              "t": "Avaa opas.",
-              "src": "machine",
-              "h": "2447dd6134ea"
-            },
             "firstRunDismiss": {
               "t": "Hylkää vihje",
               "src": "machine",
               "h": "7de6acab53c4"
-            },
-            "helpStartTitle": {
-              "t": "Aloita tästä: kolme vaihetta",
-              "src": "machine",
-              "h": "789320b4831d"
             },
             "helpStart1": {
               "t": "Tarkista kunkin sivun alta haluamasi kerrokset. Voit valita useita kerroksia.",
@@ -4267,11 +4034,6 @@
               "src": "machine",
               "h": "0ffba3196927"
             },
-            "helpTroubleTitle": {
-              "t": "Jos jokin näyttää väärältä.",
-              "src": "machine",
-              "h": "6f7fec3ff1e0"
-            },
             "helpTrouble1": {
               "t": "Yksi kerros puuttuu: se voi olla nykyisen kartta-asteikon ulkopuolella. Zoomaa sisään tai ulos ja tarkista viesti sen alla.",
               "src": "machine",
@@ -4292,11 +4054,6 @@
               "src": "machine",
               "h": "c97cca84242a"
             },
-            "helpTipsTitle": {
-              "t": "Hyvä tietää",
-              "src": "machine",
-              "h": "79fc372dc790"
-            },
             "helpTips1": {
               "t": "Pohjakarttasi, karttasi laajuus ja kerrostiedot pysyvät samoina. Vertailussa käytetään väliaikaisia kerroskopioita.",
               "src": "machine",
@@ -4315,16 +4072,16 @@
           }
         },
         "fr": {
-          "file": "81332962e61b",
+          "file": "0e1683c44896",
           "counts": {
-            "esri": 10,
+            "esri": 15,
             "esri-check": 1,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 81,
+            "machine": 76,
             "stale": 0,
-            "missing": 0
+            "missing": 2
           },
           "entries": {
             "_widgetLabel": {
@@ -4567,30 +4324,15 @@
               "src": "machine",
               "h": "87b3ece01e65"
             },
-            "helpNoMatches": {
-              "t": "Rien dans le guide ne correspond à ce mot. Essayez un autre, ou ouvrez les sections ci-dessus.",
-              "src": "machine",
-              "h": "3fe179f75330"
-            },
             "firstRunBody": {
               "t": "Choisissez des calques pour chaque côté, sélectionnez Démarrer la comparaison, puis faites glisser le diviseur sur la carte.",
               "src": "machine",
               "h": "2b585a5250a7"
             },
-            "firstRunHelpLink": {
-              "t": "Ouvrez le guide.",
-              "src": "machine",
-              "h": "2447dd6134ea"
-            },
             "firstRunDismiss": {
               "t": "Rejeter l'indice",
               "src": "machine",
               "h": "7de6acab53c4"
-            },
-            "helpStartTitle": {
-              "t": "Commencez ici: trois étapes",
-              "src": "machine",
-              "h": "789320b4831d"
             },
             "helpStart1": {
               "t": "Dans la liste des calques, vérifiez les calques que vous voulez sous chaque côté. Vous pouvez choisir plusieurs calques.",
@@ -4687,11 +4429,6 @@
               "src": "machine",
               "h": "0ffba3196927"
             },
-            "helpTroubleTitle": {
-              "t": "Si quelque chose ne va pas",
-              "src": "machine",
-              "h": "6f7fec3ff1e0"
-            },
             "helpTrouble1": {
               "t": "Il manque une couche : elle peut être en dehors de l'échelle de la carte actuelle. Zoomez ou sortez, et vérifiez la note sous son nom.",
               "src": "machine",
@@ -4712,11 +4449,6 @@
               "src": "machine",
               "h": "c97cca84242a"
             },
-            "helpTipsTitle": {
-              "t": "Bon à savoir",
-              "src": "machine",
-              "h": "79fc372dc790"
-            },
             "helpTips1": {
               "t": "Vos données de base, d'étendue et de couche restent les mêmes. La comparaison utilise des copies de couches temporaires.",
               "src": "machine",
@@ -4735,16 +4467,16 @@
           }
         },
         "he": {
-          "file": "35552ff62dce",
+          "file": "ba60f53fe567",
           "counts": {
-            "esri": 9,
+            "esri": 14,
             "esri-check": 2,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 81,
+            "machine": 76,
             "stale": 0,
-            "missing": 0
+            "missing": 2
           },
           "entries": {
             "_widgetLabel": {
@@ -4987,30 +4719,15 @@
               "src": "machine",
               "h": "87b3ece01e65"
             },
-            "helpNoMatches": {
-              "t": "שום דבר במדריך לא מתאים למילה הזאת. נסה עוד, או לפתוח את החלקים לעיל.",
-              "src": "machine",
-              "h": "3fe179f75330"
-            },
             "firstRunBody": {
               "t": "בחר שכבות עבור כל צד, בחר התחל השוואה, ולאחר מכן לגרור את המחלק על המפה.",
               "src": "machine",
               "h": "2b585a5250a7"
             },
-            "firstRunHelpLink": {
-              "t": "פתח את המדריך",
-              "src": "machine",
-              "h": "2447dd6134ea"
-            },
             "firstRunDismiss": {
               "t": "אכזב את הרמז",
               "src": "machine",
               "h": "7de6acab53c4"
-            },
-            "helpStartTitle": {
-              "t": "התחל כאן: שלושה צעדים",
-              "src": "machine",
-              "h": "789320b4831d"
             },
             "helpStart1": {
               "t": "ברשימת השכבות, בדקו את השכבות שאתם רוצים מתחת לכל צד. אתה יכול לבחור כמה שכבות.",
@@ -5107,11 +4824,6 @@
               "src": "machine",
               "h": "0ffba3196927"
             },
-            "helpTroubleTitle": {
-              "t": "אם משהו נראה לא בסדר",
-              "src": "machine",
-              "h": "6f7fec3ff1e0"
-            },
             "helpTrouble1": {
               "t": "שכבה חסרה: היא עשויה להיות מחוץ לגודל המפה הנוכחי. זום בתוך או בחוץ, ובדוק את הפתק מתחת לשמו.",
               "src": "machine",
@@ -5132,11 +4844,6 @@
               "src": "machine",
               "h": "c97cca84242a"
             },
-            "helpTipsTitle": {
-              "t": "טוב לדעת",
-              "src": "machine",
-              "h": "79fc372dc790"
-            },
             "helpTips1": {
               "t": "מפת הבסיס שלך, היקף המפה ונתוני השכבה נשארים אותו הדבר. ההשוואה משתמשת עותקים של שכבתיים זמנית.",
               "src": "machine",
@@ -5155,30 +4862,30 @@
           }
         },
         "hr": {
-          "file": "613b9d5e7af5",
+          "file": "0d437570721c",
           "counts": {
-            "esri": 10,
+            "esri": 9,
             "esri-check": 1,
             "community": 0,
             "manual": 0,
             "existing": 0,
             "machine": 0,
             "stale": 0,
-            "missing": 81
+            "missing": 84
           },
           "entries": {}
         },
         "hu": {
-          "file": "ede79270edf9",
+          "file": "f3b2ae4b7506",
           "counts": {
-            "esri": 8,
+            "esri": 13,
             "esri-check": 3,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 81,
+            "machine": 76,
             "stale": 0,
-            "missing": 0
+            "missing": 2
           },
           "entries": {
             "_widgetLabel": {
@@ -5421,30 +5128,15 @@
               "src": "machine",
               "h": "87b3ece01e65"
             },
-            "helpNoMatches": {
-              "t": "A kalauzban semmi sem egyezik ezzel a szóval. Próbálja meg egy másik, vagy nyissa ki a fenti szakaszok.",
-              "src": "machine",
-              "h": "3fe179f75330"
-            },
             "firstRunBody": {
               "t": "Válassza ki a rétegeket mindkét oldalon, válassza Start összehasonlítás, majd húzza a megosztó a térképen.",
               "src": "machine",
               "h": "2b585a5250a7"
             },
-            "firstRunHelpLink": {
-              "t": "Nyisd ki az útmutatót.",
-              "src": "machine",
-              "h": "2447dd6134ea"
-            },
             "firstRunDismiss": {
               "t": "Elutasítom a célzást.",
               "src": "machine",
               "h": "7de6acab53c4"
-            },
-            "helpStartTitle": {
-              "t": "Kezdjük itt: három lépés",
-              "src": "machine",
-              "h": "789320b4831d"
             },
             "helpStart1": {
               "t": "A réteglistában ellenőrizze a rétegeket, amelyekre mindkét oldalon szüksége van. Több réteget is választhatsz.",
@@ -5541,11 +5233,6 @@
               "src": "machine",
               "h": "0ffba3196927"
             },
-            "helpTroubleTitle": {
-              "t": "Ha valami nem stimmel",
-              "src": "machine",
-              "h": "6f7fec3ff1e0"
-            },
             "helpTrouble1": {
               "t": "Egy réteg hiányzik: lehet, hogy kívül esik az aktuális térképskálán. Nagyítsa ki vagy nagyítsa ki, és ellenőrizze a cetlit a neve alatt.",
               "src": "machine",
@@ -5566,11 +5253,6 @@
               "src": "machine",
               "h": "c97cca84242a"
             },
-            "helpTipsTitle": {
-              "t": "Jó tudni.",
-              "src": "machine",
-              "h": "79fc372dc790"
-            },
             "helpTips1": {
               "t": "A bázis, a térkép kiterjedése, és a réteg adatok ugyanazok maradnak. Az összehasonlítás ideiglenes rétegmásolatokat használ.",
               "src": "machine",
@@ -5589,16 +5271,16 @@
           }
         },
         "id": {
-          "file": "573ffb454c82",
+          "file": "25b582b7ee2c",
           "counts": {
-            "esri": 9,
+            "esri": 14,
             "esri-check": 2,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 81,
+            "machine": 76,
             "stale": 0,
-            "missing": 0
+            "missing": 2
           },
           "entries": {
             "_widgetLabel": {
@@ -5841,30 +5523,15 @@
               "src": "machine",
               "h": "87b3ece01e65"
             },
-            "helpNoMatches": {
-              "t": "Tidak ada dalam panduan cocok kata itu. Coba yang lain, atau buka bagian di atas.",
-              "src": "machine",
-              "h": "3fe179f75330"
-            },
             "firstRunBody": {
               "t": "Pilih lapisan untuk setiap sisi, pilih perbandingan Mulai, kemudian tarik pembagi pada peta.",
               "src": "machine",
               "h": "2b585a5250a7"
             },
-            "firstRunHelpLink": {
-              "t": "Buka panduannya.",
-              "src": "machine",
-              "h": "2447dd6134ea"
-            },
             "firstRunDismiss": {
               "t": "Bubarkan petunjuknya",
               "src": "machine",
               "h": "7de6acab53c4"
-            },
-            "helpStartTitle": {
-              "t": "Mulai dari sini: tiga langkah",
-              "src": "machine",
-              "h": "789320b4831d"
             },
             "helpStart1": {
               "t": "Dalam daftar lapisan, periksa lapisan yang Anda inginkan di bawah setiap sisi. Anda dapat memilih beberapa lapisan.",
@@ -5961,11 +5628,6 @@
               "src": "machine",
               "h": "0ffba3196927"
             },
-            "helpTroubleTitle": {
-              "t": "Jika ada sesuatu yang salah",
-              "src": "machine",
-              "h": "6f7fec3ff1e0"
-            },
             "helpTrouble1": {
               "t": "Lapisan hilang: mungkin di luar skala peta saat ini. Perbesar atau keluar, dan periksa catatan di bawah namanya.",
               "src": "machine",
@@ -5986,11 +5648,6 @@
               "src": "machine",
               "h": "c97cca84242a"
             },
-            "helpTipsTitle": {
-              "t": "Baik untuk mengetahui",
-              "src": "machine",
-              "h": "79fc372dc790"
-            },
             "helpTips1": {
               "t": "Peta dasar Anda, batas peta, dan data lapisan tetap sama. Perbandingan menggunakan salinan lapisan sementara.",
               "src": "machine",
@@ -6009,16 +5666,16 @@
           }
         },
         "it": {
-          "file": "508745c23275",
+          "file": "c068df6c3b65",
           "counts": {
-            "esri": 8,
+            "esri": 13,
             "esri-check": 3,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 81,
+            "machine": 76,
             "stale": 0,
-            "missing": 0
+            "missing": 2
           },
           "entries": {
             "_widgetLabel": {
@@ -6261,30 +5918,15 @@
               "src": "machine",
               "h": "87b3ece01e65"
             },
-            "helpNoMatches": {
-              "t": "Niente nella guida corrisponde a quella parola. Prova un altro, o apri le sezioni sopra.",
-              "src": "machine",
-              "h": "3fe179f75330"
-            },
             "firstRunBody": {
               "t": "Scegliere strati per ogni lato, selezionare Start confronto, quindi trascinare il divisore sulla mappa.",
               "src": "machine",
               "h": "2b585a5250a7"
             },
-            "firstRunHelpLink": {
-              "t": "Apri la guida.",
-              "src": "machine",
-              "h": "2447dd6134ea"
-            },
             "firstRunDismiss": {
               "t": "respingere l'istanza",
               "src": "machine",
               "h": "7de6acab53c4"
-            },
-            "helpStartTitle": {
-              "t": "Inizia qui: tre passi",
-              "src": "machine",
-              "h": "789320b4831d"
             },
             "helpStart1": {
               "t": "Nell'elenco dei livelli, controllare gli strati che si desidera sotto ogni lato. È possibile scegliere diversi strati.",
@@ -6381,11 +6023,6 @@
               "src": "machine",
               "h": "0ffba3196927"
             },
-            "helpTroubleTitle": {
-              "t": "Se qualcosa sembra sbagliato",
-              "src": "machine",
-              "h": "6f7fec3ff1e0"
-            },
             "helpTrouble1": {
               "t": "Manca uno strato: può essere al di fuori della scala della mappa corrente. Zoom dentro o fuori, e controllare la nota sotto il suo nome.",
               "src": "machine",
@@ -6406,11 +6043,6 @@
               "src": "machine",
               "h": "c97cca84242a"
             },
-            "helpTipsTitle": {
-              "t": "Buono a sapersi",
-              "src": "machine",
-              "h": "79fc372dc790"
-            },
             "helpTips1": {
               "t": "La tua mappa di base, la dimensione della mappa e i dati dello strato rimangono gli stessi. Il confronto utilizza copie a strati temporanei.",
               "src": "machine",
@@ -6429,16 +6061,16 @@
           }
         },
         "ja": {
-          "file": "1ae4a825ec17",
+          "file": "c766d38ae2f5",
           "counts": {
-            "esri": 9,
+            "esri": 14,
             "esri-check": 2,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 81,
+            "machine": 76,
             "stale": 0,
-            "missing": 0
+            "missing": 2
           },
           "entries": {
             "_widgetLabel": {
@@ -6681,30 +6313,15 @@
               "src": "machine",
               "h": "87b3ece01e65"
             },
-            "helpNoMatches": {
-              "t": "ガイドがその単語と一致するわけではありません。 別のセクションを試し、または上記のセクションを開きます。",
-              "src": "machine",
-              "h": "3fe179f75330"
-            },
             "firstRunBody": {
               "t": "各サイドのレイヤーを選択し、[スタート比較] を選択し、マップ上のディバイダーをドラッグします。",
               "src": "machine",
               "h": "2b585a5250a7"
             },
-            "firstRunHelpLink": {
-              "t": "ガイドを開きます。",
-              "src": "machine",
-              "h": "2447dd6134ea"
-            },
             "firstRunDismiss": {
               "t": "ヒントを却下",
               "src": "machine",
               "h": "7de6acab53c4"
-            },
-            "helpStartTitle": {
-              "t": "ここから: 3 つのステップ",
-              "src": "machine",
-              "h": "789320b4831d"
             },
             "helpStart1": {
               "t": "レイヤーリストでは、各サイドで望むレイヤーを確認します。 複数のレイヤーを選択できます。",
@@ -6801,11 +6418,6 @@
               "src": "machine",
               "h": "0ffba3196927"
             },
-            "helpTroubleTitle": {
-              "t": "何かが間違っている",
-              "src": "machine",
-              "h": "6f7fec3ff1e0"
-            },
             "helpTrouble1": {
               "t": "レイヤーが欠落している:現在のマップのスケールを外す可能性があります。 ズームインまたはアウトし、その名前の下のメモを確認してください。",
               "src": "machine",
@@ -6826,11 +6438,6 @@
               "src": "machine",
               "h": "c97cca84242a"
             },
-            "helpTipsTitle": {
-              "t": "よく知る",
-              "src": "machine",
-              "h": "79fc372dc790"
-            },
             "helpTips1": {
               "t": "ベースマップ、地図範囲、レイヤーデータが同じままになります。 比較では、一時的なレイヤーコピーを使用します。",
               "src": "machine",
@@ -6849,16 +6456,16 @@
           }
         },
         "ko": {
-          "file": "f5c391efe848",
+          "file": "354dd627503c",
           "counts": {
-            "esri": 10,
+            "esri": 15,
             "esri-check": 1,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 81,
+            "machine": 76,
             "stale": 0,
-            "missing": 0
+            "missing": 2
           },
           "entries": {
             "_widgetLabel": {
@@ -7101,30 +6708,15 @@
               "src": "machine",
               "h": "87b3ece01e65"
             },
-            "helpNoMatches": {
-              "t": "가이드의 아무것도 그 단어 일치. 다른 시도, 또는 위의 섹션을 엽니 다.",
-              "src": "machine",
-              "h": "3fe179f75330"
-            },
             "firstRunBody": {
               "t": "각 측면에 레이어를 선택, 시작 비교를 선택, 다음지도에 디버를 드래그.",
               "src": "machine",
               "h": "2b585a5250a7"
             },
-            "firstRunHelpLink": {
-              "t": "자주 묻는 질문",
-              "src": "machine",
-              "h": "2447dd6134ea"
-            },
             "firstRunDismiss": {
               "t": "힌트를 삭제",
               "src": "machine",
               "h": "7de6acab53c4"
-            },
-            "helpStartTitle": {
-              "t": "여기에 시작: 세 단계",
-              "src": "machine",
-              "h": "789320b4831d"
             },
             "helpStart1": {
               "t": "층 목록에서, 각 측의 밑에 원하는 층을 검사하십시오. 당신은 몇몇 층을 선택할 수 있습니다.",
@@ -7221,11 +6813,6 @@
               "src": "machine",
               "h": "0ffba3196927"
             },
-            "helpTroubleTitle": {
-              "t": "뭔가 잘못되었는지",
-              "src": "machine",
-              "h": "6f7fec3ff1e0"
-            },
             "helpTrouble1": {
               "t": "레이어가 누락되었습니다. 현재 맵 스케일 밖에 있을 수 있습니다. 줌이나 밖으로, 그 이름 아래 메모를 확인.",
               "src": "machine",
@@ -7246,11 +6833,6 @@
               "src": "machine",
               "h": "c97cca84242a"
             },
-            "helpTipsTitle": {
-              "t": "잘 알고",
-              "src": "machine",
-              "h": "79fc372dc790"
-            },
             "helpTips1": {
               "t": "당신의 basemap, 지도 범위 및 층 자료는 동일하게 체재합니다. 비교는 임시 층 사본을 이용합니다.",
               "src": "machine",
@@ -7269,16 +6851,16 @@
           }
         },
         "lt": {
-          "file": "5a7e28e48c74",
+          "file": "832bb04a7e76",
           "counts": {
-            "esri": 7,
+            "esri": 12,
             "esri-check": 4,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 81,
+            "machine": 76,
             "stale": 0,
-            "missing": 0
+            "missing": 2
           },
           "entries": {
             "_widgetLabel": {
@@ -7521,30 +7103,15 @@
               "src": "machine",
               "h": "87b3ece01e65"
             },
-            "helpNoMatches": {
-              "t": "Vadove nėra nieko, kas atitiktų šį žodį. Pabandykite kitą, arba atidaryti skyrių aukščiau.",
-              "src": "machine",
-              "h": "3fe179f75330"
-            },
             "firstRunBody": {
               "t": "Pasirinkite sluoksnius kiekvienai pusei, pasirinkite Pradėti palyginimą, tada vilkite daliklį žemėlapyje.",
               "src": "machine",
               "h": "2b585a5250a7"
             },
-            "firstRunHelpLink": {
-              "t": "Atidaryk gidą.",
-              "src": "machine",
-              "h": "2447dd6134ea"
-            },
             "firstRunDismiss": {
               "t": "Nutraukti užuominą",
               "src": "machine",
               "h": "7de6acab53c4"
-            },
-            "helpStartTitle": {
-              "t": "Pradėti čia: trys žingsniai",
-              "src": "machine",
-              "h": "789320b4831d"
             },
             "helpStart1": {
               "t": "Į sluoksnių sąrašą, patikrinkite sluoksnius, kuriuos norite po kiekviena puse. Galite pasirinkti kelis sluoksnius.",
@@ -7641,11 +7208,6 @@
               "src": "machine",
               "h": "0ffba3196927"
             },
-            "helpTroubleTitle": {
-              "t": "Jei kas nors atrodo blogai",
-              "src": "machine",
-              "h": "6f7fec3ff1e0"
-            },
             "helpTrouble1": {
               "t": "Trūksta sluoksnio: jis gali būti už dabartinės žemėlapio skalės ribų. Priartinti ar išjungti, ir patikrinti po savo vardu raštelį.",
               "src": "machine",
@@ -7666,11 +7228,6 @@
               "src": "machine",
               "h": "c97cca84242a"
             },
-            "helpTipsTitle": {
-              "t": "Gera žinoti",
-              "src": "machine",
-              "h": "79fc372dc790"
-            },
             "helpTips1": {
               "t": "Jūsų basemap, žemėlapio apimtis, ir sluoksnis duomenys likti tas pats. Palyginimui naudojamos laikinos sluoksnių kopijos.",
               "src": "machine",
@@ -7689,16 +7246,16 @@
           }
         },
         "lv": {
-          "file": "e020ee81ca6b",
+          "file": "46469e175ccb",
           "counts": {
-            "esri": 8,
+            "esri": 13,
             "esri-check": 3,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 81,
+            "machine": 76,
             "stale": 0,
-            "missing": 0
+            "missing": 2
           },
           "entries": {
             "_widgetLabel": {
@@ -7941,30 +7498,15 @@
               "src": "machine",
               "h": "87b3ece01e65"
             },
-            "helpNoMatches": {
-              "t": "Nekas ceļvedī neatbilst šim vārdam. Mēģiniet citu, vai atvērt sadaļas iepriekš.",
-              "src": "machine",
-              "h": "3fe179f75330"
-            },
             "firstRunBody": {
               "t": "Izvēlieties slāņus katrā pusē, izvēlieties Sākt salīdzinājumu, pēc tam velciet dalītāju uz kartes.",
               "src": "machine",
               "h": "2b585a5250a7"
             },
-            "firstRunHelpLink": {
-              "t": "Atveriet ceļvedi.",
-              "src": "machine",
-              "h": "2447dd6134ea"
-            },
             "firstRunDismiss": {
               "t": "Noņemt padomu",
               "src": "machine",
               "h": "7de6acab53c4"
-            },
-            "helpStartTitle": {
-              "t": "Sākt šeit: trīs soļi",
-              "src": "machine",
-              "h": "789320b4831d"
             },
             "helpStart1": {
               "t": "Slāņu sarakstā pārbaudiet slāņus, kurus vēlaties zem katras puses. Jūs varat izvēlēties vairākus slāņus.",
@@ -8061,11 +7603,6 @@
               "src": "machine",
               "h": "0ffba3196927"
             },
-            "helpTroubleTitle": {
-              "t": "Ja kaut kas izskatās nepareizi",
-              "src": "machine",
-              "h": "6f7fec3ff1e0"
-            },
             "helpTrouble1": {
               "t": "Trūkst slāņa: tas var būt ārpus pašreizējās kartes skalas. Tuvināt vai out, un pārbaudīt piezīmi zem tās nosaukuma.",
               "src": "machine",
@@ -8086,11 +7623,6 @@
               "src": "machine",
               "h": "c97cca84242a"
             },
-            "helpTipsTitle": {
-              "t": "Labi zināt",
-              "src": "machine",
-              "h": "79fc372dc790"
-            },
             "helpTips1": {
               "t": "Jūsu pamatkarte, kartes apjoms, un slānis dati palikt tāds pats. Salīdzinājums izmanto pagaidu slāņa kopijas.",
               "src": "machine",
@@ -8109,16 +7641,16 @@
           }
         },
         "no": {
-          "file": "18f74f698033",
+          "file": "212507b01d75",
           "counts": {
-            "esri": 10,
+            "esri": 15,
             "esri-check": 1,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 81,
+            "machine": 76,
             "stale": 0,
-            "missing": 0
+            "missing": 2
           },
           "entries": {
             "_widgetLabel": {
@@ -8361,30 +7893,15 @@
               "src": "machine",
               "h": "87b3ece01e65"
             },
-            "helpNoMatches": {
-              "t": "Ingenting i guiden stemmer med det ordet. Prøv en annen, eller åpne seksjonene ovenfor.",
-              "src": "machine",
-              "h": "3fe179f75330"
-            },
             "firstRunBody": {
               "t": "Velg lag for hver side, velg Start sammenligning, og dra deretter deleren på kartet.",
               "src": "machine",
               "h": "2b585a5250a7"
             },
-            "firstRunHelpLink": {
-              "t": "Åpne guiden.",
-              "src": "machine",
-              "h": "2447dd6134ea"
-            },
             "firstRunDismiss": {
               "t": "Avslutt hintet",
               "src": "machine",
               "h": "7de6acab53c4"
-            },
-            "helpStartTitle": {
-              "t": "Start her: 3 trinn",
-              "src": "machine",
-              "h": "789320b4831d"
             },
             "helpStart1": {
               "t": "Sjekk lagene du vil ha under hver side. Du kan velge flere lag.",
@@ -8481,11 +7998,6 @@
               "src": "machine",
               "h": "0ffba3196927"
             },
-            "helpTroubleTitle": {
-              "t": "Hvis noe ser galt ut",
-              "src": "machine",
-              "h": "6f7fec3ff1e0"
-            },
             "helpTrouble1": {
               "t": "Et lag mangler: det kan være utenfor gjeldende kart skala. Zoom inn eller ut, og sjekk notat under navnet.",
               "src": "machine",
@@ -8506,11 +8018,6 @@
               "src": "machine",
               "h": "c97cca84242a"
             },
-            "helpTipsTitle": {
-              "t": "Godt å vite",
-              "src": "machine",
-              "h": "79fc372dc790"
-            },
             "helpTips1": {
               "t": "Basekart, kart og lagdata forblir det samme. Sammenligningen bruker midlertidige lag kopier.",
               "src": "machine",
@@ -8529,16 +8036,16 @@
           }
         },
         "nl": {
-          "file": "28e71744aacd",
+          "file": "344099f47ed7",
           "counts": {
-            "esri": 9,
+            "esri": 14,
             "esri-check": 2,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 81,
+            "machine": 76,
             "stale": 0,
-            "missing": 0
+            "missing": 2
           },
           "entries": {
             "_widgetLabel": {
@@ -8781,30 +8288,15 @@
               "src": "machine",
               "h": "87b3ece01e65"
             },
-            "helpNoMatches": {
-              "t": "Niets in de gids komt overeen met dat woord. Probeer een andere, of open de bovenstaande secties.",
-              "src": "machine",
-              "h": "3fe179f75330"
-            },
             "firstRunBody": {
               "t": "Kies lagen voor elke kant, selecteer Vergelijken starten en sleep de scheidingswand op de kaart.",
               "src": "machine",
               "h": "2b585a5250a7"
             },
-            "firstRunHelpLink": {
-              "t": "Open de gids.",
-              "src": "machine",
-              "h": "2447dd6134ea"
-            },
             "firstRunDismiss": {
               "t": "De hint verwerpen",
               "src": "machine",
               "h": "7de6acab53c4"
-            },
-            "helpStartTitle": {
-              "t": "Begin hier: drie stappen",
-              "src": "machine",
-              "h": "789320b4831d"
             },
             "helpStart1": {
               "t": "Controleer in de laaglijst de lagen die u onder elke zijde wilt. U kunt meerdere lagen kiezen.",
@@ -8901,11 +8393,6 @@
               "src": "machine",
               "h": "0ffba3196927"
             },
-            "helpTroubleTitle": {
-              "t": "Als er iets mis lijkt.",
-              "src": "machine",
-              "h": "6f7fec3ff1e0"
-            },
             "helpTrouble1": {
               "t": "Er ontbreekt een laag: het kan buiten de huidige kaartschaal liggen. Zoom in of uit, en controleer het briefje onder zijn naam.",
               "src": "machine",
@@ -8926,11 +8413,6 @@
               "src": "machine",
               "h": "c97cca84242a"
             },
-            "helpTipsTitle": {
-              "t": "Goed om te weten",
-              "src": "machine",
-              "h": "79fc372dc790"
-            },
             "helpTips1": {
               "t": "Uw basiskaart, kaartomvang en laaggegevens blijven hetzelfde. De vergelijking maakt gebruik van tijdelijke laagkopieën.",
               "src": "machine",
@@ -8949,16 +8431,16 @@
           }
         },
         "pl": {
-          "file": "ba6a75971134",
+          "file": "d42ec1d0d7b0",
           "counts": {
-            "esri": 6,
+            "esri": 11,
             "esri-check": 5,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 81,
+            "machine": 76,
             "stale": 0,
-            "missing": 0
+            "missing": 2
           },
           "entries": {
             "_widgetLabel": {
@@ -9201,30 +8683,15 @@
               "src": "machine",
               "h": "87b3ece01e65"
             },
-            "helpNoMatches": {
-              "t": "Nic w przewodniku nie pasuje do tego słowa. Spróbuj innego, albo otwórz powyższe sekcje.",
-              "src": "machine",
-              "h": "3fe179f75330"
-            },
             "firstRunBody": {
               "t": "Wybierz warstwy dla każdej strony, wybierz porównanie Start, a następnie przeciągnij dzielnik na mapie.",
               "src": "machine",
               "h": "2b585a5250a7"
             },
-            "firstRunHelpLink": {
-              "t": "Otwórz przewodnik.",
-              "src": "machine",
-              "h": "2447dd6134ea"
-            },
             "firstRunDismiss": {
               "t": "Odrzuć podpowiedź",
               "src": "machine",
               "h": "7de6acab53c4"
-            },
-            "helpStartTitle": {
-              "t": "Zacznij tutaj: trzy kroki",
-              "src": "machine",
-              "h": "789320b4831d"
             },
             "helpStart1": {
               "t": "Na liście warstw, sprawdź warstwy, które chcesz pod każdą stroną. Możesz wybrać kilka warstw.",
@@ -9321,11 +8788,6 @@
               "src": "machine",
               "h": "0ffba3196927"
             },
-            "helpTroubleTitle": {
-              "t": "Jeśli coś wygląda źle",
-              "src": "machine",
-              "h": "6f7fec3ff1e0"
-            },
             "helpTrouble1": {
               "t": "Brakuje warstwy: może być poza obecną skalą mapy. Powiększ lub wyłącz i sprawdź notatkę pod jej nazwiskiem.",
               "src": "machine",
@@ -9346,11 +8808,6 @@
               "src": "machine",
               "h": "c97cca84242a"
             },
-            "helpTipsTitle": {
-              "t": "Dobrze wiedzieć.",
-              "src": "machine",
-              "h": "79fc372dc790"
-            },
             "helpTips1": {
               "t": "Basemap, zakres mapy i dane warstw pozostają takie same. Porównanie wykorzystuje tymczasowe kopie warstw.",
               "src": "machine",
@@ -9369,16 +8826,16 @@
           }
         },
         "pt-br": {
-          "file": "66a848ad8dfb",
+          "file": "930f460aad98",
           "counts": {
-            "esri": 10,
+            "esri": 15,
             "esri-check": 1,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 81,
+            "machine": 76,
             "stale": 0,
-            "missing": 0
+            "missing": 2
           },
           "entries": {
             "_widgetLabel": {
@@ -9621,30 +9078,15 @@
               "src": "machine",
               "h": "87b3ece01e65"
             },
-            "helpNoMatches": {
-              "t": "Nada no guia combina com essa palavra. Tente outro, ou abra as seções acima.",
-              "src": "machine",
-              "h": "3fe179f75330"
-            },
             "firstRunBody": {
               "t": "Escolha camadas para cada lado, selecione Iniciar comparação, e depois arraste o divisor no mapa.",
               "src": "machine",
               "h": "2b585a5250a7"
             },
-            "firstRunHelpLink": {
-              "t": "Abra o guia.",
-              "src": "machine",
-              "h": "2447dd6134ea"
-            },
             "firstRunDismiss": {
               "t": "Descarte a dica.",
               "src": "machine",
               "h": "7de6acab53c4"
-            },
-            "helpStartTitle": {
-              "t": "Comece aqui: três passos",
-              "src": "machine",
-              "h": "789320b4831d"
             },
             "helpStart1": {
               "t": "Na lista de camadas, verifique as camadas que você quer sob cada lado. Você pode escolher várias camadas.",
@@ -9741,11 +9183,6 @@
               "src": "machine",
               "h": "0ffba3196927"
             },
-            "helpTroubleTitle": {
-              "t": "Se algo parecer errado",
-              "src": "machine",
-              "h": "6f7fec3ff1e0"
-            },
             "helpTrouble1": {
               "t": "Falta uma camada, pode estar fora da escala atual. Aproxime ou saia, e verifique a nota abaixo do nome.",
               "src": "machine",
@@ -9766,11 +9203,6 @@
               "src": "machine",
               "h": "c97cca84242a"
             },
-            "helpTipsTitle": {
-              "t": "Bom saber.",
-              "src": "machine",
-              "h": "79fc372dc790"
-            },
             "helpTips1": {
               "t": "Seu mapa de base, extensão do mapa e dados de camada permanecem os mesmos. A comparação usa cópias temporárias.",
               "src": "machine",
@@ -9789,16 +9221,16 @@
           }
         },
         "pt-pt": {
-          "file": "343477cc382e",
+          "file": "c6a7b689b833",
           "counts": {
-            "esri": 9,
+            "esri": 14,
             "esri-check": 2,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 81,
+            "machine": 76,
             "stale": 0,
-            "missing": 0
+            "missing": 2
           },
           "entries": {
             "_widgetLabel": {
@@ -10041,30 +9473,15 @@
               "src": "machine",
               "h": "87b3ece01e65"
             },
-            "helpNoMatches": {
-              "t": "Nada no guia corresponde a essa palavra. Tente outro, ou abra as seções acima.",
-              "src": "machine",
-              "h": "3fe179f75330"
-            },
             "firstRunBody": {
               "t": "Escolha camadas para cada lado, selecione Iniciar comparação e, em seguida, arraste o separador no mapa.",
               "src": "machine",
               "h": "2b585a5250a7"
             },
-            "firstRunHelpLink": {
-              "t": "Abra o guia.",
-              "src": "machine",
-              "h": "2447dd6134ea"
-            },
             "firstRunDismiss": {
               "t": "Descartar a dica",
               "src": "machine",
               "h": "7de6acab53c4"
-            },
-            "helpStartTitle": {
-              "t": "Comece aqui: três passos",
-              "src": "machine",
-              "h": "789320b4831d"
             },
             "helpStart1": {
               "t": "Na lista de camadas, verifique as camadas que você deseja sob cada lado. Você pode escolher várias camadas.",
@@ -10161,11 +9578,6 @@
               "src": "machine",
               "h": "0ffba3196927"
             },
-            "helpTroubleTitle": {
-              "t": "Se algo parecer errado",
-              "src": "machine",
-              "h": "6f7fec3ff1e0"
-            },
             "helpTrouble1": {
               "t": "Falta uma camada: ela pode estar fora da escala atual do mapa. Ampliar ou sair, e verificar a nota abaixo do seu nome.",
               "src": "machine",
@@ -10186,11 +9598,6 @@
               "src": "machine",
               "h": "c97cca84242a"
             },
-            "helpTipsTitle": {
-              "t": "É bom saber.",
-              "src": "machine",
-              "h": "79fc372dc790"
-            },
             "helpTips1": {
               "t": "Seu mapa de base, extensão do mapa e dados de camada permanecem os mesmos. A comparação utiliza cópias temporárias da camada.",
               "src": "machine",
@@ -10209,16 +9616,16 @@
           }
         },
         "ro": {
-          "file": "1ed02b84193d",
+          "file": "f500e8f4faf3",
           "counts": {
-            "esri": 10,
+            "esri": 15,
             "esri-check": 1,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 81,
+            "machine": 76,
             "stale": 0,
-            "missing": 0
+            "missing": 2
           },
           "entries": {
             "_widgetLabel": {
@@ -10461,30 +9868,15 @@
               "src": "machine",
               "h": "87b3ece01e65"
             },
-            "helpNoMatches": {
-              "t": "Nimic din ghid nu se potriveşte cu acest cuvânt. Încearcă altul, sau deschide secţiunile de mai sus.",
-              "src": "machine",
-              "h": "3fe179f75330"
-            },
             "firstRunBody": {
               "t": "Alegeți straturi pentru fiecare parte, selectați comparație Start, apoi trageți separatorul de pe hartă.",
               "src": "machine",
               "h": "2b585a5250a7"
             },
-            "firstRunHelpLink": {
-              "t": "Deschide ghidul.",
-              "src": "machine",
-              "h": "2447dd6134ea"
-            },
             "firstRunDismiss": {
               "t": "Respingeţi aluzia.",
               "src": "machine",
               "h": "7de6acab53c4"
-            },
-            "helpStartTitle": {
-              "t": "Începe aici: trei pași",
-              "src": "machine",
-              "h": "789320b4831d"
             },
             "helpStart1": {
               "t": "În lista de straturi, verificaţi straturile pe care le doriţi sub fiecare parte. Puteți alege mai multe straturi.",
@@ -10581,11 +9973,6 @@
               "src": "machine",
               "h": "0ffba3196927"
             },
-            "helpTroubleTitle": {
-              "t": "Dacă ceva nu arată bine",
-              "src": "machine",
-              "h": "6f7fec3ff1e0"
-            },
             "helpTrouble1": {
               "t": "Lipseşte un strat: poate fi în afara scării actuale a hărţii. Zoom sau afară, și verificați nota sub numele său.",
               "src": "machine",
@@ -10606,11 +9993,6 @@
               "src": "machine",
               "h": "c97cca84242a"
             },
-            "helpTipsTitle": {
-              "t": "E bine de ştiut.",
-              "src": "machine",
-              "h": "79fc372dc790"
-            },
             "helpTips1": {
               "t": "Harta ta de bază, amploarea hărții și datele straturilor rămân aceleași. Comparaţia foloseşte copii temporare ale straturilor.",
               "src": "machine",
@@ -10629,16 +10011,16 @@
           }
         },
         "ru": {
-          "file": "e113bb35263a",
+          "file": "136361b92c9f",
           "counts": {
-            "esri": 6,
+            "esri": 11,
             "esri-check": 5,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 81,
+            "machine": 76,
             "stale": 0,
-            "missing": 0
+            "missing": 2
           },
           "entries": {
             "_widgetLabel": {
@@ -10881,30 +10263,15 @@
               "src": "machine",
               "h": "87b3ece01e65"
             },
-            "helpNoMatches": {
-              "t": "Ничто в руководстве не соответствует этому слову. Попробуйте другой или откройте разделы выше.",
-              "src": "machine",
-              "h": "3fe179f75330"
-            },
             "firstRunBody": {
               "t": "Выберите слои для каждой стороны, выберите Начать сравнение, затем перетащите разделитель на карте.",
               "src": "machine",
               "h": "2b585a5250a7"
             },
-            "firstRunHelpLink": {
-              "t": "Откройте проводник.",
-              "src": "machine",
-              "h": "2447dd6134ea"
-            },
             "firstRunDismiss": {
               "t": "Откажитесь от намека",
               "src": "machine",
               "h": "7de6acab53c4"
-            },
-            "helpStartTitle": {
-              "t": "Начните здесь: три шага",
-              "src": "machine",
-              "h": "789320b4831d"
             },
             "helpStart1": {
               "t": "В списке слоев проверьте слои, которые вы хотите под каждой стороной. Вы можете выбрать несколько слоев.",
@@ -11001,11 +10368,6 @@
               "src": "machine",
               "h": "0ffba3196927"
             },
-            "helpTroubleTitle": {
-              "t": "Если что-то выглядит неправильно",
-              "src": "machine",
-              "h": "6f7fec3ff1e0"
-            },
             "helpTrouble1": {
               "t": "Слой отсутствует: он может находиться за пределами текущего масштаба карты. Введите или выйдите и проверьте записку под ее именем.",
               "src": "machine",
@@ -11026,11 +10388,6 @@
               "src": "machine",
               "h": "c97cca84242a"
             },
-            "helpTipsTitle": {
-              "t": "Хорошо знать",
-              "src": "machine",
-              "h": "79fc372dc790"
-            },
             "helpTips1": {
               "t": "Ваша базовая карта, объем карты и данные уровня остаются прежними. Сравнение использует временные слои.",
               "src": "machine",
@@ -11049,16 +10406,16 @@
           }
         },
         "sk": {
-          "file": "16c81f5a0eed",
+          "file": "954349f6e9b7",
           "counts": {
-            "esri": 9,
+            "esri": 14,
             "esri-check": 2,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 81,
+            "machine": 76,
             "stale": 0,
-            "missing": 0
+            "missing": 2
           },
           "entries": {
             "_widgetLabel": {
@@ -11301,30 +10658,15 @@
               "src": "machine",
               "h": "87b3ece01e65"
             },
-            "helpNoMatches": {
-              "t": "Nič v sprievodcovi nezodpovedá tomu slovu. Skúste iné, alebo otvoriť časti vyššie.",
-              "src": "machine",
-              "h": "3fe179f75330"
-            },
             "firstRunBody": {
               "t": "Vyberte vrstvy pre každú stranu, vyberte začiatok porovnania a potom pretiahnite delič na mape.",
               "src": "machine",
               "h": "2b585a5250a7"
             },
-            "firstRunHelpLink": {
-              "t": "Otvorte sprievodcu.",
-              "src": "machine",
-              "h": "2447dd6134ea"
-            },
             "firstRunDismiss": {
               "t": "Odmietni nápovedu",
               "src": "machine",
               "h": "7de6acab53c4"
-            },
-            "helpStartTitle": {
-              "t": "Začnite tu: tri kroky",
-              "src": "machine",
-              "h": "789320b4831d"
             },
             "helpStart1": {
               "t": "V zozname vrstiev skontrolujte vrstvy, ktoré chcete pod každou stranou. Môžete si vybrať niekoľko vrstiev.",
@@ -11421,11 +10763,6 @@
               "src": "machine",
               "h": "0ffba3196927"
             },
-            "helpTroubleTitle": {
-              "t": "Ak niečo vyzerá zle",
-              "src": "machine",
-              "h": "6f7fec3ff1e0"
-            },
             "helpTrouble1": {
               "t": "Chýba vrstva: môže byť mimo aktuálnej mierky mapy. Priblížiť alebo von, a skontrolujte poznámku pod jeho menom.",
               "src": "machine",
@@ -11446,11 +10783,6 @@
               "src": "machine",
               "h": "c97cca84242a"
             },
-            "helpTipsTitle": {
-              "t": "Dobré vedieť",
-              "src": "machine",
-              "h": "79fc372dc790"
-            },
             "helpTips1": {
               "t": "Váš basemap, rozsah mapy, a vrstva dát zostať rovnaký. Pri porovnaní sa používajú dočasné kópie vrstiev.",
               "src": "machine",
@@ -11469,16 +10801,16 @@
           }
         },
         "sl": {
-          "file": "b78ec8123596",
+          "file": "1455724e4bf3",
           "counts": {
-            "esri": 9,
+            "esri": 14,
             "esri-check": 2,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 81,
+            "machine": 76,
             "stale": 0,
-            "missing": 0
+            "missing": 2
           },
           "entries": {
             "_widgetLabel": {
@@ -11721,30 +11053,15 @@
               "src": "machine",
               "h": "87b3ece01e65"
             },
-            "helpNoMatches": {
-              "t": "Nič v vodiču se ne ujema s to besedo. Poskusite drugo ali pa odprite zgornje oddelke.",
-              "src": "machine",
-              "h": "3fe179f75330"
-            },
             "firstRunBody": {
               "t": "Izberite plasti za vsako stran, izberite Začni primerjavo, nato pa povlecite delilnik na zemljevidu.",
               "src": "machine",
               "h": "2b585a5250a7"
             },
-            "firstRunHelpLink": {
-              "t": "Odpri vodič.",
-              "src": "machine",
-              "h": "2447dd6134ea"
-            },
             "firstRunDismiss": {
               "t": "Zavrni namig",
               "src": "machine",
               "h": "7de6acab53c4"
-            },
-            "helpStartTitle": {
-              "t": "Začnite tukaj: trije koraki",
-              "src": "machine",
-              "h": "789320b4831d"
             },
             "helpStart1": {
               "t": "Na seznamu slojev preverite sloje, ki jih želite pod vsako stranjo. Lahko izberete več plasti.",
@@ -11841,11 +11158,6 @@
               "src": "machine",
               "h": "0ffba3196927"
             },
-            "helpTroubleTitle": {
-              "t": "Če je kaj narobe.",
-              "src": "machine",
-              "h": "6f7fec3ff1e0"
-            },
             "helpTrouble1": {
               "t": "Manjka plast: lahko je zunaj trenutne karte lestvice. Približaj ali izdihni in poglej pod njegovo ime.",
               "src": "machine",
@@ -11866,11 +11178,6 @@
               "src": "machine",
               "h": "c97cca84242a"
             },
-            "helpTipsTitle": {
-              "t": "Dobro je vedeti.",
-              "src": "machine",
-              "h": "79fc372dc790"
-            },
             "helpTips1": {
               "t": "Vaš bazni zemljevid, obseg zemljevida in podatki o plasteh ostajajo enaki. Primerjava uporablja začasne plastne kopije.",
               "src": "machine",
@@ -11889,30 +11196,30 @@
           }
         },
         "sr": {
-          "file": "4d4141c17faa",
+          "file": "a1ee5a949703",
           "counts": {
-            "esri": 10,
+            "esri": 9,
             "esri-check": 1,
             "community": 0,
             "manual": 0,
             "existing": 0,
             "machine": 0,
             "stale": 0,
-            "missing": 81
+            "missing": 84
           },
           "entries": {}
         },
         "sv": {
-          "file": "dac65ced3700",
+          "file": "233c50e1d477",
           "counts": {
-            "esri": 10,
+            "esri": 15,
             "esri-check": 1,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 81,
+            "machine": 76,
             "stale": 0,
-            "missing": 0
+            "missing": 2
           },
           "entries": {
             "_widgetLabel": {
@@ -12155,30 +11462,15 @@
               "src": "machine",
               "h": "87b3ece01e65"
             },
-            "helpNoMatches": {
-              "t": "Ingenting i guiden matchar det ordet. Prova en annan, eller öppna avsnitten ovan.",
-              "src": "machine",
-              "h": "3fe179f75330"
-            },
             "firstRunBody": {
               "t": "Välj lager för varje sida, välj Start jämförelse, dra sedan divideren på kartan.",
               "src": "machine",
               "h": "2b585a5250a7"
             },
-            "firstRunHelpLink": {
-              "t": "Öppna guiden.",
-              "src": "machine",
-              "h": "2447dd6134ea"
-            },
             "firstRunDismiss": {
               "t": "Avfärda antydan",
               "src": "machine",
               "h": "7de6acab53c4"
-            },
-            "helpStartTitle": {
-              "t": "Börja här: tre steg",
-              "src": "machine",
-              "h": "789320b4831d"
             },
             "helpStart1": {
               "t": "I lagerlistan, kontrollera de lager du vill under varje sida. Du kan välja flera lager.",
@@ -12275,11 +11567,6 @@
               "src": "machine",
               "h": "0ffba3196927"
             },
-            "helpTroubleTitle": {
-              "t": "Om något ser fel",
-              "src": "machine",
-              "h": "6f7fec3ff1e0"
-            },
             "helpTrouble1": {
               "t": "Ett lager saknas: det kan vara utanför den aktuella kartskalan. Zooma in eller ut och kontrollera noten under dess namn.",
               "src": "machine",
@@ -12300,11 +11587,6 @@
               "src": "machine",
               "h": "c97cca84242a"
             },
-            "helpTipsTitle": {
-              "t": "Bra att veta",
-              "src": "machine",
-              "h": "79fc372dc790"
-            },
             "helpTips1": {
               "t": "Din baskarta, kart omfattning och lagerdata förblir densamma. Jämförelsen använder tillfälliga lagerkopior.",
               "src": "machine",
@@ -12323,16 +11605,16 @@
           }
         },
         "th": {
-          "file": "1c424a9f744e",
+          "file": "24c55a67738c",
           "counts": {
-            "esri": 11,
+            "esri": 16,
             "esri-check": 0,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 81,
+            "machine": 76,
             "stale": 0,
-            "missing": 0
+            "missing": 2
           },
           "entries": {
             "_widgetLabel": {
@@ -12575,30 +11857,15 @@
               "src": "machine",
               "h": "87b3ece01e65"
             },
-            "helpNoMatches": {
-              "t": "ไม่มีอะไรในคู่มือที่ตรงกับคํานั้น ลอง เปิด อีก ส่วน หนึ่ง ข้าง บน.",
-              "src": "machine",
-              "h": "3fe179f75330"
-            },
             "firstRunBody": {
               "t": "เลือกชั้นสําหรับแต่ละด้าน เลือกการเปรียบเทียบเริ่มต้น แล้วลากตัวแบ่งในแผนที่",
               "src": "machine",
               "h": "2b585a5250a7"
             },
-            "firstRunHelpLink": {
-              "t": "เปิดคู่มือ",
-              "src": "machine",
-              "h": "2447dd6134ea"
-            },
             "firstRunDismiss": {
               "t": "ไม่สนใจคําใบ้",
               "src": "machine",
               "h": "7de6acab53c4"
-            },
-            "helpStartTitle": {
-              "t": "เริ่มที่นี่: สามขั้นตอน",
-              "src": "machine",
-              "h": "789320b4831d"
             },
             "helpStart1": {
               "t": "ใน ช่อง ชั้น นอก ให้ ตรวจ ดู ชั้น ต่าง ๆ ที่ คุณ ต้องการ ภาย ใต้ แต่ ละ ด้าน. คุณเลือกได้หลายชั้น",
@@ -12695,11 +11962,6 @@
               "src": "machine",
               "h": "0ffba3196927"
             },
-            "helpTroubleTitle": {
-              "t": "ถ้ามีอะไรผิดปกติ",
-              "src": "machine",
-              "h": "6f7fec3ff1e0"
-            },
             "helpTrouble1": {
               "t": "ไม่มีเลเยอร์: อาจจะอยู่นอกสัดส่วนของแผนที่ปัจจุบัน ซูมเข้าหรือออก และตรวจสอบจดหมายใต้ชื่อ",
               "src": "machine",
@@ -12720,11 +11982,6 @@
               "src": "machine",
               "h": "c97cca84242a"
             },
-            "helpTipsTitle": {
-              "t": "ดีที่ได้รู้",
-              "src": "machine",
-              "h": "79fc372dc790"
-            },
             "helpTips1": {
               "t": "พื้นฐาน, แผนที่, และข้อมูลชั้นๆเดียวกัน การ เปรียบ เทียบ นี้ ใช้ สําเนา แบบ ชั่ว คราว.",
               "src": "machine",
@@ -12743,16 +12000,16 @@
           }
         },
         "tr": {
-          "file": "7393d4c2ce0a",
+          "file": "fa262a581d31",
           "counts": {
-            "esri": 8,
+            "esri": 13,
             "esri-check": 3,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 81,
+            "machine": 76,
             "stale": 0,
-            "missing": 0
+            "missing": 2
           },
           "entries": {
             "_widgetLabel": {
@@ -12995,30 +12252,15 @@
               "src": "machine",
               "h": "87b3ece01e65"
             },
-            "helpNoMatches": {
-              "t": "Rehberde hiçbir şey bu kelimeyi maçları. Başka bir deneyin veya yukarıdaki bölümleri açın.",
-              "src": "machine",
-              "h": "3fe179f75330"
-            },
             "firstRunBody": {
               "t": "Her taraf için tabakaları seçin, başlangıç karşılaştırmasını seçin, sonra haritadaki bölmeyi sürükleyin.",
               "src": "machine",
               "h": "2b585a5250a7"
             },
-            "firstRunHelpLink": {
-              "t": "Rehberi açın.",
-              "src": "machine",
-              "h": "2447dd6134ea"
-            },
             "firstRunDismiss": {
               "t": "Yalanı kabul et",
               "src": "machine",
               "h": "7de6acab53c4"
-            },
-            "helpStartTitle": {
-              "t": "Buraya başlayın: Üç adım",
-              "src": "machine",
-              "h": "789320b4831d"
             },
             "helpStart1": {
               "t": "Katman listesinde, istediğiniz tabakaları her tarafta kontrol edin. Birkaç katman seçebilirsiniz.",
@@ -13115,11 +12357,6 @@
               "src": "machine",
               "h": "0ffba3196927"
             },
-            "helpTroubleTitle": {
-              "t": "Bir şey yanlış görünüyorsa",
-              "src": "machine",
-              "h": "6f7fec3ff1e0"
-            },
             "helpTrouble1": {
               "t": "Bir tabaka eksik: Mevcut harita ölçeği dışında olabilir. Ya da dışarıda, ve notu onun adı altında kontrol edin.",
               "src": "machine",
@@ -13140,11 +12377,6 @@
               "src": "machine",
               "h": "c97cca84242a"
             },
-            "helpTipsTitle": {
-              "t": "İyi bilmek",
-              "src": "machine",
-              "h": "79fc372dc790"
-            },
             "helpTips1": {
               "t": "Bazmap, harita boyutu ve tabaka verileri aynı kalır. Karşılaştırma geçici katman kopyalarını kullanır.",
               "src": "machine",
@@ -13163,16 +12395,16 @@
           }
         },
         "zh-cn": {
-          "file": "784438ee3fac",
+          "file": "cbf738a9cac9",
           "counts": {
-            "esri": 10,
+            "esri": 15,
             "esri-check": 1,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 81,
+            "machine": 76,
             "stale": 0,
-            "missing": 0
+            "missing": 2
           },
           "entries": {
             "_widgetLabel": {
@@ -13415,30 +12647,15 @@
               "src": "machine",
               "h": "87b3ece01e65"
             },
-            "helpNoMatches": {
-              "t": "指南中没有任何内容与这个词相符。 尝试另一个,或者打开上面的部分。",
-              "src": "machine",
-              "h": "3fe179f75330"
-            },
             "firstRunBody": {
               "t": "为每边选择图层,选择“启动”比较,然后在地图上拖动分隔符。",
               "src": "machine",
               "h": "2b585a5250a7"
             },
-            "firstRunHelpLink": {
-              "t": "开导.",
-              "src": "machine",
-              "h": "2447dd6134ea"
-            },
             "firstRunDismiss": {
               "t": "解开提示",
               "src": "machine",
               "h": "7de6acab53c4"
-            },
-            "helpStartTitle": {
-              "t": "从这里开始: 三步",
-              "src": "machine",
-              "h": "789320b4831d"
             },
             "helpStart1": {
               "t": "在图层列表中,检查每侧下想要的图层. 您可以选择几个层次。",
@@ -13535,11 +12752,6 @@
               "src": "machine",
               "h": "0ffba3196927"
             },
-            "helpTroubleTitle": {
-              "t": "如果有什么不对劲",
-              "src": "machine",
-              "h": "6f7fec3ff1e0"
-            },
             "helpTrouble1": {
               "t": "缺少一个图层:它可能位于当前地图尺度之外。 缩小或缩小,并检查其名下注.",
               "src": "machine",
@@ -13560,11 +12772,6 @@
               "src": "machine",
               "h": "c97cca84242a"
             },
-            "helpTipsTitle": {
-              "t": "很高兴知道",
-              "src": "machine",
-              "h": "79fc372dc790"
-            },
             "helpTips1": {
               "t": "您的底图、 地图范围、 和图层数据保持不变 。 比较使用临时层复制.",
               "src": "machine",
@@ -13583,16 +12790,16 @@
           }
         },
         "uk": {
-          "file": "f4782519786e",
+          "file": "925bf5bb14ea",
           "counts": {
-            "esri": 10,
+            "esri": 15,
             "esri-check": 1,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 81,
+            "machine": 76,
             "stale": 0,
-            "missing": 0
+            "missing": 2
           },
           "entries": {
             "_widgetLabel": {
@@ -13835,30 +13042,15 @@
               "src": "machine",
               "h": "87b3ece01e65"
             },
-            "helpNoMatches": {
-              "t": "Ніщо в інструкції відповідає словом. Спробуйте ще одну або відкрийте розділи вище.",
-              "src": "machine",
-              "h": "3fe179f75330"
-            },
             "firstRunBody": {
               "t": "Виберіть шари для кожної сторони, виберіть Почати порівняння, потім перетягніть дивіденд на карті.",
               "src": "machine",
               "h": "2b585a5250a7"
             },
-            "firstRunHelpLink": {
-              "t": "Відкрийте посібник.",
-              "src": "machine",
-              "h": "2447dd6134ea"
-            },
             "firstRunDismiss": {
               "t": "Відшкодування натяка",
               "src": "machine",
               "h": "7de6acab53c4"
-            },
-            "helpStartTitle": {
-              "t": "Почати тут: три кроки",
-              "src": "machine",
-              "h": "789320b4831d"
             },
             "helpStart1": {
               "t": "У списку шарів перевірте шари, які потрібно під кожну сторону. Ви можете вибрати кілька шарів.",
@@ -13955,11 +13147,6 @@
               "src": "machine",
               "h": "0ffba3196927"
             },
-            "helpTroubleTitle": {
-              "t": "Якщо щось виглядає неправильно",
-              "src": "machine",
-              "h": "6f7fec3ff1e0"
-            },
             "helpTrouble1": {
               "t": "Шар відсутній: він може бути поза поточною вагою карти. Зомбі або з-за кордону, і перевірте замітку, що підлягає його назві.",
               "src": "machine",
@@ -13980,11 +13167,6 @@
               "src": "machine",
               "h": "c97cca84242a"
             },
-            "helpTipsTitle": {
-              "t": "Добре знати",
-              "src": "machine",
-              "h": "79fc372dc790"
-            },
             "helpTips1": {
               "t": "Ваша базова карта, розмір карти, і дані шару залишаються однаковими. У порівнянні використовуються тимчасові копії шару.",
               "src": "machine",
@@ -14003,16 +13185,16 @@
           }
         },
         "vi": {
-          "file": "d545a3f3b9c9",
+          "file": "0680ea33bde5",
           "counts": {
-            "esri": 10,
+            "esri": 15,
             "esri-check": 1,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 81,
+            "machine": 76,
             "stale": 0,
-            "missing": 0
+            "missing": 2
           },
           "entries": {
             "_widgetLabel": {
@@ -14255,30 +13437,15 @@
               "src": "machine",
               "h": "87b3ece01e65"
             },
-            "helpNoMatches": {
-              "t": "Không có gì phù hợp với từ đó. Thử cái khác, hoặc mở phần trên.",
-              "src": "machine",
-              "h": "3fe179f75330"
-            },
             "firstRunBody": {
               "t": "Chọn các lớp cho mỗi bên, chọn bắt đầu so sánh, rồi kéo bộ phân chia trên bản đồ.",
               "src": "machine",
               "h": "2b585a5250a7"
             },
-            "firstRunHelpLink": {
-              "t": "Mở sách hướng dẫn ra.",
-              "src": "machine",
-              "h": "2447dd6134ea"
-            },
             "firstRunDismiss": {
               "t": "Giải tán các gợi ý",
               "src": "machine",
               "h": "7de6acab53c4"
-            },
-            "helpStartTitle": {
-              "t": "Bắt đầu ở đây: ba bước",
-              "src": "machine",
-              "h": "789320b4831d"
             },
             "helpStart1": {
               "t": "Trong danh sách lớp, kiểm tra các lớp bạn muốn ở dưới mỗi mặt. Bạn có thể chọn vài lớp.",
@@ -14375,11 +13542,6 @@
               "src": "machine",
               "h": "0ffba3196927"
             },
-            "helpTroubleTitle": {
-              "t": "Nếu có gì không ổn",
-              "src": "machine",
-              "h": "6f7fec3ff1e0"
-            },
             "helpTrouble1": {
               "t": "Thiếu một lớp: nó có thể nằm ngoài phạm vi bản đồ hiện tại. Thu nhỏ hoặc tắt, và kiểm tra ghi chú dưới tên của nó.",
               "src": "machine",
@@ -14400,11 +13562,6 @@
               "src": "machine",
               "h": "c97cca84242a"
             },
-            "helpTipsTitle": {
-              "t": "Rất vui được biết",
-              "src": "machine",
-              "h": "79fc372dc790"
-            },
             "helpTips1": {
               "t": "Sơ đồ cơ bản, phạm vi bản đồ, và dữ liệu lớp của bạn vẫn như cũ. So sánh này dùng các bản sao lớp học tạm thời.",
               "src": "machine",
@@ -14423,16 +13580,16 @@
           }
         },
         "zh-hk": {
-          "file": "96844239450c",
+          "file": "0bc806e51ea0",
           "counts": {
-            "esri": 9,
+            "esri": 14,
             "esri-check": 2,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 81,
+            "machine": 76,
             "stale": 0,
-            "missing": 0
+            "missing": 2
           },
           "entries": {
             "_widgetLabel": {
@@ -14675,30 +13832,15 @@
               "src": "machine",
               "h": "87b3ece01e65"
             },
-            "helpNoMatches": {
-              "t": "向导裡沒有什麼能符合這個詞的 再試一次,或者打開上面的區域",
-              "src": "machine",
-              "h": "3fe179f75330"
-            },
             "firstRunBody": {
               "t": "選擇每邊的層次, 選擇啟動比對, 然後拖曳在地圖上 。",
               "src": "machine",
               "h": "2b585a5250a7"
             },
-            "firstRunHelpLink": {
-              "t": "打開向导",
-              "src": "machine",
-              "h": "2447dd6134ea"
-            },
             "firstRunDismiss": {
               "t": "取消提示",
               "src": "machine",
               "h": "7de6acab53c4"
-            },
-            "helpStartTitle": {
-              "t": "從這裡開始: 三步",
-              "src": "machine",
-              "h": "789320b4831d"
             },
             "helpStart1": {
               "t": "在層面清單中, 請檢查您想要的層面 。 您可以選擇多層 。",
@@ -14795,11 +13937,6 @@
               "src": "machine",
               "h": "0ffba3196927"
             },
-            "helpTroubleTitle": {
-              "t": "如果有什麼不對勁",
-              "src": "machine",
-              "h": "6f7fec3ff1e0"
-            },
             "helpTrouble1": {
               "t": "缺少一層 : 它可能不在目前的地圖比例 。 放大或退出 檢查它名字下面的字條",
               "src": "machine",
@@ -14819,11 +13956,6 @@
               "t": "還卡著? 聯繫 GIS 區域, 並提到圖層比對名稱與這個應用程式 。",
               "src": "machine",
               "h": "c97cca84242a"
-            },
-            "helpTipsTitle": {
-              "t": "很高興知道",
-              "src": "machine",
-              "h": "79fc372dc790"
             },
             "helpTips1": {
               "t": "您的基底圖、 地圖範圍、 層層數據都一樣 。 比較使用暫時層面副本 。",
@@ -14843,16 +13975,16 @@
           }
         },
         "zh-tw": {
-          "file": "96844239450c",
+          "file": "0bc806e51ea0",
           "counts": {
-            "esri": 9,
+            "esri": 14,
             "esri-check": 2,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 81,
+            "machine": 76,
             "stale": 0,
-            "missing": 0
+            "missing": 2
           },
           "entries": {
             "_widgetLabel": {
@@ -15095,30 +14227,15 @@
               "src": "machine",
               "h": "87b3ece01e65"
             },
-            "helpNoMatches": {
-              "t": "向导裡沒有什麼能符合這個詞的 再試一次,或者打開上面的區域",
-              "src": "machine",
-              "h": "3fe179f75330"
-            },
             "firstRunBody": {
               "t": "選擇每邊的層次, 選擇啟動比對, 然後拖曳在地圖上 。",
               "src": "machine",
               "h": "2b585a5250a7"
             },
-            "firstRunHelpLink": {
-              "t": "打開向导",
-              "src": "machine",
-              "h": "2447dd6134ea"
-            },
             "firstRunDismiss": {
               "t": "取消提示",
               "src": "machine",
               "h": "7de6acab53c4"
-            },
-            "helpStartTitle": {
-              "t": "從這裡開始: 三步",
-              "src": "machine",
-              "h": "789320b4831d"
             },
             "helpStart1": {
               "t": "在層面清單中, 請檢查您想要的層面 。 您可以選擇多層 。",
@@ -15215,11 +14332,6 @@
               "src": "machine",
               "h": "0ffba3196927"
             },
-            "helpTroubleTitle": {
-              "t": "如果有什麼不對勁",
-              "src": "machine",
-              "h": "6f7fec3ff1e0"
-            },
             "helpTrouble1": {
               "t": "缺少一層 : 它可能不在目前的地圖比例 。 放大或退出 檢查它名字下面的字條",
               "src": "machine",
@@ -15239,11 +14351,6 @@
               "t": "還卡著? 聯繫 GIS 區域, 並提到圖層比對名稱與這個應用程式 。",
               "src": "machine",
               "h": "c97cca84242a"
-            },
-            "helpTipsTitle": {
-              "t": "很高興知道",
-              "src": "machine",
-              "h": "79fc372dc790"
             },
             "helpTips1": {
               "t": "您的基底圖、 地圖範圍、 層層數據都一樣 。 比較使用暫時層面副本 。",
@@ -15265,555 +14372,2603 @@
       }
     },
     "setting": {
-      "en": "da39a3ee5e6b",
-      "keys": 0,
-      "hashes": {},
+      "en": "42ebd9337952",
+      "keys": 31,
+      "hashes": {
+        "direction": "6f2c8a2a6a11",
+        "filterLayers": "f8ff727b976d",
+        "include": "11c54a59d8a9",
+        "leftRight": "c79344da6fe2",
+        "mapLoading": "1b709a11b6b5",
+        "refreshLayers": "15c001f24d0f",
+        "topBottom": "49099eb18758",
+        "layerSelections": "c7aab4465976",
+        "layers": "f055f18aeadc",
+        "outsideScale": "fe2bc76a4413",
+        "wholeTiledLayer": "ae90ec8eea64",
+        "_widgetLabel": "6bfaa4178b12",
+        "mapSection": "ab478f3efc84",
+        "selectMap": "d61fd2f33878",
+        "optionsSection": "07b545068b92",
+        "startPosition": "1d9ce9a0b350",
+        "allowContextToggle": "d176c1daab5a",
+        "startContext": "1ea640ebc646",
+        "showHelp": "20378e243404",
+        "startLabel": "45fff0334b3d",
+        "endLabel": "124964735b68",
+        "labelsHint": "14a7b2e1b2c8",
+        "availableSection": "1eeb9c043d91",
+        "availabilityHint": "e6bf18f1050d",
+        "defaultSection": "962a4ac8a554",
+        "defaultsHint": "fe24b4c4f53b",
+        "previewMap": "293ef17d7eea",
+        "telemetrySection": "7f16d779903e",
+        "telemetryLabel": "1a529818313f",
+        "telemetryHint": "7b88cf61d3ad",
+        "settingLoadError": "754e025f20f1"
+      },
       "locales": {
         "ar": {
-          "file": "c5bc821b217a",
+          "file": "7c0bb25a1715",
           "counts": {
-            "esri": 0,
+            "esri": 4,
             "esri-check": 0,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 0,
+            "machine": 11,
             "stale": 0,
-            "missing": 0
+            "missing": 16
           },
-          "entries": {}
+          "entries": {
+            "direction": {
+              "t": "التوجيه المقارن",
+              "src": "machine",
+              "h": "6f2c8a2a6a11"
+            },
+            "filterLayers": {
+              "t": "طبقات الخرائط",
+              "src": "machine",
+              "h": "f8ff727b976d"
+            },
+            "include": {
+              "t": "Include",
+              "src": "machine",
+              "h": "11c54a59d8a9"
+            },
+            "leftRight": {
+              "t": "يسار/يمين",
+              "src": "machine",
+              "h": "c79344da6fe2"
+            },
+            "mapLoading": {
+              "t": "الطبقة الخرائطية",
+              "src": "machine",
+              "h": "1b709a11b6b5"
+            },
+            "refreshLayers": {
+              "t": "طبقات التجديد",
+              "src": "machine",
+              "h": "15c001f24d0f"
+            },
+            "topBottom": {
+              "t": "أعلى/أسفل",
+              "src": "machine",
+              "h": "49099eb18758"
+            },
+            "layerSelections": {
+              "t": "طبقات الاختيار لكل جانب من جوانب المقارنة",
+              "src": "machine",
+              "h": "c7aab4465976"
+            },
+            "outsideScale": {
+              "t": "خارج جدول الخرائط الحالي",
+              "src": "machine",
+              "h": "fe2bc76a4413"
+            },
+            "wholeTiledLayer": {
+              "t": "مقارنتها بطبقة ذات إطار واحد",
+              "src": "machine",
+              "h": "ae90ec8eea64"
+            },
+            "_widgetLabel": {
+              "t": "Layer Compare",
+              "src": "machine",
+              "h": "6bfaa4178b12"
+            }
+          }
         },
         "bg": {
-          "file": "c5bc821b217a",
+          "file": "a20dc6d84bbb",
           "counts": {
-            "esri": 0,
+            "esri": 4,
             "esri-check": 0,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 0,
+            "machine": 11,
             "stale": 0,
-            "missing": 0
+            "missing": 16
           },
-          "entries": {}
+          "entries": {
+            "direction": {
+              "t": "Сравняване на посоката",
+              "src": "machine",
+              "h": "6f2c8a2a6a11"
+            },
+            "filterLayers": {
+              "t": "Филтриращи слоеве на картата",
+              "src": "machine",
+              "h": "f8ff727b976d"
+            },
+            "include": {
+              "t": "Включване",
+              "src": "machine",
+              "h": "11c54a59d8a9"
+            },
+            "leftRight": {
+              "t": "Леви/ десни",
+              "src": "machine",
+              "h": "c79344da6fe2"
+            },
+            "mapLoading": {
+              "t": "Зареждане на слоеве от картата...",
+              "src": "machine",
+              "h": "1b709a11b6b5"
+            },
+            "refreshLayers": {
+              "t": "Обновяване на слоевете",
+              "src": "machine",
+              "h": "15c001f24d0f"
+            },
+            "topBottom": {
+              "t": "Горе / долу",
+              "src": "machine",
+              "h": "49099eb18758"
+            },
+            "layerSelections": {
+              "t": "Изберете слоеве за всяка страна за сравнение",
+              "src": "machine",
+              "h": "c7aab4465976"
+            },
+            "outsideScale": {
+              "t": "Извън текущата скала на картата",
+              "src": "machine",
+              "h": "fe2bc76a4413"
+            },
+            "wholeTiledLayer": {
+              "t": "В сравнение с един слой",
+              "src": "machine",
+              "h": "ae90ec8eea64"
+            },
+            "_widgetLabel": {
+              "t": "Сравнение на слой",
+              "src": "machine",
+              "h": "6bfaa4178b12"
+            }
+          }
         },
         "bs": {
-          "file": "c5bc821b217a",
+          "file": "9741f1b8066d",
           "counts": {
-            "esri": 0,
+            "esri": 4,
             "esri-check": 0,
             "community": 0,
             "manual": 0,
             "existing": 0,
             "machine": 0,
             "stale": 0,
-            "missing": 0
+            "missing": 27
           },
           "entries": {}
         },
         "ca": {
-          "file": "c5bc821b217a",
+          "file": "21fa6ac84f1a",
           "counts": {
-            "esri": 0,
+            "esri": 4,
             "esri-check": 0,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 0,
+            "machine": 11,
             "stale": 0,
-            "missing": 0
+            "missing": 16
           },
-          "entries": {}
+          "entries": {
+            "direction": {
+              "t": "Compara la direcció",
+              "src": "machine",
+              "h": "6f2c8a2a6a11"
+            },
+            "filterLayers": {
+              "t": "Arbres de mapa de filtre",
+              "src": "machine",
+              "h": "f8ff727b976d"
+            },
+            "include": {
+              "t": "Inclou",
+              "src": "machine",
+              "h": "11c54a59d8a9"
+            },
+            "leftRight": {
+              "t": "Esquerra / dreta",
+              "src": "machine",
+              "h": "c79344da6fe2"
+            },
+            "mapLoading": {
+              "t": "S' estan carregant les capes del mapa...",
+              "src": "machine",
+              "h": "1b709a11b6b5"
+            },
+            "refreshLayers": {
+              "t": "Refresca les capes",
+              "src": "machine",
+              "h": "15c001f24d0f"
+            },
+            "topBottom": {
+              "t": "Dalt / baix",
+              "src": "machine",
+              "h": "49099eb18758"
+            },
+            "layerSelections": {
+              "t": "Escolliu capes per cada costat de comparació",
+              "src": "machine",
+              "h": "c7aab4465976"
+            },
+            "outsideScale": {
+              "t": "Fora de l' escala del mapa actual",
+              "src": "machine",
+              "h": "fe2bc76a4413"
+            },
+            "wholeTiledLayer": {
+              "t": "Comparat com una capa en mosaic",
+              "src": "machine",
+              "h": "ae90ec8eea64"
+            },
+            "_widgetLabel": {
+              "t": "Comparació de capes",
+              "src": "machine",
+              "h": "6bfaa4178b12"
+            }
+          }
         },
         "cs": {
-          "file": "c5bc821b217a",
+          "file": "71d790e11ca1",
           "counts": {
-            "esri": 0,
+            "esri": 4,
             "esri-check": 0,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 0,
+            "machine": 11,
             "stale": 0,
-            "missing": 0
+            "missing": 16
           },
-          "entries": {}
+          "entries": {
+            "direction": {
+              "t": "Porovnat směr",
+              "src": "machine",
+              "h": "6f2c8a2a6a11"
+            },
+            "filterLayers": {
+              "t": "Filtrační mapové vrstvy",
+              "src": "machine",
+              "h": "f8ff727b976d"
+            },
+            "include": {
+              "t": "Zahrnout",
+              "src": "machine",
+              "h": "11c54a59d8a9"
+            },
+            "leftRight": {
+              "t": "Levá / pravá",
+              "src": "machine",
+              "h": "c79344da6fe2"
+            },
+            "mapLoading": {
+              "t": "Načítám vrstvy mapy...",
+              "src": "machine",
+              "h": "1b709a11b6b5"
+            },
+            "refreshLayers": {
+              "t": "Obnovené vrstvy",
+              "src": "machine",
+              "h": "15c001f24d0f"
+            },
+            "topBottom": {
+              "t": "Nahoře / dole",
+              "src": "machine",
+              "h": "49099eb18758"
+            },
+            "layerSelections": {
+              "t": "Vyberte vrstvy pro každou porovnávací stranu",
+              "src": "machine",
+              "h": "c7aab4465976"
+            },
+            "outsideScale": {
+              "t": "Mimo aktuální měřítko mapy",
+              "src": "machine",
+              "h": "fe2bc76a4413"
+            },
+            "wholeTiledLayer": {
+              "t": "Ve srovnání s jednou dlaždicovou vrstvou",
+              "src": "machine",
+              "h": "ae90ec8eea64"
+            },
+            "_widgetLabel": {
+              "t": "Porovnat vrstvu",
+              "src": "machine",
+              "h": "6bfaa4178b12"
+            }
+          }
         },
         "da": {
-          "file": "c5bc821b217a",
+          "file": "1602421d700d",
           "counts": {
-            "esri": 0,
+            "esri": 4,
             "esri-check": 0,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 0,
+            "machine": 11,
             "stale": 0,
-            "missing": 0
+            "missing": 16
           },
-          "entries": {}
+          "entries": {
+            "direction": {
+              "t": "Sammenlign retning",
+              "src": "machine",
+              "h": "6f2c8a2a6a11"
+            },
+            "filterLayers": {
+              "t": "Filterkortlag",
+              "src": "machine",
+              "h": "f8ff727b976d"
+            },
+            "include": {
+              "t": "Medtag",
+              "src": "machine",
+              "h": "11c54a59d8a9"
+            },
+            "leftRight": {
+              "t": "Venstre / højre",
+              "src": "machine",
+              "h": "c79344da6fe2"
+            },
+            "mapLoading": {
+              "t": "Indlæser kortlag...",
+              "src": "machine",
+              "h": "1b709a11b6b5"
+            },
+            "refreshLayers": {
+              "t": "Genopfrisk lag",
+              "src": "machine",
+              "h": "15c001f24d0f"
+            },
+            "topBottom": {
+              "t": "Top / bund",
+              "src": "machine",
+              "h": "49099eb18758"
+            },
+            "layerSelections": {
+              "t": "Vælg lag for hver sammenligningsside",
+              "src": "machine",
+              "h": "c7aab4465976"
+            },
+            "outsideScale": {
+              "t": "Uden for den aktuelle kortskala",
+              "src": "machine",
+              "h": "fe2bc76a4413"
+            },
+            "wholeTiledLayer": {
+              "t": "Sammenlignet med et fliselag",
+              "src": "machine",
+              "h": "ae90ec8eea64"
+            },
+            "_widgetLabel": {
+              "t": "Lag sammenligning",
+              "src": "machine",
+              "h": "6bfaa4178b12"
+            }
+          }
         },
         "de": {
-          "file": "c5bc821b217a",
+          "file": "cbadcac1fd51",
           "counts": {
-            "esri": 0,
+            "esri": 4,
             "esri-check": 0,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 0,
+            "machine": 11,
             "stale": 0,
-            "missing": 0
+            "missing": 16
           },
-          "entries": {}
+          "entries": {
+            "direction": {
+              "t": "Richtung vergleichen",
+              "src": "machine",
+              "h": "6f2c8a2a6a11"
+            },
+            "filterLayers": {
+              "t": "Filterkartenschichten",
+              "src": "machine",
+              "h": "f8ff727b976d"
+            },
+            "include": {
+              "t": "Einschließlich",
+              "src": "machine",
+              "h": "11c54a59d8a9"
+            },
+            "leftRight": {
+              "t": "Links/rechts",
+              "src": "machine",
+              "h": "c79344da6fe2"
+            },
+            "mapLoading": {
+              "t": "Ladekartenebenen...",
+              "src": "machine",
+              "h": "1b709a11b6b5"
+            },
+            "refreshLayers": {
+              "t": "Erfrischende Schichten",
+              "src": "machine",
+              "h": "15c001f24d0f"
+            },
+            "topBottom": {
+              "t": "Oben/unten",
+              "src": "machine",
+              "h": "49099eb18758"
+            },
+            "layerSelections": {
+              "t": "Wählen Sie Schichten für jede Vergleichsseite",
+              "src": "machine",
+              "h": "c7aab4465976"
+            },
+            "outsideScale": {
+              "t": "Außerhalb der aktuellen Kartenskala",
+              "src": "machine",
+              "h": "fe2bc76a4413"
+            },
+            "wholeTiledLayer": {
+              "t": "Verglichen mit einer gekachelten Schicht",
+              "src": "machine",
+              "h": "ae90ec8eea64"
+            },
+            "_widgetLabel": {
+              "t": "Schichtvergleich",
+              "src": "machine",
+              "h": "6bfaa4178b12"
+            }
+          }
         },
         "el": {
-          "file": "c5bc821b217a",
+          "file": "bbd1206b4900",
           "counts": {
-            "esri": 0,
-            "esri-check": 0,
+            "esri": 3,
+            "esri-check": 1,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 0,
+            "machine": 11,
             "stale": 0,
-            "missing": 0
+            "missing": 16
           },
-          "entries": {}
+          "entries": {
+            "direction": {
+              "t": "Σύγκριση κατεύθυνσης",
+              "src": "machine",
+              "h": "6f2c8a2a6a11"
+            },
+            "filterLayers": {
+              "t": "Στρώματα χάρτη φίλτρου",
+              "src": "machine",
+              "h": "f8ff727b976d"
+            },
+            "include": {
+              "t": "Συμπερίληψη",
+              "src": "machine",
+              "h": "11c54a59d8a9"
+            },
+            "leftRight": {
+              "t": "Αριστερά / δεξιά",
+              "src": "machine",
+              "h": "c79344da6fe2"
+            },
+            "mapLoading": {
+              "t": "Φόρτωση στρωμάτων χάρτη...",
+              "src": "machine",
+              "h": "1b709a11b6b5"
+            },
+            "refreshLayers": {
+              "t": "Ανανέωση στρωμάτων",
+              "src": "machine",
+              "h": "15c001f24d0f"
+            },
+            "topBottom": {
+              "t": "Πάνω / κάτω",
+              "src": "machine",
+              "h": "49099eb18758"
+            },
+            "layerSelections": {
+              "t": "Επιλέξτε στρώματα για κάθε πλευρά σύγκρισης",
+              "src": "machine",
+              "h": "c7aab4465976"
+            },
+            "outsideScale": {
+              "t": "Έξω από την τρέχουσα κλίμακα χάρτη",
+              "src": "machine",
+              "h": "fe2bc76a4413"
+            },
+            "wholeTiledLayer": {
+              "t": "Σε σύγκριση με ένα στρώμα πλακιδίων",
+              "src": "machine",
+              "h": "ae90ec8eea64"
+            },
+            "_widgetLabel": {
+              "t": "Σύγκριση στρώματος",
+              "src": "machine",
+              "h": "6bfaa4178b12"
+            }
+          }
         },
         "es": {
-          "file": "c5bc821b217a",
+          "file": "f6f2ff4bcd9f",
           "counts": {
-            "esri": 0,
+            "esri": 4,
             "esri-check": 0,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 0,
+            "machine": 11,
             "stale": 0,
-            "missing": 0
+            "missing": 16
           },
-          "entries": {}
+          "entries": {
+            "direction": {
+              "t": "Compare la dirección",
+              "src": "machine",
+              "h": "6f2c8a2a6a11"
+            },
+            "filterLayers": {
+              "t": "capas de mapa de filtro",
+              "src": "machine",
+              "h": "f8ff727b976d"
+            },
+            "include": {
+              "t": "Incluido",
+              "src": "machine",
+              "h": "11c54a59d8a9"
+            },
+            "leftRight": {
+              "t": "Izquierda / derecha",
+              "src": "machine",
+              "h": "c79344da6fe2"
+            },
+            "mapLoading": {
+              "t": "Cargando capas de mapa...",
+              "src": "machine",
+              "h": "1b709a11b6b5"
+            },
+            "refreshLayers": {
+              "t": "capas de recubrimiento",
+              "src": "machine",
+              "h": "15c001f24d0f"
+            },
+            "topBottom": {
+              "t": "Parte superior / inferior",
+              "src": "machine",
+              "h": "49099eb18758"
+            },
+            "layerSelections": {
+              "t": "Elija capas para cada lado de comparación",
+              "src": "machine",
+              "h": "c7aab4465976"
+            },
+            "outsideScale": {
+              "t": "Fuera de la escala de mapa actual",
+              "src": "machine",
+              "h": "fe2bc76a4413"
+            },
+            "wholeTiledLayer": {
+              "t": "Comparado como una capa de azulejos",
+              "src": "machine",
+              "h": "ae90ec8eea64"
+            },
+            "_widgetLabel": {
+              "t": "Layer Compare",
+              "src": "machine",
+              "h": "6bfaa4178b12"
+            }
+          }
         },
         "et": {
-          "file": "c5bc821b217a",
+          "file": "7e2a43eca2f7",
           "counts": {
-            "esri": 0,
+            "esri": 4,
             "esri-check": 0,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 0,
+            "machine": 11,
             "stale": 0,
-            "missing": 0
+            "missing": 16
           },
-          "entries": {}
+          "entries": {
+            "direction": {
+              "t": "Võrdle suunda",
+              "src": "machine",
+              "h": "6f2c8a2a6a11"
+            },
+            "filterLayers": {
+              "t": "Filtrikaardi kihid",
+              "src": "machine",
+              "h": "f8ff727b976d"
+            },
+            "include": {
+              "t": "Kaasake",
+              "src": "machine",
+              "h": "11c54a59d8a9"
+            },
+            "leftRight": {
+              "t": "Vasak/parem",
+              "src": "machine",
+              "h": "c79344da6fe2"
+            },
+            "mapLoading": {
+              "t": "Kaardikihtide laadimine...",
+              "src": "machine",
+              "h": "1b709a11b6b5"
+            },
+            "refreshLayers": {
+              "t": "Värskenda kihte",
+              "src": "machine",
+              "h": "15c001f24d0f"
+            },
+            "topBottom": {
+              "t": "Ülemine / alumine",
+              "src": "machine",
+              "h": "49099eb18758"
+            },
+            "layerSelections": {
+              "t": "Iga võrdluspoole kihtide valimine",
+              "src": "machine",
+              "h": "c7aab4465976"
+            },
+            "outsideScale": {
+              "t": "Väljaspool aktiivset kaardiskaalat",
+              "src": "machine",
+              "h": "fe2bc76a4413"
+            },
+            "wholeTiledLayer": {
+              "t": "Võrreldes ühe plaaditud kihiga",
+              "src": "machine",
+              "h": "ae90ec8eea64"
+            },
+            "_widgetLabel": {
+              "t": "Kihi võrdlemine",
+              "src": "machine",
+              "h": "6bfaa4178b12"
+            }
+          }
         },
         "fi": {
-          "file": "c5bc821b217a",
+          "file": "483928cf8fbe",
           "counts": {
-            "esri": 0,
+            "esri": 4,
             "esri-check": 0,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 0,
+            "machine": 11,
             "stale": 0,
-            "missing": 0
+            "missing": 16
           },
-          "entries": {}
+          "entries": {
+            "direction": {
+              "t": "Vertaa suuntaa",
+              "src": "machine",
+              "h": "6f2c8a2a6a11"
+            },
+            "filterLayers": {
+              "t": "Suodatuskarttatasot",
+              "src": "machine",
+              "h": "f8ff727b976d"
+            },
+            "include": {
+              "t": "Sisältää",
+              "src": "machine",
+              "h": "11c54a59d8a9"
+            },
+            "leftRight": {
+              "t": "Vasen / oikea",
+              "src": "machine",
+              "h": "c79344da6fe2"
+            },
+            "mapLoading": {
+              "t": "Ladataan karttakerroksia...",
+              "src": "machine",
+              "h": "1b709a11b6b5"
+            },
+            "refreshLayers": {
+              "t": "Päivitä kerrokset",
+              "src": "machine",
+              "h": "15c001f24d0f"
+            },
+            "topBottom": {
+              "t": "Ylä-/alaosa",
+              "src": "machine",
+              "h": "49099eb18758"
+            },
+            "layerSelections": {
+              "t": "Valitse kerrokset kullekin vertailusivulle",
+              "src": "machine",
+              "h": "c7aab4465976"
+            },
+            "outsideScale": {
+              "t": "Nykyisen kartta- asteikon ulkopuolella",
+              "src": "machine",
+              "h": "fe2bc76a4413"
+            },
+            "wholeTiledLayer": {
+              "t": "Verrattuna yhtenä laattakerroksena",
+              "src": "machine",
+              "h": "ae90ec8eea64"
+            },
+            "_widgetLabel": {
+              "t": "Taso Vertaa",
+              "src": "machine",
+              "h": "6bfaa4178b12"
+            }
+          }
         },
         "fr": {
-          "file": "c5bc821b217a",
+          "file": "39cc2f9016c5",
           "counts": {
-            "esri": 0,
+            "esri": 4,
             "esri-check": 0,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 0,
+            "machine": 11,
             "stale": 0,
-            "missing": 0
+            "missing": 16
           },
-          "entries": {}
+          "entries": {
+            "direction": {
+              "t": "Comparer la direction",
+              "src": "machine",
+              "h": "6f2c8a2a6a11"
+            },
+            "filterLayers": {
+              "t": "Filtrer les couches de la carte",
+              "src": "machine",
+              "h": "f8ff727b976d"
+            },
+            "include": {
+              "t": "Inclure",
+              "src": "machine",
+              "h": "11c54a59d8a9"
+            },
+            "leftRight": {
+              "t": "Gauche/droite",
+              "src": "machine",
+              "h": "c79344da6fe2"
+            },
+            "mapLoading": {
+              "t": "Chargement des couches de carte...",
+              "src": "machine",
+              "h": "1b709a11b6b5"
+            },
+            "refreshLayers": {
+              "t": "Actualiser les calques",
+              "src": "machine",
+              "h": "15c001f24d0f"
+            },
+            "topBottom": {
+              "t": "Haut / bas",
+              "src": "machine",
+              "h": "49099eb18758"
+            },
+            "layerSelections": {
+              "t": "Choisir des couches pour chaque côté de comparaison",
+              "src": "machine",
+              "h": "c7aab4465976"
+            },
+            "outsideScale": {
+              "t": "En dehors de l'échelle de carte actuelle",
+              "src": "machine",
+              "h": "fe2bc76a4413"
+            },
+            "wholeTiledLayer": {
+              "t": "Comparé à une couche carrelée",
+              "src": "machine",
+              "h": "ae90ec8eea64"
+            },
+            "_widgetLabel": {
+              "t": "Comparaison des calques",
+              "src": "machine",
+              "h": "6bfaa4178b12"
+            }
+          }
         },
         "he": {
-          "file": "c5bc821b217a",
+          "file": "d05e7065dbcf",
           "counts": {
-            "esri": 0,
+            "esri": 4,
             "esri-check": 0,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 0,
+            "machine": 11,
             "stale": 0,
-            "missing": 0
+            "missing": 16
           },
-          "entries": {}
+          "entries": {
+            "direction": {
+              "t": "השוואת כיוון",
+              "src": "machine",
+              "h": "6f2c8a2a6a11"
+            },
+            "filterLayers": {
+              "t": "שכבות מפה filter",
+              "src": "machine",
+              "h": "f8ff727b976d"
+            },
+            "include": {
+              "t": "כולל",
+              "src": "machine",
+              "h": "11c54a59d8a9"
+            },
+            "leftRight": {
+              "t": "שמאל / ימין",
+              "src": "machine",
+              "h": "c79344da6fe2"
+            },
+            "mapLoading": {
+              "t": "טעינת שכבות מפה...",
+              "src": "machine",
+              "h": "1b709a11b6b5"
+            },
+            "refreshLayers": {
+              "t": "שכבות מרעננים",
+              "src": "machine",
+              "h": "15c001f24d0f"
+            },
+            "topBottom": {
+              "t": "למעלה /תחתית",
+              "src": "machine",
+              "h": "49099eb18758"
+            },
+            "layerSelections": {
+              "t": "בחר שכבות לכל צד",
+              "src": "machine",
+              "h": "c7aab4465976"
+            },
+            "outsideScale": {
+              "t": "מחוץ לגודל המפה הנוכחית",
+              "src": "machine",
+              "h": "fe2bc76a4413"
+            },
+            "wholeTiledLayer": {
+              "t": "בהשוואה לשכבה אחת",
+              "src": "machine",
+              "h": "ae90ec8eea64"
+            },
+            "_widgetLabel": {
+              "t": "שכבה השוואת",
+              "src": "machine",
+              "h": "6bfaa4178b12"
+            }
+          }
         },
         "hr": {
-          "file": "c5bc821b217a",
+          "file": "9741f1b8066d",
           "counts": {
-            "esri": 0,
+            "esri": 4,
             "esri-check": 0,
             "community": 0,
             "manual": 0,
             "existing": 0,
             "machine": 0,
             "stale": 0,
-            "missing": 0
+            "missing": 27
           },
           "entries": {}
         },
         "hu": {
-          "file": "c5bc821b217a",
+          "file": "1f489353860d",
           "counts": {
-            "esri": 0,
+            "esri": 4,
             "esri-check": 0,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 0,
+            "machine": 11,
             "stale": 0,
-            "missing": 0
+            "missing": 16
           },
-          "entries": {}
+          "entries": {
+            "direction": {
+              "t": "Összehasonlítás iránya",
+              "src": "machine",
+              "h": "6f2c8a2a6a11"
+            },
+            "filterLayers": {
+              "t": "Szűrőtérkép rétegek",
+              "src": "machine",
+              "h": "f8ff727b976d"
+            },
+            "include": {
+              "t": "Tartalmazza",
+              "src": "machine",
+              "h": "11c54a59d8a9"
+            },
+            "leftRight": {
+              "t": "Bal / jobb",
+              "src": "machine",
+              "h": "c79344da6fe2"
+            },
+            "mapLoading": {
+              "t": "Térképrétegek betöltése...",
+              "src": "machine",
+              "h": "1b709a11b6b5"
+            },
+            "refreshLayers": {
+              "t": "Új rétegek",
+              "src": "machine",
+              "h": "15c001f24d0f"
+            },
+            "topBottom": {
+              "t": "Felső / alsó",
+              "src": "machine",
+              "h": "49099eb18758"
+            },
+            "layerSelections": {
+              "t": "Válasszon rétegeket az egyes összehasonlító oldalakhoz",
+              "src": "machine",
+              "h": "c7aab4465976"
+            },
+            "outsideScale": {
+              "t": "Az aktuális térképskálán kívül",
+              "src": "machine",
+              "h": "fe2bc76a4413"
+            },
+            "wholeTiledLayer": {
+              "t": "Összehasonlítva egy csempe réteggel",
+              "src": "machine",
+              "h": "ae90ec8eea64"
+            },
+            "_widgetLabel": {
+              "t": "A rétegek összehasonlítása",
+              "src": "machine",
+              "h": "6bfaa4178b12"
+            }
+          }
         },
         "id": {
-          "file": "c5bc821b217a",
+          "file": "d875f0e3ce9c",
           "counts": {
-            "esri": 0,
+            "esri": 4,
             "esri-check": 0,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 0,
+            "machine": 11,
             "stale": 0,
-            "missing": 0
+            "missing": 16
           },
-          "entries": {}
+          "entries": {
+            "direction": {
+              "t": "Bandingkan arah",
+              "src": "machine",
+              "h": "6f2c8a2a6a11"
+            },
+            "filterLayers": {
+              "t": "undo-type",
+              "src": "machine",
+              "h": "f8ff727b976d"
+            },
+            "include": {
+              "t": "Sertakan",
+              "src": "machine",
+              "h": "11c54a59d8a9"
+            },
+            "leftRight": {
+              "t": "Kiri / kanan",
+              "src": "machine",
+              "h": "c79344da6fe2"
+            },
+            "mapLoading": {
+              "t": "Memuat lapis peta...",
+              "src": "machine",
+              "h": "1b709a11b6b5"
+            },
+            "refreshLayers": {
+              "t": "undo-type",
+              "src": "machine",
+              "h": "15c001f24d0f"
+            },
+            "topBottom": {
+              "t": "Atas / bawah",
+              "src": "machine",
+              "h": "49099eb18758"
+            },
+            "layerSelections": {
+              "t": "Pilih lapis untuk setiap sisi perbandingan",
+              "src": "machine",
+              "h": "c7aab4465976"
+            },
+            "outsideScale": {
+              "t": "Di luar skala peta saat ini",
+              "src": "machine",
+              "h": "fe2bc76a4413"
+            },
+            "wholeTiledLayer": {
+              "t": "Dibandingkan dengan satu lapis tiled",
+              "src": "machine",
+              "h": "ae90ec8eea64"
+            },
+            "_widgetLabel": {
+              "t": "undo-type",
+              "src": "machine",
+              "h": "6bfaa4178b12"
+            }
+          }
         },
         "it": {
-          "file": "c5bc821b217a",
+          "file": "5bcc6425a5e7",
           "counts": {
-            "esri": 0,
-            "esri-check": 0,
+            "esri": 3,
+            "esri-check": 1,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 0,
+            "machine": 11,
             "stale": 0,
-            "missing": 0
+            "missing": 16
           },
-          "entries": {}
+          "entries": {
+            "direction": {
+              "t": "Confrontare la direzione",
+              "src": "machine",
+              "h": "6f2c8a2a6a11"
+            },
+            "filterLayers": {
+              "t": "Filtri di mappa",
+              "src": "machine",
+              "h": "f8ff727b976d"
+            },
+            "include": {
+              "t": "Includere",
+              "src": "machine",
+              "h": "11c54a59d8a9"
+            },
+            "leftRight": {
+              "t": "Sinistra / destra",
+              "src": "machine",
+              "h": "c79344da6fe2"
+            },
+            "mapLoading": {
+              "t": "Caricamento di livelli di mappa...",
+              "src": "machine",
+              "h": "1b709a11b6b5"
+            },
+            "refreshLayers": {
+              "t": "Strati refrigeranti",
+              "src": "machine",
+              "h": "15c001f24d0f"
+            },
+            "topBottom": {
+              "t": "Top / inferiore",
+              "src": "machine",
+              "h": "49099eb18758"
+            },
+            "layerSelections": {
+              "t": "Scegliere strati per ogni lato di confronto",
+              "src": "machine",
+              "h": "c7aab4465976"
+            },
+            "outsideScale": {
+              "t": "Fuori dalla scala della mappa attuale",
+              "src": "machine",
+              "h": "fe2bc76a4413"
+            },
+            "wholeTiledLayer": {
+              "t": "Rispetto a uno strato piastrellato",
+              "src": "machine",
+              "h": "ae90ec8eea64"
+            },
+            "_widgetLabel": {
+              "t": "Livello di confronto",
+              "src": "machine",
+              "h": "6bfaa4178b12"
+            }
+          }
         },
         "ja": {
-          "file": "c5bc821b217a",
+          "file": "a3c5e542e589",
           "counts": {
-            "esri": 0,
+            "esri": 4,
             "esri-check": 0,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 0,
+            "machine": 11,
             "stale": 0,
-            "missing": 0
+            "missing": 16
           },
-          "entries": {}
+          "entries": {
+            "direction": {
+              "t": "方向を比較して下さい",
+              "src": "machine",
+              "h": "6f2c8a2a6a11"
+            },
+            "filterLayers": {
+              "t": "フィルターマップレイヤー",
+              "src": "machine",
+              "h": "f8ff727b976d"
+            },
+            "include": {
+              "t": "含まれるもの",
+              "src": "machine",
+              "h": "11c54a59d8a9"
+            },
+            "leftRight": {
+              "t": "左/右",
+              "src": "machine",
+              "h": "c79344da6fe2"
+            },
+            "mapLoading": {
+              "t": "ロードマップレイヤー...",
+              "src": "machine",
+              "h": "1b709a11b6b5"
+            },
+            "refreshLayers": {
+              "t": "レイヤーをリフレッシュ",
+              "src": "machine",
+              "h": "15c001f24d0f"
+            },
+            "topBottom": {
+              "t": "トップ / ボトム",
+              "src": "machine",
+              "h": "49099eb18758"
+            },
+            "layerSelections": {
+              "t": "各比較側のレイヤーを選択",
+              "src": "machine",
+              "h": "c7aab4465976"
+            },
+            "outsideScale": {
+              "t": "現在の地図スケールの外側",
+              "src": "machine",
+              "h": "fe2bc76a4413"
+            },
+            "wholeTiledLayer": {
+              "t": "1つの層として比較される",
+              "src": "machine",
+              "h": "ae90ec8eea64"
+            },
+            "_widgetLabel": {
+              "t": "層の比較",
+              "src": "machine",
+              "h": "6bfaa4178b12"
+            }
+          }
         },
         "ko": {
-          "file": "c5bc821b217a",
+          "file": "bd047138e3ed",
           "counts": {
-            "esri": 0,
+            "esri": 4,
             "esri-check": 0,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 0,
+            "machine": 11,
             "stale": 0,
-            "missing": 0
+            "missing": 16
           },
-          "entries": {}
+          "entries": {
+            "direction": {
+              "t": "방향 비교",
+              "src": "machine",
+              "h": "6f2c8a2a6a11"
+            },
+            "filterLayers": {
+              "t": "필터 맵 층",
+              "src": "machine",
+              "h": "f8ff727b976d"
+            },
+            "include": {
+              "t": "지원하다",
+              "src": "machine",
+              "h": "11c54a59d8a9"
+            },
+            "leftRight": {
+              "t": "왼쪽 / 오른쪽",
+              "src": "machine",
+              "h": "c79344da6fe2"
+            },
+            "mapLoading": {
+              "t": "로드 맵 레이어 ...",
+              "src": "machine",
+              "h": "1b709a11b6b5"
+            },
+            "refreshLayers": {
+              "t": "새로 고침 층",
+              "src": "machine",
+              "h": "15c001f24d0f"
+            },
+            "topBottom": {
+              "t": "상단 / 하단",
+              "src": "machine",
+              "h": "49099eb18758"
+            },
+            "layerSelections": {
+              "t": "각 비교 측을 위한 층을 선택하십시오",
+              "src": "machine",
+              "h": "c7aab4465976"
+            },
+            "outsideScale": {
+              "t": "현재 맵 스케일 외부",
+              "src": "machine",
+              "h": "fe2bc76a4413"
+            },
+            "wholeTiledLayer": {
+              "t": "1개의 도와 층과 비교해",
+              "src": "machine",
+              "h": "ae90ec8eea64"
+            },
+            "_widgetLabel": {
+              "t": "Layer 비교",
+              "src": "machine",
+              "h": "6bfaa4178b12"
+            }
+          }
         },
         "lt": {
-          "file": "c5bc821b217a",
+          "file": "8384d5defc08",
           "counts": {
-            "esri": 0,
+            "esri": 4,
             "esri-check": 0,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 0,
+            "machine": 11,
             "stale": 0,
-            "missing": 0
+            "missing": 16
           },
-          "entries": {}
+          "entries": {
+            "direction": {
+              "t": "Lyginti kryptį",
+              "src": "machine",
+              "h": "6f2c8a2a6a11"
+            },
+            "filterLayers": {
+              "t": "Filtruoti žemėlapio sluoksnius",
+              "src": "machine",
+              "h": "f8ff727b976d"
+            },
+            "include": {
+              "t": "Įtraukti",
+              "src": "machine",
+              "h": "11c54a59d8a9"
+            },
+            "leftRight": {
+              "t": "Kairė / dešinė",
+              "src": "machine",
+              "h": "c79344da6fe2"
+            },
+            "mapLoading": {
+              "t": "Įkeliami žemėlapio sluoksniai...",
+              "src": "machine",
+              "h": "1b709a11b6b5"
+            },
+            "refreshLayers": {
+              "t": "Atnaujinti sluoksnius",
+              "src": "machine",
+              "h": "15c001f24d0f"
+            },
+            "topBottom": {
+              "t": "Viršuje / apačioje",
+              "src": "machine",
+              "h": "49099eb18758"
+            },
+            "layerSelections": {
+              "t": "Pasirinkite sluoksnius kiekvienai palyginimo pusei",
+              "src": "machine",
+              "h": "c7aab4465976"
+            },
+            "outsideScale": {
+              "t": "Už dabartinio žemėlapio skalės ribų",
+              "src": "machine",
+              "h": "fe2bc76a4413"
+            },
+            "wholeTiledLayer": {
+              "t": "Lyginant su vienu kojomis",
+              "src": "machine",
+              "h": "ae90ec8eea64"
+            },
+            "_widgetLabel": {
+              "t": "Lygmuo",
+              "src": "machine",
+              "h": "6bfaa4178b12"
+            }
+          }
         },
         "lv": {
-          "file": "c5bc821b217a",
+          "file": "b0fa08458ded",
           "counts": {
-            "esri": 0,
+            "esri": 4,
             "esri-check": 0,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 0,
+            "machine": 11,
             "stale": 0,
-            "missing": 0
+            "missing": 16
           },
-          "entries": {}
+          "entries": {
+            "direction": {
+              "t": "Salīdzināt virzienu",
+              "src": "machine",
+              "h": "6f2c8a2a6a11"
+            },
+            "filterLayers": {
+              "t": "Filtrēt kartes slāņus",
+              "src": "machine",
+              "h": "f8ff727b976d"
+            },
+            "include": {
+              "t": "Iekļaut",
+              "src": "machine",
+              "h": "11c54a59d8a9"
+            },
+            "leftRight": {
+              "t": "Kreisā / labā",
+              "src": "machine",
+              "h": "c79344da6fe2"
+            },
+            "mapLoading": {
+              "t": "Ielādē kartes slāņus...",
+              "src": "machine",
+              "h": "1b709a11b6b5"
+            },
+            "refreshLayers": {
+              "t": "Atjaunot slāņus",
+              "src": "machine",
+              "h": "15c001f24d0f"
+            },
+            "topBottom": {
+              "t": "Augšā/apakšā",
+              "src": "machine",
+              "h": "49099eb18758"
+            },
+            "layerSelections": {
+              "t": "Izvēlieties slāņus katrā salīdzinājuma pusē",
+              "src": "machine",
+              "h": "c7aab4465976"
+            },
+            "outsideScale": {
+              "t": "Ārpus pašreizējās kartes skalas",
+              "src": "machine",
+              "h": "fe2bc76a4413"
+            },
+            "wholeTiledLayer": {
+              "t": "Salīdzinot ar vienu flīžu slāni",
+              "src": "machine",
+              "h": "ae90ec8eea64"
+            },
+            "_widgetLabel": {
+              "t": "Slānis Salīdzināt",
+              "src": "machine",
+              "h": "6bfaa4178b12"
+            }
+          }
         },
         "no": {
-          "file": "c5bc821b217a",
+          "file": "35b12a3dbc85",
           "counts": {
-            "esri": 0,
+            "esri": 4,
             "esri-check": 0,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 0,
+            "machine": 11,
             "stale": 0,
-            "missing": 0
+            "missing": 16
           },
-          "entries": {}
+          "entries": {
+            "direction": {
+              "t": "Sammenlign retning",
+              "src": "machine",
+              "h": "6f2c8a2a6a11"
+            },
+            "filterLayers": {
+              "t": "Filtrer kartlag",
+              "src": "machine",
+              "h": "f8ff727b976d"
+            },
+            "include": {
+              "t": "Inkluder",
+              "src": "machine",
+              "h": "11c54a59d8a9"
+            },
+            "leftRight": {
+              "t": "Venstre/høyre",
+              "src": "machine",
+              "h": "c79344da6fe2"
+            },
+            "mapLoading": {
+              "t": "Laster inn kartlag...",
+              "src": "machine",
+              "h": "1b709a11b6b5"
+            },
+            "refreshLayers": {
+              "t": "Oppdater lag",
+              "src": "machine",
+              "h": "15c001f24d0f"
+            },
+            "topBottom": {
+              "t": "Topp / bunn",
+              "src": "machine",
+              "h": "49099eb18758"
+            },
+            "layerSelections": {
+              "t": "Velg lag for hver sammenligningsside",
+              "src": "machine",
+              "h": "c7aab4465976"
+            },
+            "outsideScale": {
+              "t": "Utenfor gjeldende kartskala",
+              "src": "machine",
+              "h": "fe2bc76a4413"
+            },
+            "wholeTiledLayer": {
+              "t": "Sammenlignet som ett flislagt lag",
+              "src": "machine",
+              "h": "ae90ec8eea64"
+            },
+            "_widgetLabel": {
+              "t": "Lagsammenligning",
+              "src": "machine",
+              "h": "6bfaa4178b12"
+            }
+          }
         },
         "nl": {
-          "file": "c5bc821b217a",
+          "file": "1bcfaf636ced",
           "counts": {
-            "esri": 0,
-            "esri-check": 0,
+            "esri": 3,
+            "esri-check": 1,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 0,
+            "machine": 11,
             "stale": 0,
-            "missing": 0
+            "missing": 16
           },
-          "entries": {}
+          "entries": {
+            "direction": {
+              "t": "Richting vergelijken",
+              "src": "machine",
+              "h": "6f2c8a2a6a11"
+            },
+            "filterLayers": {
+              "t": "Filter kaartlagen",
+              "src": "machine",
+              "h": "f8ff727b976d"
+            },
+            "include": {
+              "t": "Includeren",
+              "src": "machine",
+              "h": "11c54a59d8a9"
+            },
+            "leftRight": {
+              "t": "Links / rechts",
+              "src": "machine",
+              "h": "c79344da6fe2"
+            },
+            "mapLoading": {
+              "t": "Laden van kaartlagen...",
+              "src": "machine",
+              "h": "1b709a11b6b5"
+            },
+            "refreshLayers": {
+              "t": "Lagen verversen",
+              "src": "machine",
+              "h": "15c001f24d0f"
+            },
+            "topBottom": {
+              "t": "Boven / onder",
+              "src": "machine",
+              "h": "49099eb18758"
+            },
+            "layerSelections": {
+              "t": "Lagen kiezen voor elke vergelijkingszijde",
+              "src": "machine",
+              "h": "c7aab4465976"
+            },
+            "outsideScale": {
+              "t": "Buiten de huidige kaartschaal",
+              "src": "machine",
+              "h": "fe2bc76a4413"
+            },
+            "wholeTiledLayer": {
+              "t": "Vergeleken met één tegellaag",
+              "src": "machine",
+              "h": "ae90ec8eea64"
+            },
+            "_widgetLabel": {
+              "t": "Laagvergelijking",
+              "src": "machine",
+              "h": "6bfaa4178b12"
+            }
+          }
         },
         "pl": {
-          "file": "c5bc821b217a",
+          "file": "c9b11bcbb8ab",
           "counts": {
-            "esri": 0,
+            "esri": 4,
             "esri-check": 0,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 0,
+            "machine": 11,
             "stale": 0,
-            "missing": 0
+            "missing": 16
           },
-          "entries": {}
+          "entries": {
+            "direction": {
+              "t": "Porównaj kierunek",
+              "src": "machine",
+              "h": "6f2c8a2a6a11"
+            },
+            "filterLayers": {
+              "t": "Warstwy mapy filtra",
+              "src": "machine",
+              "h": "f8ff727b976d"
+            },
+            "include": {
+              "t": "Dołącz",
+              "src": "machine",
+              "h": "11c54a59d8a9"
+            },
+            "leftRight": {
+              "t": "Lewa / prawa",
+              "src": "machine",
+              "h": "c79344da6fe2"
+            },
+            "mapLoading": {
+              "t": "Ładowanie warstw map...",
+              "src": "machine",
+              "h": "1b709a11b6b5"
+            },
+            "refreshLayers": {
+              "t": "Warstwy odświeżające",
+              "src": "machine",
+              "h": "15c001f24d0f"
+            },
+            "topBottom": {
+              "t": "Górna / dolna",
+              "src": "machine",
+              "h": "49099eb18758"
+            },
+            "layerSelections": {
+              "t": "Wybierz warstwy dla każdej strony porównania",
+              "src": "machine",
+              "h": "c7aab4465976"
+            },
+            "outsideScale": {
+              "t": "Poza obecną skalą mapy",
+              "src": "machine",
+              "h": "fe2bc76a4413"
+            },
+            "wholeTiledLayer": {
+              "t": "W porównaniu z jedną warstwą z płytek",
+              "src": "machine",
+              "h": "ae90ec8eea64"
+            },
+            "_widgetLabel": {
+              "t": "Porównaj warstwy",
+              "src": "machine",
+              "h": "6bfaa4178b12"
+            }
+          }
         },
         "pt-br": {
-          "file": "c5bc821b217a",
+          "file": "239e524c80a4",
           "counts": {
-            "esri": 0,
+            "esri": 4,
             "esri-check": 0,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 0,
+            "machine": 11,
             "stale": 0,
-            "missing": 0
+            "missing": 16
           },
-          "entries": {}
+          "entries": {
+            "direction": {
+              "t": "Compare direção",
+              "src": "machine",
+              "h": "6f2c8a2a6a11"
+            },
+            "filterLayers": {
+              "t": "Filtrar camadas de mapas",
+              "src": "machine",
+              "h": "f8ff727b976d"
+            },
+            "include": {
+              "t": "Inclua",
+              "src": "machine",
+              "h": "11c54a59d8a9"
+            },
+            "leftRight": {
+              "t": "Esquerda / direita",
+              "src": "machine",
+              "h": "c79344da6fe2"
+            },
+            "mapLoading": {
+              "t": "Carregando camadas de mapa...",
+              "src": "machine",
+              "h": "1b709a11b6b5"
+            },
+            "refreshLayers": {
+              "t": "Atualizar as camadas",
+              "src": "machine",
+              "h": "15c001f24d0f"
+            },
+            "topBottom": {
+              "t": "Em cima / em baixo",
+              "src": "machine",
+              "h": "49099eb18758"
+            },
+            "layerSelections": {
+              "t": "Escolha camadas para cada lado de comparação.",
+              "src": "machine",
+              "h": "c7aab4465976"
+            },
+            "outsideScale": {
+              "t": "Fora da escala atual do mapa",
+              "src": "machine",
+              "h": "fe2bc76a4413"
+            },
+            "wholeTiledLayer": {
+              "t": "Comparado com uma camada de azulejo",
+              "src": "machine",
+              "h": "ae90ec8eea64"
+            },
+            "_widgetLabel": {
+              "t": "Layer Compare",
+              "src": "machine",
+              "h": "6bfaa4178b12"
+            }
+          }
         },
         "pt-pt": {
-          "file": "c5bc821b217a",
+          "file": "259b1e12a79a",
           "counts": {
-            "esri": 0,
+            "esri": 4,
             "esri-check": 0,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 0,
+            "machine": 11,
             "stale": 0,
-            "missing": 0
+            "missing": 16
           },
-          "entries": {}
+          "entries": {
+            "direction": {
+              "t": "Comparar a direcção",
+              "src": "machine",
+              "h": "6f2c8a2a6a11"
+            },
+            "filterLayers": {
+              "t": "Camadas de mapas filtrantes",
+              "src": "machine",
+              "h": "f8ff727b976d"
+            },
+            "include": {
+              "t": "Incluir",
+              "src": "machine",
+              "h": "11c54a59d8a9"
+            },
+            "leftRight": {
+              "t": "Esquerda / direita",
+              "src": "machine",
+              "h": "c79344da6fe2"
+            },
+            "mapLoading": {
+              "t": "Carregando camadas do mapa...",
+              "src": "machine",
+              "h": "1b709a11b6b5"
+            },
+            "refreshLayers": {
+              "t": "Atualizar camadas",
+              "src": "machine",
+              "h": "15c001f24d0f"
+            },
+            "topBottom": {
+              "t": "Superior / inferior",
+              "src": "machine",
+              "h": "49099eb18758"
+            },
+            "layerSelections": {
+              "t": "Escolha camadas para cada lado de comparação",
+              "src": "machine",
+              "h": "c7aab4465976"
+            },
+            "outsideScale": {
+              "t": "Fora da escala atual do mapa",
+              "src": "machine",
+              "h": "fe2bc76a4413"
+            },
+            "wholeTiledLayer": {
+              "t": "Comparado como uma camada de azulejos",
+              "src": "machine",
+              "h": "ae90ec8eea64"
+            },
+            "_widgetLabel": {
+              "t": "Camada Comparar",
+              "src": "machine",
+              "h": "6bfaa4178b12"
+            }
+          }
         },
         "ro": {
-          "file": "c5bc821b217a",
+          "file": "f51605fcc3d8",
           "counts": {
-            "esri": 0,
+            "esri": 4,
             "esri-check": 0,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 0,
+            "machine": 11,
             "stale": 0,
-            "missing": 0
+            "missing": 16
           },
-          "entries": {}
+          "entries": {
+            "direction": {
+              "t": "Compară direcția",
+              "src": "machine",
+              "h": "6f2c8a2a6a11"
+            },
+            "filterLayers": {
+              "t": "Straturi de hartă filtru",
+              "src": "machine",
+              "h": "f8ff727b976d"
+            },
+            "include": {
+              "t": "Include",
+              "src": "machine",
+              "h": "11c54a59d8a9"
+            },
+            "leftRight": {
+              "t": "Stânga / dreapta",
+              "src": "machine",
+              "h": "c79344da6fe2"
+            },
+            "mapLoading": {
+              "t": "Încărcare straturi hartă...",
+              "src": "machine",
+              "h": "1b709a11b6b5"
+            },
+            "refreshLayers": {
+              "t": "Reîmprospătează straturile",
+              "src": "machine",
+              "h": "15c001f24d0f"
+            },
+            "topBottom": {
+              "t": "Sus / jos",
+              "src": "machine",
+              "h": "49099eb18758"
+            },
+            "layerSelections": {
+              "t": "Alegeți straturi pentru fiecare parte de comparație",
+              "src": "machine",
+              "h": "c7aab4465976"
+            },
+            "outsideScale": {
+              "t": "În afara scalei actuale a hărții",
+              "src": "machine",
+              "h": "fe2bc76a4413"
+            },
+            "wholeTiledLayer": {
+              "t": "Comparativ cu un strat de gresie",
+              "src": "machine",
+              "h": "ae90ec8eea64"
+            },
+            "_widgetLabel": {
+              "t": "Comparare plan",
+              "src": "machine",
+              "h": "6bfaa4178b12"
+            }
+          }
         },
         "ru": {
-          "file": "c5bc821b217a",
+          "file": "c87ae8e15f1a",
           "counts": {
-            "esri": 0,
+            "esri": 4,
             "esri-check": 0,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 0,
+            "machine": 11,
             "stale": 0,
-            "missing": 0
+            "missing": 16
           },
-          "entries": {}
+          "entries": {
+            "direction": {
+              "t": "Сравнить направление",
+              "src": "machine",
+              "h": "6f2c8a2a6a11"
+            },
+            "filterLayers": {
+              "t": "Слои карт фильтра",
+              "src": "machine",
+              "h": "f8ff727b976d"
+            },
+            "include": {
+              "t": "Включать",
+              "src": "machine",
+              "h": "11c54a59d8a9"
+            },
+            "leftRight": {
+              "t": "Левый / правый",
+              "src": "machine",
+              "h": "c79344da6fe2"
+            },
+            "mapLoading": {
+              "t": "Загрузка картографических слоев...",
+              "src": "machine",
+              "h": "1b709a11b6b5"
+            },
+            "refreshLayers": {
+              "t": "Обновить слои",
+              "src": "machine",
+              "h": "15c001f24d0f"
+            },
+            "topBottom": {
+              "t": "Верхний / нижний",
+              "src": "machine",
+              "h": "49099eb18758"
+            },
+            "layerSelections": {
+              "t": "Выберите уровни для каждой стороны сравнения",
+              "src": "machine",
+              "h": "c7aab4465976"
+            },
+            "outsideScale": {
+              "t": "За пределами текущей карты",
+              "src": "machine",
+              "h": "fe2bc76a4413"
+            },
+            "wholeTiledLayer": {
+              "t": "Сравнение с одним плиточным слоем",
+              "src": "machine",
+              "h": "ae90ec8eea64"
+            },
+            "_widgetLabel": {
+              "t": "Сравнение слоев",
+              "src": "machine",
+              "h": "6bfaa4178b12"
+            }
+          }
         },
         "sk": {
-          "file": "c5bc821b217a",
+          "file": "14eddf504917",
           "counts": {
-            "esri": 0,
+            "esri": 4,
             "esri-check": 0,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 0,
+            "machine": 11,
             "stale": 0,
-            "missing": 0
+            "missing": 16
           },
-          "entries": {}
+          "entries": {
+            "direction": {
+              "t": "Porovnať smer",
+              "src": "machine",
+              "h": "6f2c8a2a6a11"
+            },
+            "filterLayers": {
+              "t": "Filtrovať vrstvy mapy",
+              "src": "machine",
+              "h": "f8ff727b976d"
+            },
+            "include": {
+              "t": "Zahrnúť",
+              "src": "machine",
+              "h": "11c54a59d8a9"
+            },
+            "leftRight": {
+              "t": "Ľavá / pravá",
+              "src": "machine",
+              "h": "c79344da6fe2"
+            },
+            "mapLoading": {
+              "t": "Načítavam vrstvy mapy...",
+              "src": "machine",
+              "h": "1b709a11b6b5"
+            },
+            "refreshLayers": {
+              "t": "Obnoviť vrstvy",
+              "src": "machine",
+              "h": "15c001f24d0f"
+            },
+            "topBottom": {
+              "t": "Hore/dole",
+              "src": "machine",
+              "h": "49099eb18758"
+            },
+            "layerSelections": {
+              "t": "Vyberte vrstvy pre každú porovnávaciu stranu",
+              "src": "machine",
+              "h": "c7aab4465976"
+            },
+            "outsideScale": {
+              "t": "Mimo aktuálnej mierky mapy",
+              "src": "machine",
+              "h": "fe2bc76a4413"
+            },
+            "wholeTiledLayer": {
+              "t": "Porovnané ako jedna naklonená vrstva",
+              "src": "machine",
+              "h": "ae90ec8eea64"
+            },
+            "_widgetLabel": {
+              "t": "Porovnať vrstvu",
+              "src": "machine",
+              "h": "6bfaa4178b12"
+            }
+          }
         },
         "sl": {
-          "file": "c5bc821b217a",
+          "file": "1cf1b40c39d4",
           "counts": {
-            "esri": 0,
+            "esri": 4,
             "esri-check": 0,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 0,
+            "machine": 11,
             "stale": 0,
-            "missing": 0
+            "missing": 16
           },
-          "entries": {}
+          "entries": {
+            "direction": {
+              "t": "Primerjaj smer",
+              "src": "machine",
+              "h": "6f2c8a2a6a11"
+            },
+            "filterLayers": {
+              "t": "Filtriraj plasti zemljevida",
+              "src": "machine",
+              "h": "f8ff727b976d"
+            },
+            "include": {
+              "t": "Vključi",
+              "src": "machine",
+              "h": "11c54a59d8a9"
+            },
+            "leftRight": {
+              "t": "Levo/desno",
+              "src": "machine",
+              "h": "c79344da6fe2"
+            },
+            "mapLoading": {
+              "t": "Nalaganje plasti zemljevida...",
+              "src": "machine",
+              "h": "1b709a11b6b5"
+            },
+            "refreshLayers": {
+              "t": "Osveži plasti",
+              "src": "machine",
+              "h": "15c001f24d0f"
+            },
+            "topBottom": {
+              "t": "Zgoraj/na dnu",
+              "src": "machine",
+              "h": "49099eb18758"
+            },
+            "layerSelections": {
+              "t": "Izberite plasti za vsako stran primerjave",
+              "src": "machine",
+              "h": "c7aab4465976"
+            },
+            "outsideScale": {
+              "t": "Zunaj trenutne lestvice zemljevida",
+              "src": "machine",
+              "h": "fe2bc76a4413"
+            },
+            "wholeTiledLayer": {
+              "t": "V primerjavi z eno plastjo",
+              "src": "machine",
+              "h": "ae90ec8eea64"
+            },
+            "_widgetLabel": {
+              "t": "Primerjava plasti",
+              "src": "machine",
+              "h": "6bfaa4178b12"
+            }
+          }
         },
         "sr": {
-          "file": "c5bc821b217a",
+          "file": "818187ab52d2",
           "counts": {
-            "esri": 0,
+            "esri": 4,
             "esri-check": 0,
             "community": 0,
             "manual": 0,
             "existing": 0,
             "machine": 0,
             "stale": 0,
-            "missing": 0
+            "missing": 27
           },
           "entries": {}
         },
         "sv": {
-          "file": "c5bc821b217a",
+          "file": "6dfddd31c81f",
           "counts": {
-            "esri": 0,
+            "esri": 4,
             "esri-check": 0,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 0,
+            "machine": 11,
             "stale": 0,
-            "missing": 0
+            "missing": 16
           },
-          "entries": {}
+          "entries": {
+            "direction": {
+              "t": "Jämför riktning",
+              "src": "machine",
+              "h": "6f2c8a2a6a11"
+            },
+            "filterLayers": {
+              "t": "Filter kartlager",
+              "src": "machine",
+              "h": "f8ff727b976d"
+            },
+            "include": {
+              "t": "Inkludera",
+              "src": "machine",
+              "h": "11c54a59d8a9"
+            },
+            "leftRight": {
+              "t": "Vänster/höger",
+              "src": "machine",
+              "h": "c79344da6fe2"
+            },
+            "mapLoading": {
+              "t": "Ledande kartlager...",
+              "src": "machine",
+              "h": "1b709a11b6b5"
+            },
+            "refreshLayers": {
+              "t": "Refresh lager",
+              "src": "machine",
+              "h": "15c001f24d0f"
+            },
+            "topBottom": {
+              "t": "Top / botten",
+              "src": "machine",
+              "h": "49099eb18758"
+            },
+            "layerSelections": {
+              "t": "Välj lager för varje jämförelsesida",
+              "src": "machine",
+              "h": "c7aab4465976"
+            },
+            "outsideScale": {
+              "t": "Utanför den nuvarande kartskalan",
+              "src": "machine",
+              "h": "fe2bc76a4413"
+            },
+            "wholeTiledLayer": {
+              "t": "Jämfört som ett kakelskikt",
+              "src": "machine",
+              "h": "ae90ec8eea64"
+            },
+            "_widgetLabel": {
+              "t": "Layer jämför",
+              "src": "machine",
+              "h": "6bfaa4178b12"
+            }
+          }
         },
         "th": {
-          "file": "c5bc821b217a",
+          "file": "a19d9a77265a",
           "counts": {
-            "esri": 0,
+            "esri": 4,
             "esri-check": 0,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 0,
+            "machine": 11,
             "stale": 0,
-            "missing": 0
+            "missing": 16
           },
-          "entries": {}
+          "entries": {
+            "direction": {
+              "t": "เปรียบเทียบทิศทาง",
+              "src": "machine",
+              "h": "6f2c8a2a6a11"
+            },
+            "filterLayers": {
+              "t": "เลเยอร์ถัดไป",
+              "src": "machine",
+              "h": "f8ff727b976d"
+            },
+            "include": {
+              "t": "รวม",
+              "src": "machine",
+              "h": "11c54a59d8a9"
+            },
+            "leftRight": {
+              "t": "ซ้าย/ ขวา",
+              "src": "machine",
+              "h": "c79344da6fe2"
+            },
+            "mapLoading": {
+              "t": "กําลังโหลดเลเยอร์...",
+              "src": "machine",
+              "h": "1b709a11b6b5"
+            },
+            "refreshLayers": {
+              "t": "ปรับปรุงเลเยอร์ใหม่",
+              "src": "machine",
+              "h": "15c001f24d0f"
+            },
+            "topBottom": {
+              "t": "บน/ ล่าง",
+              "src": "machine",
+              "h": "49099eb18758"
+            },
+            "layerSelections": {
+              "t": "เลือกเลเยอร์สําหรับด้านเปรียบเทียบแต่ละด้าน",
+              "src": "machine",
+              "h": "c7aab4465976"
+            },
+            "outsideScale": {
+              "t": "นอกสัดส่วนแผนที่ปัจจุบัน",
+              "src": "machine",
+              "h": "fe2bc76a4413"
+            },
+            "wholeTiledLayer": {
+              "t": "เทียบเป็น 1 เลเยอร์",
+              "src": "machine",
+              "h": "ae90ec8eea64"
+            },
+            "_widgetLabel": {
+              "t": "เลเยอร์",
+              "src": "machine",
+              "h": "6bfaa4178b12"
+            }
+          }
         },
         "tr": {
-          "file": "c5bc821b217a",
+          "file": "7b156475db09",
           "counts": {
-            "esri": 0,
+            "esri": 4,
             "esri-check": 0,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 0,
+            "machine": 11,
             "stale": 0,
-            "missing": 0
+            "missing": 16
           },
-          "entries": {}
+          "entries": {
+            "direction": {
+              "t": "Karşılaştırma yönü",
+              "src": "machine",
+              "h": "6f2c8a2a6a11"
+            },
+            "filterLayers": {
+              "t": "Filtre Haritası",
+              "src": "machine",
+              "h": "f8ff727b976d"
+            },
+            "include": {
+              "t": "Add Add Add Add Add",
+              "src": "machine",
+              "h": "11c54a59d8a9"
+            },
+            "leftRight": {
+              "t": "Sol / sağ",
+              "src": "machine",
+              "h": "c79344da6fe2"
+            },
+            "mapLoading": {
+              "t": "Yükleniyor harita katmanları...",
+              "src": "machine",
+              "h": "1b709a11b6b5"
+            },
+            "refreshLayers": {
+              "t": "Yeni katmanlar",
+              "src": "machine",
+              "h": "15c001f24d0f"
+            },
+            "topBottom": {
+              "t": "Top / alt",
+              "src": "machine",
+              "h": "49099eb18758"
+            },
+            "layerSelections": {
+              "t": "Her karşılaştırma tarafı için katmanları seçin",
+              "src": "machine",
+              "h": "c7aab4465976"
+            },
+            "outsideScale": {
+              "t": "Mevcut harita ölçeği dışında",
+              "src": "machine",
+              "h": "fe2bc76a4413"
+            },
+            "wholeTiledLayer": {
+              "t": "Bir karot tabaka olarak karşılaştırıldığında",
+              "src": "machine",
+              "h": "ae90ec8eea64"
+            },
+            "_widgetLabel": {
+              "t": "Katman Karşılaştırma",
+              "src": "machine",
+              "h": "6bfaa4178b12"
+            }
+          }
         },
         "zh-cn": {
-          "file": "c5bc821b217a",
+          "file": "6a9e302dbd04",
           "counts": {
-            "esri": 0,
+            "esri": 4,
             "esri-check": 0,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 0,
+            "machine": 11,
             "stale": 0,
-            "missing": 0
+            "missing": 16
           },
-          "entries": {}
+          "entries": {
+            "direction": {
+              "t": "比较方向",
+              "src": "machine",
+              "h": "6f2c8a2a6a11"
+            },
+            "filterLayers": {
+              "t": "过滤映射层",
+              "src": "machine",
+              "h": "f8ff727b976d"
+            },
+            "include": {
+              "t": "包含",
+              "src": "machine",
+              "h": "11c54a59d8a9"
+            },
+            "leftRight": {
+              "t": "左边/ 右边",
+              "src": "machine",
+              "h": "c79344da6fe2"
+            },
+            "mapLoading": {
+              "t": "正在装入地图层...",
+              "src": "machine",
+              "h": "1b709a11b6b5"
+            },
+            "refreshLayers": {
+              "t": "刷新层",
+              "src": "machine",
+              "h": "15c001f24d0f"
+            },
+            "topBottom": {
+              "t": "顶/底",
+              "src": "machine",
+              "h": "49099eb18758"
+            },
+            "layerSelections": {
+              "t": "为每个比较面选择图层",
+              "src": "machine",
+              "h": "c7aab4465976"
+            },
+            "outsideScale": {
+              "t": "在当前地图比例之外",
+              "src": "machine",
+              "h": "fe2bc76a4413"
+            },
+            "wholeTiledLayer": {
+              "t": "比较为一个平板层",
+              "src": "machine",
+              "h": "ae90ec8eea64"
+            },
+            "_widgetLabel": {
+              "t": "图层比较",
+              "src": "machine",
+              "h": "6bfaa4178b12"
+            }
+          }
         },
         "uk": {
-          "file": "c5bc821b217a",
+          "file": "d9fc63caefb5",
           "counts": {
-            "esri": 0,
+            "esri": 4,
             "esri-check": 0,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 0,
+            "machine": 11,
             "stale": 0,
-            "missing": 0
+            "missing": 16
           },
-          "entries": {}
+          "entries": {
+            "direction": {
+              "t": "Порівняйте напрямок",
+              "src": "machine",
+              "h": "6f2c8a2a6a11"
+            },
+            "filterLayers": {
+              "t": "Фільтр шари карт",
+              "src": "machine",
+              "h": "f8ff727b976d"
+            },
+            "include": {
+              "t": "Включити",
+              "src": "machine",
+              "h": "11c54a59d8a9"
+            },
+            "leftRight": {
+              "t": "Ліворуч / право",
+              "src": "machine",
+              "h": "c79344da6fe2"
+            },
+            "mapLoading": {
+              "t": "Завантаження шарів...",
+              "src": "machine",
+              "h": "1b709a11b6b5"
+            },
+            "refreshLayers": {
+              "t": "Фреш шари",
+              "src": "machine",
+              "h": "15c001f24d0f"
+            },
+            "topBottom": {
+              "t": "Топ / дно",
+              "src": "machine",
+              "h": "49099eb18758"
+            },
+            "layerSelections": {
+              "t": "Виберіть шари для кожної точки порівняння",
+              "src": "machine",
+              "h": "c7aab4465976"
+            },
+            "outsideScale": {
+              "t": "Зовні поточного масштабу карти",
+              "src": "machine",
+              "h": "fe2bc76a4413"
+            },
+            "wholeTiledLayer": {
+              "t": "У порівнянні з одним кахельним шаром",
+              "src": "machine",
+              "h": "ae90ec8eea64"
+            },
+            "_widgetLabel": {
+              "t": "Порівняйте",
+              "src": "machine",
+              "h": "6bfaa4178b12"
+            }
+          }
         },
         "vi": {
-          "file": "c5bc821b217a",
+          "file": "e571b1de736d",
           "counts": {
-            "esri": 0,
+            "esri": 4,
             "esri-check": 0,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 0,
+            "machine": 11,
             "stale": 0,
-            "missing": 0
+            "missing": 16
           },
-          "entries": {}
+          "entries": {
+            "direction": {
+              "t": "So sánh & hướng",
+              "src": "machine",
+              "h": "6f2c8a2a6a11"
+            },
+            "filterLayers": {
+              "t": "Lớp lọc",
+              "src": "machine",
+              "h": "f8ff727b976d"
+            },
+            "include": {
+              "t": "Bao gồm",
+              "src": "machine",
+              "h": "11c54a59d8a9"
+            },
+            "leftRight": {
+              "t": "Trái / phải",
+              "src": "machine",
+              "h": "c79344da6fe2"
+            },
+            "mapLoading": {
+              "t": "Đang tải các lớp sơ đồ...",
+              "src": "machine",
+              "h": "1b709a11b6b5"
+            },
+            "refreshLayers": {
+              "t": "Làm tươi các lớp",
+              "src": "machine",
+              "h": "15c001f24d0f"
+            },
+            "topBottom": {
+              "t": "Trên/ dưới",
+              "src": "machine",
+              "h": "49099eb18758"
+            },
+            "layerSelections": {
+              "t": "Chọn các lớp cho mỗi mặt so sánh",
+              "src": "machine",
+              "h": "c7aab4465976"
+            },
+            "outsideScale": {
+              "t": "Bên ngoài tỷ lệ bản đồ hiện tại",
+              "src": "machine",
+              "h": "fe2bc76a4413"
+            },
+            "wholeTiledLayer": {
+              "t": "So sánh với lớp lát",
+              "src": "machine",
+              "h": "ae90ec8eea64"
+            },
+            "_widgetLabel": {
+              "t": "So sánh Lớp",
+              "src": "machine",
+              "h": "6bfaa4178b12"
+            }
+          }
         },
         "zh-hk": {
-          "file": "c5bc821b217a",
+          "file": "1a7143cdfae0",
           "counts": {
-            "esri": 0,
+            "esri": 4,
             "esri-check": 0,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 0,
+            "machine": 11,
             "stale": 0,
-            "missing": 0
+            "missing": 16
           },
-          "entries": {}
+          "entries": {
+            "direction": {
+              "t": "比較方向",
+              "src": "machine",
+              "h": "6f2c8a2a6a11"
+            },
+            "filterLayers": {
+              "t": "过滤地圖層",
+              "src": "machine",
+              "h": "f8ff727b976d"
+            },
+            "include": {
+              "t": "包含",
+              "src": "machine",
+              "h": "11c54a59d8a9"
+            },
+            "leftRight": {
+              "t": "左/右",
+              "src": "machine",
+              "h": "c79344da6fe2"
+            },
+            "mapLoading": {
+              "t": "正在載入地圖層...",
+              "src": "machine",
+              "h": "1b709a11b6b5"
+            },
+            "refreshLayers": {
+              "t": "刷新層次",
+              "src": "machine",
+              "h": "15c001f24d0f"
+            },
+            "topBottom": {
+              "t": "上/ 下",
+              "src": "machine",
+              "h": "49099eb18758"
+            },
+            "layerSelections": {
+              "t": "選擇每邊比較的層次",
+              "src": "machine",
+              "h": "c7aab4465976"
+            },
+            "outsideScale": {
+              "t": "在目前的地圖比例之外",
+              "src": "machine",
+              "h": "fe2bc76a4413"
+            },
+            "wholeTiledLayer": {
+              "t": "比較為單層平面",
+              "src": "machine",
+              "h": "ae90ec8eea64"
+            },
+            "_widgetLabel": {
+              "t": "層次比對",
+              "src": "machine",
+              "h": "6bfaa4178b12"
+            }
+          }
         },
         "zh-tw": {
-          "file": "c5bc821b217a",
+          "file": "1a7143cdfae0",
           "counts": {
-            "esri": 0,
+            "esri": 4,
             "esri-check": 0,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 0,
+            "machine": 11,
             "stale": 0,
-            "missing": 0
+            "missing": 16
           },
-          "entries": {}
+          "entries": {
+            "direction": {
+              "t": "比較方向",
+              "src": "machine",
+              "h": "6f2c8a2a6a11"
+            },
+            "filterLayers": {
+              "t": "过滤地圖層",
+              "src": "machine",
+              "h": "f8ff727b976d"
+            },
+            "include": {
+              "t": "包含",
+              "src": "machine",
+              "h": "11c54a59d8a9"
+            },
+            "leftRight": {
+              "t": "左/右",
+              "src": "machine",
+              "h": "c79344da6fe2"
+            },
+            "mapLoading": {
+              "t": "正在載入地圖層...",
+              "src": "machine",
+              "h": "1b709a11b6b5"
+            },
+            "refreshLayers": {
+              "t": "刷新層次",
+              "src": "machine",
+              "h": "15c001f24d0f"
+            },
+            "topBottom": {
+              "t": "上/ 下",
+              "src": "machine",
+              "h": "49099eb18758"
+            },
+            "layerSelections": {
+              "t": "選擇每邊比較的層次",
+              "src": "machine",
+              "h": "c7aab4465976"
+            },
+            "outsideScale": {
+              "t": "在目前的地圖比例之外",
+              "src": "machine",
+              "h": "fe2bc76a4413"
+            },
+            "wholeTiledLayer": {
+              "t": "比較為單層平面",
+              "src": "machine",
+              "h": "ae90ec8eea64"
+            },
+            "_widgetLabel": {
+              "t": "層次比對",
+              "src": "machine",
+              "h": "6bfaa4178b12"
+            }
+          }
         }
       }
     }

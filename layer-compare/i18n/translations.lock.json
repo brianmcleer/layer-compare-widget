@@ -893,18 +893,419 @@
           }
         },
         "bs": {
-          "file": "0d437570721c",
+          "file": "3f297951de93",
           "counts": {
             "esri": 9,
             "esri-check": 1,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 0,
+            "machine": 80,
             "stale": 0,
-            "missing": 84
+            "missing": 4
           },
-          "entries": {}
+          "entries": {
+            "_widgetLabel": {
+              "t": "Poredak slojeva",
+              "src": "machine",
+              "h": "6bfaa4178b12"
+            },
+            "title": {
+              "t": "Poredak slojeva",
+              "src": "machine",
+              "h": "6bfaa4178b12"
+            },
+            "description": {
+              "t": "Izaberite slojeve za svaku stranu, zatim povucite djelitelj karte da ih usporedite.",
+              "src": "machine",
+              "h": "a9198585ffe0"
+            },
+            "start": {
+              "t": "Početno poređenje",
+              "src": "machine",
+              "h": "aed5cdd8ea85"
+            },
+            "stop": {
+              "t": "Zaustavi poredjenje",
+              "src": "machine",
+              "h": "7826e2fbc443"
+            },
+            "swap": {
+              "t": "Swap strane",
+              "src": "machine",
+              "h": "89376e096de8"
+            },
+            "resetPosition": {
+              "t": "Centrirano",
+              "src": "machine",
+              "h": "779a6708e9c5"
+            },
+            "leftRight": {
+              "t": "Lijevo / desno",
+              "src": "machine",
+              "h": "c79344da6fe2"
+            },
+            "topBottom": {
+              "t": "Gornje / donje",
+              "src": "machine",
+              "h": "49099eb18758"
+            },
+            "direction": {
+              "t": "Uporedi smjer",
+              "src": "machine",
+              "h": "6f2c8a2a6a11"
+            },
+            "dividerPosition": {
+              "t": "Pozicija razdjelnika",
+              "src": "machine",
+              "h": "b8a8c9bd17f3"
+            },
+            "sliderLabel": {
+              "t": "Prilagodi poziciju dividera: {position}%",
+              "src": "machine",
+              "h": "ee89235f107f"
+            },
+            "layerSelections": {
+              "t": "Izaberite slojeve za svaku stranu poređenja",
+              "src": "machine",
+              "h": "c7aab4465976"
+            },
+            "sideLayer": {
+              "t": "{layer}: prikaz na {side}",
+              "src": "machine",
+              "h": "a067b3bf587c"
+            },
+            "include": {
+              "t": "Uključi",
+              "src": "machine",
+              "h": "11c54a59d8a9"
+            },
+            "filterLayers": {
+              "t": "Filtriraj slojeve mape",
+              "src": "machine",
+              "h": "f8ff727b976d"
+            },
+            "noMatches": {
+              "t": "Nema slojeva koji odgovaraju tom filtru.",
+              "src": "machine",
+              "h": "7effb11a9401"
+            },
+            "noLayers": {
+              "t": "Nema dostupnih slojeva. Provjerite mapu i postavke grafičkog elementa.",
+              "src": "machine",
+              "h": "8263c2a20f29"
+            },
+            "unsupported": {
+              "t": "Ovaj tip sloja nije dostupan za 2D poređenje.",
+              "src": "machine",
+              "h": "184a5664a0bf"
+            },
+            "loadFailed": {
+              "t": "Ovaj sloj nije mogao učitati. Provjerite njegov servis ili se prijavite.",
+              "src": "machine",
+              "h": "b0cf0af5748f"
+            },
+            "outsideScale": {
+              "t": "Izvan trenutne skale mape",
+              "src": "machine",
+              "h": "fe2bc76a4413"
+            },
+            "wholeTiledLayer": {
+              "t": "U poređenju sa jednim popločanim slojem",
+              "src": "machine",
+              "h": "ae90ec8eea64"
+            },
+            "basemapOnly": {
+              "t": "Samo bazamap",
+              "src": "machine",
+              "h": "025f40773b9c"
+            },
+            "sharedLayers": {
+              "t": "Djeljeni slojevi karte",
+              "src": "machine",
+              "h": "86604f062909"
+            },
+            "keepOthers": {
+              "t": "Prikaži druge vidljive slojeve na obje strane",
+              "src": "machine",
+              "h": "06f3da59d250"
+            },
+            "keepOthersHint": {
+              "t": "Čuva slojeve koji su bili vidljivi prije usporedbe, a odabrani slojevi i dalje prate bočne okvire.",
+              "src": "machine",
+              "h": "76778f75efa9"
+            },
+            "selectionHint": {
+              "t": "Provjerite sloj ispod obje strane. Provjera obje strane pokazuje na obje. Provjera grupe odabire dostupne slojeve.",
+              "src": "machine",
+              "h": "93919e003866"
+            },
+            "connectMap": {
+              "t": "Povežite ovaj grafički element sa grafičkim elementom mape u postavkama graditelja.",
+              "src": "machine",
+              "h": "2ec01457f782"
+            },
+            "mapLoading": {
+              "t": "Učitavam slojeve mape...",
+              "src": "machine",
+              "h": "1b709a11b6b5"
+            },
+            "mapLoadError": {
+              "t": "Slojevi mape nisu mogli biti pročitani. Provjerite povezanu mapu, a zatim osvježite slojeve.",
+              "src": "machine",
+              "h": "e8b534e61301"
+            },
+            "sceneNotSupported": {
+              "t": "Izaberite 2D mapu. Usporedba sloja nije dostupna u 3D sceni.",
+              "src": "machine",
+              "h": "76f29e2d6528"
+            },
+            "preparing": {
+              "t": "Pripremam poređenje...",
+              "src": "machine",
+              "h": "9c81122ba870"
+            },
+            "active": {
+              "t": "Usporedba je uključena. Povucite podjelu karte ili koristite klizač.",
+              "src": "machine",
+              "h": "042ef648faf1"
+            },
+            "selectFirst": {
+              "t": "Za početak izaberite barem jedan sloj sa obje strane.",
+              "src": "machine",
+              "h": "c3d865d28e75"
+            },
+            "stopped": {
+              "t": "Usporedba zaustavljena.",
+              "src": "machine",
+              "h": "7e2330d0c72d"
+            },
+            "cleared": {
+              "t": "{side}očišćene selekcije.",
+              "src": "machine",
+              "h": "9dccb6e04418"
+            },
+            "swapped": {
+              "t": "Usporedba strana zamijenjena.",
+              "src": "machine",
+              "h": "6d1128c678d7"
+            },
+            "resetDone": {
+              "t": "Resetiranje usporedbe. Uobičajeni odabiri i vidljivost mape su vraćeni.",
+              "src": "machine",
+              "h": "0113fe0f2fd9"
+            },
+            "changedMap": {
+              "t": "Mapa se promijenila. Usporedba je prestala; pregledajte vaše odabire i počnite ponovo.",
+              "src": "machine",
+              "h": "a2d8aef1ee2f"
+            },
+            "compareFailed": {
+              "t": "Usporedba nije mogla biti pripremljena. Provjerite izabrane slojeve i pokušajte ponovo.",
+              "src": "machine",
+              "h": "11846291c9e4"
+            },
+            "anotherCompare": {
+              "t": "Druga Slojeva Usporedba koristi ovu kartu. Prvo zaustavi tu usporedbu.",
+              "src": "machine",
+              "h": "16dfc47a4519"
+            },
+            "refreshLayers": {
+              "t": "Osvježi slojeve",
+              "src": "machine",
+              "h": "15c001f24d0f"
+            },
+            "helpIntro": {
+              "t": "Usporedba slojeva prikazuje vaše odabrane slojeve karata na različitim stranama pokretnog dividera.",
+              "src": "machine",
+              "h": "317b8f8f26b3"
+            },
+            "helpSearchPlaceholder": {
+              "t": "Traži vodič (pokušajteslojevi iliklizač",
+              "src": "machine",
+              "h": "87b3ece01e65"
+            },
+            "helpNoMatches": {
+              "t": "Ništa u vodiču ne odgovara toj riječi.",
+              "src": "machine",
+              "h": "3fe179f75330"
+            },
+            "firstRunTitle": {
+              "t": "Novi ovdje?",
+              "src": "machine",
+              "h": "b81f2e17e001"
+            },
+            "firstRunBody": {
+              "t": "Izaberite slojeve za svaku stranu, odaberite Start usporedbe, zatim povucite divider na karti.",
+              "src": "machine",
+              "h": "2b585a5250a7"
+            },
+            "firstRunHelpLink": {
+              "t": "Otvori vodič.",
+              "src": "machine",
+              "h": "2447dd6134ea"
+            },
+            "firstRunDismiss": {
+              "t": "Odbaci nagovještaj",
+              "src": "machine",
+              "h": "7de6acab53c4"
+            },
+            "helpStartTitle": {
+              "t": "Počnite ovdje: tri koraka",
+              "src": "machine",
+              "h": "789320b4831d"
+            },
+            "helpStart1": {
+              "t": "U listi slojeva, provjerite slojeve koje želite ispod svake strane.",
+              "src": "machine",
+              "h": "9b9504d94d9c"
+            },
+            "helpStart2": {
+              "t": "Izaberi startnu usporedbu. Daj mapi trenutak da prepravi.",
+              "src": "machine",
+              "h": "5b9878675885"
+            },
+            "helpStart3": {
+              "t": "Povucite razdjelnik na karti ili koristite klizač za poziciju Dividera u ovoj ploči.",
+              "src": "machine",
+              "h": "8f2f6dd20f81"
+            },
+            "helpLayersTitle": {
+              "t": "Odabir slojeva",
+              "src": "machine",
+              "h": "266e4034fd8c"
+            },
+            "helpLayers1": {
+              "t": "Svaka strana ima vlastiti pretinac. Provjerite obje kutije da prikaže isti sloj na obje strane.",
+              "src": "machine",
+              "h": "0f5b87efbd69"
+            },
+            "helpLayers2": {
+              "t": "Provjerite grupu da izaberete sve dostupne slojeve. Koristite strelicu pored imena da izaberete pojedinačne slojeve.",
+              "src": "machine",
+              "h": "5a9e81ded429"
+            },
+            "helpLayers3": {
+              "t": "Kutija iznad liste filtrira imena slojeva. Filtriranje liste ne uklanja vaše izbore.",
+              "src": "machine",
+              "h": "eea8b65add04"
+            },
+            "helpLayers4": {
+              "t": "Servisi za slikanje mapa mogu biti prošireni tako da možete porediti njihove pojedinačne podslojeve. Čahurasti sloj se uspoređuje kao jedan kompletan sloj.",
+              "src": "machine",
+              "h": "8dc01f6bec9f"
+            },
+            "helpLayers5": {
+              "t": "Strana bez izabranih slojeva prikazuje baznu mapu i bilo koje zajedničke slojeve karte. Ovo možete koristiti za usporedbu sloja sa baznom mapom.",
+              "src": "machine",
+              "h": "ecc9ff84fd98"
+            },
+            "helpLayersContext": {
+              "t": "Prikaži druge vidljive slojeve na obje strane koji čuvaju druge slojeve koji su bili vidljivi prije nego što ste počeli.",
+              "src": "machine",
+              "h": "cc04d49d76a0"
+            },
+            "helpUseTitle": {
+              "t": "Pomjeranje razdjelnika",
+              "src": "machine",
+              "h": "6c342baf4a8e"
+            },
+            "helpUse1": {
+              "t": "Usporedi promjene smjera između lijeve / desne i gornje / donje.",
+              "src": "machine",
+              "h": "95b764e98e49"
+            },
+            "helpUse2": {
+              "t": "Klizač pomjera isti divider kao i ručka na karti. Koristi tipke sa strelicama na klizaču za precizno podešavanje.",
+              "src": "machine",
+              "h": "6267c1946822"
+            },
+            "helpUse3": {
+              "t": "Center divider vraća divider nazad u sredinu. Zamijenite strane mijenja dva sloja selekcije.",
+              "src": "machine",
+              "h": "a61427c6d041"
+            },
+            "helpUse4": {
+              "t": "Još uvijek možete uvećati i zumirati mapu dok je usporedba uključena.",
+              "src": "machine",
+              "h": "8a3d05942e32"
+            },
+            "helpStopTitle": {
+              "t": "Vračam se na mapu",
+              "src": "machine",
+              "h": "70ffddfd1a78"
+            },
+            "helpStop1": {
+              "t": "Stop usporedbe uklanja divider i vraća vidljivost karte. Vaši bočni odabiri ostaju spremni za sljedeću usporedbu.",
+              "src": "machine",
+              "h": "c82424560dc9"
+            },
+            "helpStop2": {
+              "t": "Reset zaustavlja poređenje, vraća uobičajene selekcije, i resetuje divider poziciju i pravac.",
+              "src": "machine",
+              "h": "d927c144efbc"
+            },
+            "helpStop3": {
+              "t": "Zatvaranje grafičkog elementa, mijenjanje karte ili napuštanje aplikacije također zaustavlja poređenje.",
+              "src": "machine",
+              "h": "0ffba3196927"
+            },
+            "helpTroubleTitle": {
+              "t": "Ako nešto nije u redu",
+              "src": "machine",
+              "h": "6f7fec3ff1e0"
+            },
+            "helpTrouble1": {
+              "t": "Nedostaje sloj: može biti izvan trenutne skale karte. Zumiraj ili izađi, i provjeri bilješku ispod njenog imena.",
+              "src": "machine",
+              "h": "0297e382ed73"
+            },
+            "helpTrouble2": {
+              "t": "Sloj nije dostupan: njegov servis može biti offline, može zahtijevati prijavu ili njegov tip sloja možda neće raditi u 2D karti. Provjerite taj sloj u mapi.",
+              "src": "machine",
+              "h": "c14190462488"
+            },
+            "helpTrouble3": {
+              "t": "Usporedba je prestala nakon dodavanja ili uklanjanja sloja: mapa je promijenjena. Pregledajte listu slojeva i odaberite ponovo Start usporedbe.",
+              "src": "machine",
+              "h": "7d14c92ea044"
+            },
+            "helpTroubleContact": {
+              "t": "Još uvijek zapeo? Kontaktirajte GIS diviziju i spomenite ime za usporedbu sloja i ovu aplikaciju.",
+              "src": "machine",
+              "h": "c97cca84242a"
+            },
+            "helpTipsTitle": {
+              "t": "Dobro je znati.",
+              "src": "machine",
+              "h": "79fc372dc790"
+            },
+            "helpTips1": {
+              "t": "Vaša baza, opseg mape i podaci o slojevima ostaju isti. U poređenju se koriste privremene kopije.",
+              "src": "machine",
+              "h": "02d5a1c4de99"
+            },
+            "helpTips2": {
+              "t": "Vaši odabiri se primjenjuju samo u ovoj otvorenoj aplikaciji. Nisu snimljeni na web karti.",
+              "src": "machine",
+              "h": "b86ac4292304"
+            },
+            "helpTips3": {
+              "t": "Koristite kontrolne kutije u Layerovom poređenju prilikom usporedbe. Za primjenu filtera ili promjena stila napravljenih negdje drugdje, zaustavite i pokrenite ponovno poređenje.",
+              "src": "machine",
+              "h": "a69fcc41b12e"
+            },
+            "unknownError": {
+              "t": "nepoznata greška",
+              "src": "machine",
+              "h": "af6321ca7a8b"
+            },
+            "unserializableError": {
+              "t": "Neserijalizacijska greška",
+              "src": "machine",
+              "h": "76e73551597a"
+            }
+          }
         },
         "ca": {
           "file": "2cd892be0aca",
@@ -4862,18 +5263,434 @@
           }
         },
         "hr": {
-          "file": "0d437570721c",
+          "file": "b359f747b2fb",
           "counts": {
             "esri": 9,
             "esri-check": 1,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 0,
+            "machine": 83,
             "stale": 0,
-            "missing": 84
+            "missing": 1
           },
-          "entries": {}
+          "entries": {
+            "_widgetLabel": {
+              "t": "Usporedba sloja",
+              "src": "machine",
+              "h": "6bfaa4178b12"
+            },
+            "title": {
+              "t": "Usporedba sloja",
+              "src": "machine",
+              "h": "6bfaa4178b12"
+            },
+            "description": {
+              "t": "Odaberite slojeve za svaku stranu, zatim povucite razdjelnik karte kako biste ih usporedili.",
+              "src": "machine",
+              "h": "a9198585ffe0"
+            },
+            "start": {
+              "t": "Započni usporedbu",
+              "src": "machine",
+              "h": "aed5cdd8ea85"
+            },
+            "stop": {
+              "t": "Stop usporedbe",
+              "src": "machine",
+              "h": "7826e2fbc443"
+            },
+            "swap": {
+              "t": "Swap strane",
+              "src": "machine",
+              "h": "89376e096de8"
+            },
+            "resetPosition": {
+              "t": "Centrirani razdjelnik",
+              "src": "machine",
+              "h": "779a6708e9c5"
+            },
+            "leftRight": {
+              "t": "Lijevo / desno",
+              "src": "machine",
+              "h": "c79344da6fe2"
+            },
+            "topBottom": {
+              "t": "Gornje / donje",
+              "src": "machine",
+              "h": "49099eb18758"
+            },
+            "direction": {
+              "t": "Usporedba smjera",
+              "src": "machine",
+              "h": "6f2c8a2a6a11"
+            },
+            "dividerPosition": {
+              "t": "Položaj razdjelnika",
+              "src": "machine",
+              "h": "b8a8c9bd17f3"
+            },
+            "sliderLabel": {
+              "t": "Prilagodi položaj dividera: {position} posto",
+              "src": "machine",
+              "h": "ee89235f107f"
+            },
+            "layerSelections": {
+              "t": "Odaberite slojeve za svaku usporednu stranu",
+              "src": "machine",
+              "h": "c7aab4465976"
+            },
+            "sideLayer": {
+              "t": "{layer}: prikaz na {side}",
+              "src": "machine",
+              "h": "a067b3bf587c"
+            },
+            "includeLayer": {
+              "t": "Uključi {layer} u usporedbu sloja",
+              "src": "machine",
+              "h": "632f5b906a9c"
+            },
+            "include": {
+              "t": "Uključi",
+              "src": "machine",
+              "h": "11c54a59d8a9"
+            },
+            "expandLayer": {
+              "t": "Proširi {layer}",
+              "src": "machine",
+              "h": "b67a5594c0ea"
+            },
+            "collapseLayer": {
+              "t": "Sažmi {layer}",
+              "src": "machine",
+              "h": "b9ada017da18"
+            },
+            "filterLayers": {
+              "t": "Filtriraj slojeve mape",
+              "src": "machine",
+              "h": "f8ff727b976d"
+            },
+            "noMatches": {
+              "t": "Ni jedan sloj ne odgovara tom filtru.",
+              "src": "machine",
+              "h": "7effb11a9401"
+            },
+            "noLayers": {
+              "t": "Nema dostupnih slojeva. Provjerite kartu i postavke widgeta.",
+              "src": "machine",
+              "h": "8263c2a20f29"
+            },
+            "unsupported": {
+              "t": "Ovaj tip sloja nije dostupan za 2D usporedbu.",
+              "src": "machine",
+              "h": "184a5664a0bf"
+            },
+            "loadFailed": {
+              "t": "Ovaj sloj nije mogao učitati. Provjerite njegov servis ili se prijavite.",
+              "src": "machine",
+              "h": "b0cf0af5748f"
+            },
+            "outsideScale": {
+              "t": "Izvan trenutne skale mape",
+              "src": "machine",
+              "h": "fe2bc76a4413"
+            },
+            "wholeTiledLayer": {
+              "t": "U usporedbi s jednim popločanim slojem",
+              "src": "machine",
+              "h": "ae90ec8eea64"
+            },
+            "basemapOnly": {
+              "t": "Samo osnovna mapa",
+              "src": "machine",
+              "h": "025f40773b9c"
+            },
+            "sharedLayers": {
+              "t": "Dijeljeni slojevi mape",
+              "src": "machine",
+              "h": "86604f062909"
+            },
+            "keepOthers": {
+              "t": "Prikaži ostale vidljive slojeve na obje strane",
+              "src": "machine",
+              "h": "06f3da59d250"
+            },
+            "keepOthersHint": {
+              "t": "Čuva slojeve koji su bili vidljivi prije usporedbe. Odabrani slojevi i dalje prate njihove bočne okvire.",
+              "src": "machine",
+              "h": "76778f75efa9"
+            },
+            "selectionHint": {
+              "t": "Provjerite sloj ispod obje strane. Provjera obje strane pokazuje na obje. Provjera grupe odabire svoje dostupne slojeve.",
+              "src": "machine",
+              "h": "93919e003866"
+            },
+            "connectMap": {
+              "t": "Spojite ovaj widget na Map widget u graditeljskim postavkama.",
+              "src": "machine",
+              "h": "2ec01457f782"
+            },
+            "mapLoading": {
+              "t": "Učitavam slojeve mape...",
+              "src": "machine",
+              "h": "1b709a11b6b5"
+            },
+            "mapLoadError": {
+              "t": "Mapa slojevi nisu mogli biti pročitani. Provjerite povezanu kartu, a zatim osvježite slojeve.",
+              "src": "machine",
+              "h": "e8b534e61301"
+            },
+            "sceneNotSupported": {
+              "t": "Odaberite 2D kartu. Usporedba sloja nije dostupna u 3D sceni.",
+              "src": "machine",
+              "h": "76f29e2d6528"
+            },
+            "preparing": {
+              "t": "Pripremam usporedbu...",
+              "src": "machine",
+              "h": "9c81122ba870"
+            },
+            "active": {
+              "t": "Usporedba je uključena. Povucite podjelu karte ili koristite klizač.",
+              "src": "machine",
+              "h": "042ef648faf1"
+            },
+            "selectFirst": {
+              "t": "Za početak odaberite barem jedan sloj s obje strane.",
+              "src": "machine",
+              "h": "c3d865d28e75"
+            },
+            "stopped": {
+              "t": "Usporedba zaustavljena. Karta vidljivost je obnovljena.",
+              "src": "machine",
+              "h": "7e2330d0c72d"
+            },
+            "cleared": {
+              "t": "{side} selekcije očišćene.",
+              "src": "machine",
+              "h": "9dccb6e04418"
+            },
+            "swapped": {
+              "t": "Usporedba strana zamijenjena.",
+              "src": "machine",
+              "h": "6d1128c678d7"
+            },
+            "resetDone": {
+              "t": "Resetiranje usporedbe. Uobičajeni odabiri i vidljivost karte su vraćeni.",
+              "src": "machine",
+              "h": "0113fe0f2fd9"
+            },
+            "changedMap": {
+              "t": "Mapa slojevi su se promijenili. Usporedba je prestala; pregledajte svoje odabire i počnite ispočetka.",
+              "src": "machine",
+              "h": "a2d8aef1ee2f"
+            },
+            "compareFailed": {
+              "t": "Usporedba se nije mogla pripremiti. Provjerite odabrane slojeve i pokušajte ponovno.",
+              "src": "machine",
+              "h": "11846291c9e4"
+            },
+            "anotherCompare": {
+              "t": "Druga Slojeva Usporedba je korištenje ove karte. Zaustavi tu usporedbu na prvom mjestu.",
+              "src": "machine",
+              "h": "16dfc47a4519"
+            },
+            "refreshLayers": {
+              "t": "Osvježi slojeve",
+              "src": "machine",
+              "h": "15c001f24d0f"
+            },
+            "helpIntro": {
+              "t": "Usporedba sloja prikazuje vaše odabrane slojeve karte na različitim stranama pokretnog dividera.",
+              "src": "machine",
+              "h": "317b8f8f26b3"
+            },
+            "helpSearchPlaceholder": {
+              "t": "Pretraži vodič (pokušajslojevi iliklizač",
+              "src": "machine",
+              "h": "87b3ece01e65"
+            },
+            "helpNoMatches": {
+              "t": "Ništa u vodiču ne odgovara toj riječi. Pokušajte drugi, ili otvorite dijelove iznad.",
+              "src": "machine",
+              "h": "3fe179f75330"
+            },
+            "firstRunTitle": {
+              "t": "Novi ovdje?",
+              "src": "machine",
+              "h": "b81f2e17e001"
+            },
+            "firstRunBody": {
+              "t": "Odaberite slojeve za svaku stranu, odaberite Start usporedbu, zatim povucite divider na karti.",
+              "src": "machine",
+              "h": "2b585a5250a7"
+            },
+            "firstRunHelpLink": {
+              "t": "Otvori vodič.",
+              "src": "machine",
+              "h": "2447dd6134ea"
+            },
+            "firstRunDismiss": {
+              "t": "Odbaci nagovještaj",
+              "src": "machine",
+              "h": "7de6acab53c4"
+            },
+            "helpStartTitle": {
+              "t": "Počnite ovdje: tri koraka",
+              "src": "machine",
+              "h": "789320b4831d"
+            },
+            "helpStart1": {
+              "t": "U popisu slojeva, provjerite slojeve koje želite ispod svake strane. Možete odabrati nekoliko slojeva.",
+              "src": "machine",
+              "h": "9b9504d94d9c"
+            },
+            "helpStart2": {
+              "t": "Odaberite Start usporedbe. Dajte kartu trenutak za ponovno crtanje.",
+              "src": "machine",
+              "h": "5b9878675885"
+            },
+            "helpStart3": {
+              "t": "Povucite razdjelnik na karti, ili koristite Divider poziciju klizač u ovoj ploči.",
+              "src": "machine",
+              "h": "8f2f6dd20f81"
+            },
+            "helpLayersTitle": {
+              "t": "Odabir slojeva",
+              "src": "machine",
+              "h": "266e4034fd8c"
+            },
+            "helpLayers1": {
+              "t": "Svaka strana ima svoj pretinac. Provjerite obje kutije kako bi prikazali isti sloj na obje strane.",
+              "src": "machine",
+              "h": "0f5b87efbd69"
+            },
+            "helpLayers2": {
+              "t": "Odaberite grupu za odabir svih raspoloživih slojeva. Koristite strelicu pored imena za odabir pojedinih slojeva.",
+              "src": "machine",
+              "h": "5a9e81ded429"
+            },
+            "helpLayers3": {
+              "t": "Kutija iznad liste filtrira imena slojeva. Filtriranje popisa ne uklanja vaše odabire.",
+              "src": "machine",
+              "h": "eea8b65add04"
+            },
+            "helpLayers4": {
+              "t": "Karta usluge slika se mogu proširiti tako da možete usporediti njihove pojedinačne podslojeve. Cached popločani sloj se uspoređuje kao jedan kompletan sloj.",
+              "src": "machine",
+              "h": "8dc01f6bec9f"
+            },
+            "helpLayers5": {
+              "t": "Strana bez odabranih slojeva prikazuje bazu i bilo koje zajedničke slojeve karte. Ovo možete koristiti za usporedbu sloja s baznom mapom.",
+              "src": "machine",
+              "h": "ecc9ff84fd98"
+            },
+            "helpLayersContext": {
+              "t": "Prikaži druge vidljive slojeve na obje strane čuva druge slojeve koji su bili vidljivi prije nego što ste počeli.",
+              "src": "machine",
+              "h": "cc04d49d76a0"
+            },
+            "helpUseTitle": {
+              "t": "Premještanje razdjelnika",
+              "src": "machine",
+              "h": "6c342baf4a8e"
+            },
+            "helpUse1": {
+              "t": "Usporedi promjene smjera između lijeve / desne i gornje / donje.",
+              "src": "machine",
+              "h": "95b764e98e49"
+            },
+            "helpUse2": {
+              "t": "Klizač pomiče isti razdjelnik kao ručka na karti. Koristi tipke sa strelicama na klizaču za precizno podešavanje.",
+              "src": "machine",
+              "h": "6267c1946822"
+            },
+            "helpUse3": {
+              "t": "Center divider stavlja divider natrag u sredini. Zamijeni strane mijenja dva sloja odabira.",
+              "src": "machine",
+              "h": "a61427c6d041"
+            },
+            "helpUse4": {
+              "t": "Još uvijek možete pan i zumirati kartu dok je usporedba na.",
+              "src": "machine",
+              "h": "8a3d05942e32"
+            },
+            "helpStopTitle": {
+              "t": "Povratak na kartu",
+              "src": "machine",
+              "h": "70ffddfd1a78"
+            },
+            "helpStop1": {
+              "t": "Stop usporedbe uklanja divider i vraća vidljivost karte. Vaši bočni odabiri ostaju spremni za sljedeću usporedbu.",
+              "src": "machine",
+              "h": "c82424560dc9"
+            },
+            "helpStop2": {
+              "t": "Reset zaustavlja usporedbu, vraća zadane odabire, i resetira divider položaj i smjer.",
+              "src": "machine",
+              "h": "d927c144efbc"
+            },
+            "helpStop3": {
+              "t": "Zatvaranje widget, mijenjanje karte, ili ostavljajući aplikaciju također zaustavlja usporedbu.",
+              "src": "machine",
+              "h": "0ffba3196927"
+            },
+            "helpTroubleTitle": {
+              "t": "Ako nešto izgleda loše",
+              "src": "machine",
+              "h": "6f7fec3ff1e0"
+            },
+            "helpTrouble1": {
+              "t": "Nedostaje sloj: može biti izvan trenutne skale karte. Zumirajte ili izađite, i provjerite bilješku ispod njenog imena.",
+              "src": "machine",
+              "h": "0297e382ed73"
+            },
+            "helpTrouble2": {
+              "t": "Sloj je nedostupan: njegova usluga može biti isključena, može zahtijevati prijavu ili njegov tip sloja možda neće raditi na 2D karti. Provjerite taj sloj na karti.",
+              "src": "machine",
+              "h": "c14190462488"
+            },
+            "helpTrouble3": {
+              "t": "Usporedba je prestala nakon dodavanja ili uklanjanja sloja: mapa je promijenjena. Pregledajte popis slojeva i odaberite Start usporedbu ponovno.",
+              "src": "machine",
+              "h": "7d14c92ea044"
+            },
+            "helpTroubleContact": {
+              "t": "Još uvijek zaglavi? Kontaktirajte GIS Division i spomenuti Layer Usporedba ime i ovu aplikaciju.",
+              "src": "machine",
+              "h": "c97cca84242a"
+            },
+            "helpTipsTitle": {
+              "t": "Dobro je znati.",
+              "src": "machine",
+              "h": "79fc372dc790"
+            },
+            "helpTips1": {
+              "t": "Usporedba koristi privremene kopije.",
+              "src": "machine",
+              "h": "02d5a1c4de99"
+            },
+            "helpTips2": {
+              "t": "Vaši odabiri se primjenjuju samo u ovoj otvorenoj aplikaciji. Nisu spremljeni na web karti.",
+              "src": "machine",
+              "h": "b86ac4292304"
+            },
+            "helpTips3": {
+              "t": "Koristite kontrolne kutije u Layeru Usporedite tijekom usporedbe. Za primjenu filtera ili stilskih promjena napravljenih negdje drugdje, zaustavite i ponovno započnite usporedbu.",
+              "src": "machine",
+              "h": "a69fcc41b12e"
+            },
+            "unknownError": {
+              "t": "nepoznata greška",
+              "src": "machine",
+              "h": "af6321ca7a8b"
+            },
+            "unserializableError": {
+              "t": "Neserijalizacijska greška",
+              "src": "machine",
+              "h": "76e73551597a"
+            }
+          }
         },
         "hu": {
           "file": "01dde251810e",
@@ -11196,18 +12013,429 @@
           }
         },
         "sr": {
-          "file": "a1ee5a949703",
+          "file": "ae1af8cf0ea1",
           "counts": {
             "esri": 9,
             "esri-check": 1,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 0,
+            "machine": 82,
             "stale": 0,
-            "missing": 84
+            "missing": 2
           },
-          "entries": {}
+          "entries": {
+            "_widgetLabel": {
+              "t": "Uporedi slojeve",
+              "src": "machine",
+              "h": "6bfaa4178b12"
+            },
+            "title": {
+              "t": "Uporedi slojeve",
+              "src": "machine",
+              "h": "6bfaa4178b12"
+            },
+            "description": {
+              "t": "Izaberite slojeve za svaku stranu, zatim povucite deonicu mape da ih uporedite.",
+              "src": "machine",
+              "h": "a9198585ffe0"
+            },
+            "start": {
+              "t": "Poèni sa poreðenjem.",
+              "src": "machine",
+              "h": "aed5cdd8ea85"
+            },
+            "stop": {
+              "t": "Prestani da se porediš.",
+              "src": "machine",
+              "h": "7826e2fbc443"
+            },
+            "swap": {
+              "t": "Zamijeni strane",
+              "src": "machine",
+              "h": "89376e096de8"
+            },
+            "resetPosition": {
+              "t": "Centralni razdjelnik",
+              "src": "machine",
+              "h": "779a6708e9c5"
+            },
+            "leftRight": {
+              "t": "Levo / desno",
+              "src": "machine",
+              "h": "c79344da6fe2"
+            },
+            "topBottom": {
+              "t": "Gornje / donje",
+              "src": "machine",
+              "h": "49099eb18758"
+            },
+            "direction": {
+              "t": "Uporedi pravac",
+              "src": "machine",
+              "h": "6f2c8a2a6a11"
+            },
+            "dividerPosition": {
+              "t": "Pozicija razdvajaèa",
+              "src": "machine",
+              "h": "b8a8c9bd17f3"
+            },
+            "sliderLabel": {
+              "t": "Prilagodi poziciju dividera: {position} procenat",
+              "src": "machine",
+              "h": "ee89235f107f"
+            },
+            "layerSelections": {
+              "t": "Izaberi slojeve za svaku stranu poređenja",
+              "src": "machine",
+              "h": "c7aab4465976"
+            },
+            "sideLayer": {
+              "t": "{layer}: pokazati na {side}",
+              "src": "machine",
+              "h": "a067b3bf587c"
+            },
+            "includeLayer": {
+              "t": "Uključite {layer} u Slojnu usporedbu",
+              "src": "machine",
+              "h": "632f5b906a9c"
+            },
+            "include": {
+              "t": "Укључи@ info: whatsthis",
+              "src": "machine",
+              "h": "11c54a59d8a9"
+            },
+            "expandLayer": {
+              "t": "Прошири {layer}",
+              "src": "machine",
+              "h": "b67a5594c0ea"
+            },
+            "filterLayers": {
+              "t": "Filtriraj slojeve mape",
+              "src": "machine",
+              "h": "f8ff727b976d"
+            },
+            "noMatches": {
+              "t": "Ni jedan sloj ne odgovara tom filteru.",
+              "src": "machine",
+              "h": "7effb11a9401"
+            },
+            "noLayers": {
+              "t": "Nema slobodnih slojeva. Proverite mapu i postavke vidžeta.",
+              "src": "machine",
+              "h": "8263c2a20f29"
+            },
+            "unsupported": {
+              "t": "Ovaj tip sloja nije dostupan za 2D poređenje.",
+              "src": "machine",
+              "h": "184a5664a0bf"
+            },
+            "loadFailed": {
+              "t": "Ovaj sloj nije mogao da se učita.",
+              "src": "machine",
+              "h": "b0cf0af5748f"
+            },
+            "outsideScale": {
+              "t": "Izvan trenutne skale mape",
+              "src": "machine",
+              "h": "fe2bc76a4413"
+            },
+            "wholeTiledLayer": {
+              "t": "U poređenju sa jednim popločanim slojem",
+              "src": "machine",
+              "h": "ae90ec8eea64"
+            },
+            "basemapOnly": {
+              "t": "Само баземапGenericName",
+              "src": "machine",
+              "h": "025f40773b9c"
+            },
+            "sharedLayers": {
+              "t": "Deljeni slojevi mape",
+              "src": "machine",
+              "h": "86604f062909"
+            },
+            "keepOthers": {
+              "t": "Prikaži druge vidljive slojeve na obe strane",
+              "src": "machine",
+              "h": "06f3da59d250"
+            },
+            "keepOthersHint": {
+              "t": "Održi slojeve koji su bili vidljivi pre poreðenja, odabrani slojevi i dalje prate njihove bočne okvire.",
+              "src": "machine",
+              "h": "76778f75efa9"
+            },
+            "selectionHint": {
+              "t": "Provjerite sloj ispod obje strane. Provjera obje strane pokazuje na obje. Provjera grupe odabire dostupne slojeve.",
+              "src": "machine",
+              "h": "93919e003866"
+            },
+            "connectMap": {
+              "t": "Povežite ovaj grafički element sa mapom u graditeljskim postavkama.",
+              "src": "machine",
+              "h": "2ec01457f782"
+            },
+            "mapLoading": {
+              "t": "Uèitavam slojeve mape...",
+              "src": "machine",
+              "h": "1b709a11b6b5"
+            },
+            "mapLoadError": {
+              "t": "Mapa se ne može proèitati, proverite povezanu mapu, a onda osvežite slojeve.",
+              "src": "machine",
+              "h": "e8b534e61301"
+            },
+            "sceneNotSupported": {
+              "t": "Odaberite 2D mapu. Usporedba sloja nije dostupna u 3D sceni.",
+              "src": "machine",
+              "h": "76f29e2d6528"
+            },
+            "preparing": {
+              "t": "Pripremam poreðenje...",
+              "src": "machine",
+              "h": "9c81122ba870"
+            },
+            "active": {
+              "t": "Usporedba je ukljuèena.",
+              "src": "machine",
+              "h": "042ef648faf1"
+            },
+            "selectFirst": {
+              "t": "Za početak odaberite bar jedan sloj sa obe strane.",
+              "src": "machine",
+              "h": "c3d865d28e75"
+            },
+            "stopped": {
+              "t": "Usporedba je zaustavljena.",
+              "src": "machine",
+              "h": "7e2330d0c72d"
+            },
+            "cleared": {
+              "t": "{side} selekcije očišćene.",
+              "src": "machine",
+              "h": "9dccb6e04418"
+            },
+            "swapped": {
+              "t": "Usporedba strana zamijenjena.",
+              "src": "machine",
+              "h": "6d1128c678d7"
+            },
+            "resetDone": {
+              "t": "Usporedba, uobièajeni odabir i vidljivost mape.",
+              "src": "machine",
+              "h": "0113fe0f2fd9"
+            },
+            "changedMap": {
+              "t": "Mapa se promenila, usporedba je prestala, pregledajte selekcije i poènite ispoèetka.",
+              "src": "machine",
+              "h": "a2d8aef1ee2f"
+            },
+            "compareFailed": {
+              "t": "Poređenje nije moglo biti pripremljeno. Proverite odabrane slojeve i pokušajte ponovo.",
+              "src": "machine",
+              "h": "11846291c9e4"
+            },
+            "anotherCompare": {
+              "t": "Još jedan Sloj Upoređivač koristi ovu mapu. Zaustavi prvo to poređenje.",
+              "src": "machine",
+              "h": "16dfc47a4519"
+            },
+            "refreshLayers": {
+              "t": "Osvježi slojeve",
+              "src": "machine",
+              "h": "15c001f24d0f"
+            },
+            "helpIntro": {
+              "t": "Usporedba slojeva pokazuje vaše odabrane slojeve mapa na razlièitim stranama pokretnog dividera.",
+              "src": "machine",
+              "h": "317b8f8f26b3"
+            },
+            "helpSearchPlaceholder": {
+              "t": "Pretraži vodiè (pokušajslojevi iliklizaè",
+              "src": "machine",
+              "h": "87b3ece01e65"
+            },
+            "helpNoMatches": {
+              "t": "Ništa u vodièu ne odgovara toj reèi.",
+              "src": "machine",
+              "h": "3fe179f75330"
+            },
+            "firstRunTitle": {
+              "t": "Novi ovde?",
+              "src": "machine",
+              "h": "b81f2e17e001"
+            },
+            "firstRunBody": {
+              "t": "Odaberite slojeve za svaku stranu, odaberite Start uporeðivanje, zatim povucite divider na mapi.",
+              "src": "machine",
+              "h": "2b585a5250a7"
+            },
+            "firstRunHelpLink": {
+              "t": "Otvori vodiè.",
+              "src": "machine",
+              "h": "2447dd6134ea"
+            },
+            "firstRunDismiss": {
+              "t": "Odbaci nagoveštaj.",
+              "src": "machine",
+              "h": "7de6acab53c4"
+            },
+            "helpStartTitle": {
+              "t": "Poènite ovde: tri koraka.",
+              "src": "machine",
+              "h": "789320b4831d"
+            },
+            "helpStart1": {
+              "t": "U listi slojeva, proverite slojeve koje želite ispod svake strane.",
+              "src": "machine",
+              "h": "9b9504d94d9c"
+            },
+            "helpStart2": {
+              "t": "Odaberi Poreðenje starta. Daj mapi trenutak da prepravi.",
+              "src": "machine",
+              "h": "5b9878675885"
+            },
+            "helpStart3": {
+              "t": "Povucite divider na mapi, ili koristite Devider poziciju klizača u ovoj ploči.",
+              "src": "machine",
+              "h": "8f2f6dd20f81"
+            },
+            "helpLayersTitle": {
+              "t": "Odabir slojeva",
+              "src": "machine",
+              "h": "266e4034fd8c"
+            },
+            "helpLayers1": {
+              "t": "Svaka strana ima svoj sef, proverite obe kutije da pokažete isti sloj na obe strane.",
+              "src": "machine",
+              "h": "0f5b87efbd69"
+            },
+            "helpLayers2": {
+              "t": "Provjerite grupu da izaberete sve raspoložive slojeve. Koristite strelicu pored imena da izaberete pojedinačne slojeve.",
+              "src": "machine",
+              "h": "5a9e81ded429"
+            },
+            "helpLayers3": {
+              "t": "Kutija iznad liste filtrira imena slojeva. Filtriranje liste ne uklanja vaše odabire.",
+              "src": "machine",
+              "h": "eea8b65add04"
+            },
+            "helpLayers4": {
+              "t": "Karta usluge slika se mogu proširiti tako da možete uporediti njihove pojedinačne podslojeve. Keširani popločani sloj se upoređuje kao jedan kompletan sloj.",
+              "src": "machine",
+              "h": "8dc01f6bec9f"
+            },
+            "helpLayers5": {
+              "t": "Strana bez odabranih slojeva pokazuje baznu mapu i bilo koje zajedničke slojeve mapa. Možete koristiti ovo da uporedite sloj sa baznom mapom.",
+              "src": "machine",
+              "h": "ecc9ff84fd98"
+            },
+            "helpLayersContext": {
+              "t": "Pokazuju da drugi vidljivi slojevi sa obe strane drže ostale slojeve koji su bili vidljivi pre nego što ste poèeli.",
+              "src": "machine",
+              "h": "cc04d49d76a0"
+            },
+            "helpUseTitle": {
+              "t": "Premeštanje deljenja",
+              "src": "machine",
+              "h": "6c342baf4a8e"
+            },
+            "helpUse1": {
+              "t": "Uporedi promene smera između leve / desne i gornje / donje.",
+              "src": "machine",
+              "h": "95b764e98e49"
+            },
+            "helpUse2": {
+              "t": "Klizač pomiče isti divider kao i ručka na mapi. Koristite tipke sa strelicama na klizaču za precizno podešavanje.",
+              "src": "machine",
+              "h": "6267c1946822"
+            },
+            "helpUse3": {
+              "t": "Zamenite strane razmenjuju selekcije dva sloja.",
+              "src": "machine",
+              "h": "a61427c6d041"
+            },
+            "helpUse4": {
+              "t": "Još uvek možeš da zumiraš i zumiraš mapu dok je poreðenje ukljuèeno.",
+              "src": "machine",
+              "h": "8a3d05942e32"
+            },
+            "helpStopTitle": {
+              "t": "Vraæam se na mapu.",
+              "src": "machine",
+              "h": "70ffddfd1a78"
+            },
+            "helpStop1": {
+              "t": "Prekidamo usporedbu, uklanjamo divider i vraæamo vidljivost mape.",
+              "src": "machine",
+              "h": "c82424560dc9"
+            },
+            "helpStop2": {
+              "t": "Reset zaustavlja poređenje, vraća uobičajene selekcije, i resetuje dividersku poziciju i pravac.",
+              "src": "machine",
+              "h": "d927c144efbc"
+            },
+            "helpStop3": {
+              "t": "Zatvaranje vidžeta, menjanje mape, ili napuštanje aplikacije takođe prestaje poređenje.",
+              "src": "machine",
+              "h": "0ffba3196927"
+            },
+            "helpTroubleTitle": {
+              "t": "Ako nešto nije u redu",
+              "src": "machine",
+              "h": "6f7fec3ff1e0"
+            },
+            "helpTrouble1": {
+              "t": "Nedostaje sloj: možda je izvan trenutne skale mape. Zumiraj ili van, i proveri notu ispod njenog imena.",
+              "src": "machine",
+              "h": "0297e382ed73"
+            },
+            "helpTrouble2": {
+              "t": "Sloj je nedostupan: njegov servis može biti isključen, može zahtevati prijavu, ili njegov tip sloja možda neće raditi u 2D mapi. Proverite taj sloj u mapi.",
+              "src": "machine",
+              "h": "c14190462488"
+            },
+            "helpTrouble3": {
+              "t": "Poređenje je prestalo nakon dodavanja ili uklanjanja sloja: mapa se promenila. Pregledajte listu slojeva i odaberite Start poređenje ponovo.",
+              "src": "machine",
+              "h": "7d14c92ea044"
+            },
+            "helpTroubleContact": {
+              "t": "Još uvek zaglavljen? Kontaktirajte GIS diviziju i pomenite ime Sloja Uporedivanja i ovu aplikaciju.",
+              "src": "machine",
+              "h": "c97cca84242a"
+            },
+            "helpTipsTitle": {
+              "t": "Dobro je znati.",
+              "src": "machine",
+              "h": "79fc372dc790"
+            },
+            "helpTips1": {
+              "t": "Usporedba koristi privremene kopije.",
+              "src": "machine",
+              "h": "02d5a1c4de99"
+            },
+            "helpTips2": {
+              "t": "Vaši odabiri se primenjuju samo u ovoj otvorenoj aplikaciji. Nisu spremljeni na veb mapi.",
+              "src": "machine",
+              "h": "b86ac4292304"
+            },
+            "helpTips3": {
+              "t": "Koristite kontrolne kutije u Layer Upoređivanju prilikom upoređivanja. Za primenu filtera ili stilskih promena napravljenih negde drugde, zaustavite se i ponovo pokrenite poređenje.",
+              "src": "machine",
+              "h": "a69fcc41b12e"
+            },
+            "unknownError": {
+              "t": "nepoznata greška",
+              "src": "machine",
+              "h": "af6321ca7a8b"
+            },
+            "unserializableError": {
+              "t": "Neserijalizacijska greška",
+              "src": "machine",
+              "h": "76e73551597a"
+            }
+          }
         },
         "sv": {
           "file": "fa99e4ff5a6c",
@@ -14709,18 +15937,154 @@
           }
         },
         "bs": {
-          "file": "9741f1b8066d",
+          "file": "10a242021a53",
           "counts": {
             "esri": 4,
             "esri-check": 0,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 0,
+            "machine": 27,
             "stale": 0,
-            "missing": 27
+            "missing": 0
           },
-          "entries": {}
+          "entries": {
+            "direction": {
+              "t": "Uporedi smjer",
+              "src": "machine",
+              "h": "6f2c8a2a6a11"
+            },
+            "filterLayers": {
+              "t": "Filtriraj slojeve mape",
+              "src": "machine",
+              "h": "f8ff727b976d"
+            },
+            "include": {
+              "t": "Uključi",
+              "src": "machine",
+              "h": "11c54a59d8a9"
+            },
+            "leftRight": {
+              "t": "Lijevo / desno",
+              "src": "machine",
+              "h": "c79344da6fe2"
+            },
+            "mapLoading": {
+              "t": "Učitavam slojeve mape...",
+              "src": "machine",
+              "h": "1b709a11b6b5"
+            },
+            "refreshLayers": {
+              "t": "Osvježi slojeve",
+              "src": "machine",
+              "h": "15c001f24d0f"
+            },
+            "topBottom": {
+              "t": "Gornje / donje",
+              "src": "machine",
+              "h": "49099eb18758"
+            },
+            "layerSelections": {
+              "t": "Izaberite slojeve za svaku stranu poređenja",
+              "src": "machine",
+              "h": "c7aab4465976"
+            },
+            "outsideScale": {
+              "t": "Izvan trenutne skale mape",
+              "src": "machine",
+              "h": "fe2bc76a4413"
+            },
+            "wholeTiledLayer": {
+              "t": "U poređenju sa jednim popločanim slojem",
+              "src": "machine",
+              "h": "ae90ec8eea64"
+            },
+            "_widgetLabel": {
+              "t": "Poredak slojeva",
+              "src": "machine",
+              "h": "6bfaa4178b12"
+            },
+            "optionsSection": {
+              "t": "Opcije usporedbe",
+              "src": "machine",
+              "h": "07b545068b92"
+            },
+            "startPosition": {
+              "t": "Pozicija početnog dividera (%)",
+              "src": "machine",
+              "h": "1d9ce9a0b350"
+            },
+            "allowContextToggle": {
+              "t": "Dozvoli korisnicima da prikažu druge vidljive slojeve mape",
+              "src": "machine",
+              "h": "d176c1daab5a"
+            },
+            "startContext": {
+              "t": "U početku pokazuju druge vidljive slojeve na obje strane",
+              "src": "machine",
+              "h": "1ea640ebc646"
+            },
+            "showHelp": {
+              "t": "Pokaži pomoć i prvi pokrenut nagovještaj",
+              "src": "machine",
+              "h": "20378e243404"
+            },
+            "startLabel": {
+              "t": "Oznaka prve strane (nije obvezno)",
+              "src": "machine",
+              "h": "45fff0334b3d"
+            },
+            "endLabel": {
+              "t": "Druga strana",
+              "src": "machine",
+              "h": "124964735b68"
+            },
+            "labelsHint": {
+              "t": "Ostavi oznake prazne za korištenje Lijevo / Desno ili Gornje / Dno u listi slojeva automatski.",
+              "src": "machine",
+              "h": "14a7b2e1b2c8"
+            },
+            "availabilityHint": {
+              "t": "Izaberite koji se slojevi mape mogu porediti. Slojevi skriveni postavkama liste slojeva mape ostaju ovdje skriveni.",
+              "src": "machine",
+              "h": "e6bf18f1050d"
+            },
+            "defaultSection": {
+              "t": "Uobičajeni izbor",
+              "src": "machine",
+              "h": "962a4ac8a554"
+            },
+            "defaultsHint": {
+              "t": "Izaberite sve početne slojeve za svaku stranu. Usporedba ostaje isključena dok korisnik ne izabere Start usporedbe.",
+              "src": "machine",
+              "h": "fe24b4c4f53b"
+            },
+            "previewMap": {
+              "t": "Spojite 2D grafički element za mapu i otvorite tu kartu u graditelju da izaberete dostupne slojeve i uobičajene.",
+              "src": "machine",
+              "h": "293ef17d7eea"
+            },
+            "telemetrySection": {
+              "t": "Telemetrija korištenja",
+              "src": "machine",
+              "h": "7f16d779903e"
+            },
+            "telemetryLabel": {
+              "t": "Omogući dijeljenu telemetriju korištenja",
+              "src": "machine",
+              "h": "1a529818313f"
+            },
+            "telemetryHint": {
+              "t": "Koristi isti modul zajedničke telemetrije kao i drugi prilagođeni grafički elementi. Nema događaja koji su poslani osim ako ova organizacija nije konfigurirala odredište telemetrije.",
+              "src": "machine",
+              "h": "7b88cf61d3ad"
+            },
+            "settingLoadError": {
+              "t": "Ne mogu čitati slojeve mape. Otvorite mapu u graditelju i pokušajte osvježiti slojeve.",
+              "src": "machine",
+              "h": "754e025f20f1"
+            }
+          }
         },
         "ca": {
           "file": "cd24602a7709",
@@ -16223,18 +17587,154 @@
           }
         },
         "hr": {
-          "file": "9741f1b8066d",
+          "file": "e9584f01cd4e",
           "counts": {
             "esri": 4,
             "esri-check": 0,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 0,
+            "machine": 27,
             "stale": 0,
-            "missing": 27
+            "missing": 0
           },
-          "entries": {}
+          "entries": {
+            "direction": {
+              "t": "Usporedba smjera",
+              "src": "machine",
+              "h": "6f2c8a2a6a11"
+            },
+            "filterLayers": {
+              "t": "Filtriraj slojeve mape",
+              "src": "machine",
+              "h": "f8ff727b976d"
+            },
+            "include": {
+              "t": "Uključi",
+              "src": "machine",
+              "h": "11c54a59d8a9"
+            },
+            "leftRight": {
+              "t": "Lijevo / desno",
+              "src": "machine",
+              "h": "c79344da6fe2"
+            },
+            "mapLoading": {
+              "t": "Učitavam slojeve mape...",
+              "src": "machine",
+              "h": "1b709a11b6b5"
+            },
+            "refreshLayers": {
+              "t": "Osvježi slojeve",
+              "src": "machine",
+              "h": "15c001f24d0f"
+            },
+            "topBottom": {
+              "t": "Gornje / donje",
+              "src": "machine",
+              "h": "49099eb18758"
+            },
+            "layerSelections": {
+              "t": "Odaberite slojeve za svaku usporednu stranu",
+              "src": "machine",
+              "h": "c7aab4465976"
+            },
+            "outsideScale": {
+              "t": "Izvan trenutne skale mape",
+              "src": "machine",
+              "h": "fe2bc76a4413"
+            },
+            "wholeTiledLayer": {
+              "t": "U usporedbi s jednim popločanim slojem",
+              "src": "machine",
+              "h": "ae90ec8eea64"
+            },
+            "_widgetLabel": {
+              "t": "Usporedba sloja",
+              "src": "machine",
+              "h": "6bfaa4178b12"
+            },
+            "optionsSection": {
+              "t": "Opcije usporedbe",
+              "src": "machine",
+              "h": "07b545068b92"
+            },
+            "startPosition": {
+              "t": "Početna pozicija dividera (%)",
+              "src": "machine",
+              "h": "1d9ce9a0b350"
+            },
+            "allowContextToggle": {
+              "t": "Dozvoli korisnicima da prikažu druge vidljive slojeve mape",
+              "src": "machine",
+              "h": "d176c1daab5a"
+            },
+            "startContext": {
+              "t": "U početku pokazuju druge vidljive slojeve na obje strane",
+              "src": "machine",
+              "h": "1ea640ebc646"
+            },
+            "showHelp": {
+              "t": "Prikaži Pomoć i prvopokrenute savjete",
+              "src": "machine",
+              "h": "20378e243404"
+            },
+            "startLabel": {
+              "t": "Oznaka prve strane (nije obvezno)",
+              "src": "machine",
+              "h": "45fff0334b3d"
+            },
+            "endLabel": {
+              "t": "Druga bočna oznaka (nije obvezno)",
+              "src": "machine",
+              "h": "124964735b68"
+            },
+            "labelsHint": {
+              "t": "Ostavite naljepnice prazne za korištenje Lijeva / Desna ili Gornja / Dno u popisu slojeva automatski.",
+              "src": "machine",
+              "h": "14a7b2e1b2c8"
+            },
+            "availabilityHint": {
+              "t": "Odaberite koje slojeve mape korisnici mogu usporediti. Slojevi skriveni postavkama popisa mapa ostaju skriveni ovdje.",
+              "src": "machine",
+              "h": "e6bf18f1050d"
+            },
+            "defaultSection": {
+              "t": "Uobičajeni odabiri (nije obvezno)",
+              "src": "machine",
+              "h": "962a4ac8a554"
+            },
+            "defaultsHint": {
+              "t": "Odaberite sve početne slojeve za svaku stranu. Usporedba ostaje isključena dok korisnik ne odabere Start usporedbe.",
+              "src": "machine",
+              "h": "fe24b4c4f53b"
+            },
+            "previewMap": {
+              "t": "Spojite 2D Map widget i otvorite tu kartu u graditelju odabrati dostupne slojeve i zadane.",
+              "src": "machine",
+              "h": "293ef17d7eea"
+            },
+            "telemetrySection": {
+              "t": "Telemetrija korištenja",
+              "src": "machine",
+              "h": "7f16d779903e"
+            },
+            "telemetryLabel": {
+              "t": "Omogući dijeljenu telemetriju korištenja",
+              "src": "machine",
+              "h": "1a529818313f"
+            },
+            "telemetryHint": {
+              "t": "Koristi isti modul zajedničke telemetrije kao i drugi prilagođeni widgeti. Nema događaja koji se šalju osim ako je ova organizacija konfigurirala odredište za telemetriju.",
+              "src": "machine",
+              "h": "7b88cf61d3ad"
+            },
+            "settingLoadError": {
+              "t": "Map slojevi nisu mogli biti pročitani. Otvorite kartu u graditelju i pokušajte osvježiti slojeve.",
+              "src": "machine",
+              "h": "754e025f20f1"
+            }
+          }
         },
         "hu": {
           "file": "f1664f859b90",
@@ -18637,18 +20137,154 @@
           }
         },
         "sr": {
-          "file": "818187ab52d2",
+          "file": "def2957f4dc7",
           "counts": {
             "esri": 4,
             "esri-check": 0,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 0,
+            "machine": 27,
             "stale": 0,
-            "missing": 27
+            "missing": 0
           },
-          "entries": {}
+          "entries": {
+            "direction": {
+              "t": "Uporedi pravac",
+              "src": "machine",
+              "h": "6f2c8a2a6a11"
+            },
+            "filterLayers": {
+              "t": "Filtriraj slojeve mape",
+              "src": "machine",
+              "h": "f8ff727b976d"
+            },
+            "include": {
+              "t": "Укључи@ info: whatsthis",
+              "src": "machine",
+              "h": "11c54a59d8a9"
+            },
+            "leftRight": {
+              "t": "Levo / desno",
+              "src": "machine",
+              "h": "c79344da6fe2"
+            },
+            "mapLoading": {
+              "t": "Uèitavam slojeve mape...",
+              "src": "machine",
+              "h": "1b709a11b6b5"
+            },
+            "refreshLayers": {
+              "t": "Osvježi slojeve",
+              "src": "machine",
+              "h": "15c001f24d0f"
+            },
+            "topBottom": {
+              "t": "Gornje / donje",
+              "src": "machine",
+              "h": "49099eb18758"
+            },
+            "layerSelections": {
+              "t": "Izaberi slojeve za svaku stranu poređenja",
+              "src": "machine",
+              "h": "c7aab4465976"
+            },
+            "outsideScale": {
+              "t": "Izvan trenutne skale mape",
+              "src": "machine",
+              "h": "fe2bc76a4413"
+            },
+            "wholeTiledLayer": {
+              "t": "U poređenju sa jednim popločanim slojem",
+              "src": "machine",
+              "h": "ae90ec8eea64"
+            },
+            "_widgetLabel": {
+              "t": "Uporedi slojeve",
+              "src": "machine",
+              "h": "6bfaa4178b12"
+            },
+            "optionsSection": {
+              "t": "Opcije usporedbe",
+              "src": "machine",
+              "h": "07b545068b92"
+            },
+            "startPosition": {
+              "t": "Почетна позиција раздвајача (%)",
+              "src": "machine",
+              "h": "1d9ce9a0b350"
+            },
+            "allowContextToggle": {
+              "t": "Dozvoli korisnicima da prikažu druge vidljive slojeve mape",
+              "src": "machine",
+              "h": "d176c1daab5a"
+            },
+            "startContext": {
+              "t": "U početku pokazuju druge vidljive slojeve sa obe strane",
+              "src": "machine",
+              "h": "1ea640ebc646"
+            },
+            "showHelp": {
+              "t": "Prikaži Pomoć i nagoveštaj prvog trčanja",
+              "src": "machine",
+              "h": "20378e243404"
+            },
+            "startLabel": {
+              "t": "Oznaka prve strane (opcionalno)",
+              "src": "machine",
+              "h": "45fff0334b3d"
+            },
+            "endLabel": {
+              "t": "Друга бочна ознака (опционално)",
+              "src": "machine",
+              "h": "124964735b68"
+            },
+            "labelsHint": {
+              "t": "Ostavite nalepnice prazne za upotrebu Leva / Desna ili Gornja / Dno u listi slojeva automatski.",
+              "src": "machine",
+              "h": "14a7b2e1b2c8"
+            },
+            "availabilityHint": {
+              "t": "Odaberite koje slojeve mapa korisnici mogu da porede. Slojevi skriveni po postavkama liste mapa ostaju skriveni ovde.",
+              "src": "machine",
+              "h": "e6bf18f1050d"
+            },
+            "defaultSection": {
+              "t": "Подразум ијевани избори (опционално)",
+              "src": "machine",
+              "h": "962a4ac8a554"
+            },
+            "defaultsHint": {
+              "t": "Izaberite bilo koje početne slojeve za svaku stranu. Usporedba ostaje isključena dok korisnik ne izabere Start upoređivanja.",
+              "src": "machine",
+              "h": "fe24b4c4f53b"
+            },
+            "previewMap": {
+              "t": "Povežite 2D Map widget i otvorite tu mapu u graditelju da izaberete dostupne slojeve i podrazumevane.",
+              "src": "machine",
+              "h": "293ef17d7eea"
+            },
+            "telemetrySection": {
+              "t": "Upotreba telemetrije",
+              "src": "machine",
+              "h": "7f16d779903e"
+            },
+            "telemetryLabel": {
+              "t": "Omogući дељену телеметрију коришћења",
+              "src": "machine",
+              "h": "1a529818313f"
+            },
+            "telemetryHint": {
+              "t": "Koristi isti modul zajedničke telemetrije kao i drugi prilagođeni grafički elementi. Nema događaja koji se šalju ukoliko ova organizacija nije konfigurisala destinaciju telemetrije.",
+              "src": "machine",
+              "h": "7b88cf61d3ad"
+            },
+            "settingLoadError": {
+              "t": "Otvori mapu u graditelju i pokušaj da osvežiš slojeve.",
+              "src": "machine",
+              "h": "754e025f20f1"
+            }
+          }
         },
         "sv": {
           "file": "8c20fe982b42",

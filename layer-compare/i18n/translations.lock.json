@@ -893,14 +893,14 @@
           }
         },
         "bs": {
-          "file": "3f297951de93",
+          "file": "22c8e45057b6",
           "counts": {
-            "esri": 9,
+            "esri": 17,
             "esri-check": 1,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 80,
+            "machine": 72,
             "stale": 0,
             "missing": 4
           },
@@ -1125,35 +1125,15 @@
               "src": "machine",
               "h": "87b3ece01e65"
             },
-            "helpNoMatches": {
-              "t": "Ništa u vodiču ne odgovara toj riječi.",
-              "src": "machine",
-              "h": "3fe179f75330"
-            },
-            "firstRunTitle": {
-              "t": "Novi ovdje?",
-              "src": "machine",
-              "h": "b81f2e17e001"
-            },
             "firstRunBody": {
               "t": "Izaberite slojeve za svaku stranu, odaberite Start usporedbe, zatim povucite divider na karti.",
               "src": "machine",
               "h": "2b585a5250a7"
             },
-            "firstRunHelpLink": {
-              "t": "Otvori vodič.",
-              "src": "machine",
-              "h": "2447dd6134ea"
-            },
             "firstRunDismiss": {
               "t": "Odbaci nagovještaj",
               "src": "machine",
               "h": "7de6acab53c4"
-            },
-            "helpStartTitle": {
-              "t": "Počnite ovdje: tri koraka",
-              "src": "machine",
-              "h": "789320b4831d"
             },
             "helpStart1": {
               "t": "U listi slojeva, provjerite slojeve koje želite ispod svake strane.",
@@ -1250,11 +1230,6 @@
               "src": "machine",
               "h": "0ffba3196927"
             },
-            "helpTroubleTitle": {
-              "t": "Ako nešto nije u redu",
-              "src": "machine",
-              "h": "6f7fec3ff1e0"
-            },
             "helpTrouble1": {
               "t": "Nedostaje sloj: može biti izvan trenutne skale karte. Zumiraj ili izađi, i provjeri bilješku ispod njenog imena.",
               "src": "machine",
@@ -1275,11 +1250,6 @@
               "src": "machine",
               "h": "c97cca84242a"
             },
-            "helpTipsTitle": {
-              "t": "Dobro je znati.",
-              "src": "machine",
-              "h": "79fc372dc790"
-            },
             "helpTips1": {
               "t": "Vaša baza, opseg mape i podaci o slojevima ostaju isti. U poređenju se koriste privremene kopije.",
               "src": "machine",
@@ -1294,16 +1264,6 @@
               "t": "Koristite kontrolne kutije u Layerovom poređenju prilikom usporedbe. Za primjenu filtera ili promjena stila napravljenih negdje drugdje, zaustavite i pokrenite ponovno poređenje.",
               "src": "machine",
               "h": "a69fcc41b12e"
-            },
-            "unknownError": {
-              "t": "nepoznata greška",
-              "src": "machine",
-              "h": "af6321ca7a8b"
-            },
-            "unserializableError": {
-              "t": "Neserijalizacijska greška",
-              "src": "machine",
-              "h": "76e73551597a"
             }
           }
         },
@@ -5263,14 +5223,14 @@
           }
         },
         "hr": {
-          "file": "b359f747b2fb",
+          "file": "4cc2e0dce313",
           "counts": {
-            "esri": 9,
+            "esri": 17,
             "esri-check": 1,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 83,
+            "machine": 75,
             "stale": 0,
             "missing": 1
           },
@@ -5510,35 +5470,15 @@
               "src": "machine",
               "h": "87b3ece01e65"
             },
-            "helpNoMatches": {
-              "t": "Ništa u vodiču ne odgovara toj riječi. Pokušajte drugi, ili otvorite dijelove iznad.",
-              "src": "machine",
-              "h": "3fe179f75330"
-            },
-            "firstRunTitle": {
-              "t": "Novi ovdje?",
-              "src": "machine",
-              "h": "b81f2e17e001"
-            },
             "firstRunBody": {
               "t": "Odaberite slojeve za svaku stranu, odaberite Start usporedbu, zatim povucite divider na karti.",
               "src": "machine",
               "h": "2b585a5250a7"
             },
-            "firstRunHelpLink": {
-              "t": "Otvori vodič.",
-              "src": "machine",
-              "h": "2447dd6134ea"
-            },
             "firstRunDismiss": {
               "t": "Odbaci nagovještaj",
               "src": "machine",
               "h": "7de6acab53c4"
-            },
-            "helpStartTitle": {
-              "t": "Počnite ovdje: tri koraka",
-              "src": "machine",
-              "h": "789320b4831d"
             },
             "helpStart1": {
               "t": "U popisu slojeva, provjerite slojeve koje želite ispod svake strane. Možete odabrati nekoliko slojeva.",
@@ -5635,11 +5575,6 @@
               "src": "machine",
               "h": "0ffba3196927"
             },
-            "helpTroubleTitle": {
-              "t": "Ako nešto izgleda loše",
-              "src": "machine",
-              "h": "6f7fec3ff1e0"
-            },
             "helpTrouble1": {
               "t": "Nedostaje sloj: može biti izvan trenutne skale karte. Zumirajte ili izađite, i provjerite bilješku ispod njenog imena.",
               "src": "machine",
@@ -5660,11 +5595,6 @@
               "src": "machine",
               "h": "c97cca84242a"
             },
-            "helpTipsTitle": {
-              "t": "Dobro je znati.",
-              "src": "machine",
-              "h": "79fc372dc790"
-            },
             "helpTips1": {
               "t": "Usporedba koristi privremene kopije.",
               "src": "machine",
@@ -5679,16 +5609,6 @@
               "t": "Koristite kontrolne kutije u Layeru Usporedite tijekom usporedbe. Za primjenu filtera ili stilskih promjena napravljenih negdje drugdje, zaustavite i ponovno započnite usporedbu.",
               "src": "machine",
               "h": "a69fcc41b12e"
-            },
-            "unknownError": {
-              "t": "nepoznata greška",
-              "src": "machine",
-              "h": "af6321ca7a8b"
-            },
-            "unserializableError": {
-              "t": "Neserijalizacijska greška",
-              "src": "machine",
-              "h": "76e73551597a"
             }
           }
         },
@@ -12013,14 +11933,14 @@
           }
         },
         "sr": {
-          "file": "ae1af8cf0ea1",
+          "file": "90b0ea536578",
           "counts": {
-            "esri": 9,
+            "esri": 17,
             "esri-check": 1,
             "community": 0,
             "manual": 0,
             "existing": 0,
-            "machine": 82,
+            "machine": 74,
             "stale": 0,
             "missing": 2
           },
@@ -12255,35 +12175,15 @@
               "src": "machine",
               "h": "87b3ece01e65"
             },
-            "helpNoMatches": {
-              "t": "Ništa u vodièu ne odgovara toj reèi.",
-              "src": "machine",
-              "h": "3fe179f75330"
-            },
-            "firstRunTitle": {
-              "t": "Novi ovde?",
-              "src": "machine",
-              "h": "b81f2e17e001"
-            },
             "firstRunBody": {
               "t": "Odaberite slojeve za svaku stranu, odaberite Start uporeðivanje, zatim povucite divider na mapi.",
               "src": "machine",
               "h": "2b585a5250a7"
             },
-            "firstRunHelpLink": {
-              "t": "Otvori vodiè.",
-              "src": "machine",
-              "h": "2447dd6134ea"
-            },
             "firstRunDismiss": {
               "t": "Odbaci nagoveštaj.",
               "src": "machine",
               "h": "7de6acab53c4"
-            },
-            "helpStartTitle": {
-              "t": "Poènite ovde: tri koraka.",
-              "src": "machine",
-              "h": "789320b4831d"
             },
             "helpStart1": {
               "t": "U listi slojeva, proverite slojeve koje želite ispod svake strane.",
@@ -12380,11 +12280,6 @@
               "src": "machine",
               "h": "0ffba3196927"
             },
-            "helpTroubleTitle": {
-              "t": "Ako nešto nije u redu",
-              "src": "machine",
-              "h": "6f7fec3ff1e0"
-            },
             "helpTrouble1": {
               "t": "Nedostaje sloj: možda je izvan trenutne skale mape. Zumiraj ili van, i proveri notu ispod njenog imena.",
               "src": "machine",
@@ -12405,11 +12300,6 @@
               "src": "machine",
               "h": "c97cca84242a"
             },
-            "helpTipsTitle": {
-              "t": "Dobro je znati.",
-              "src": "machine",
-              "h": "79fc372dc790"
-            },
             "helpTips1": {
               "t": "Usporedba koristi privremene kopije.",
               "src": "machine",
@@ -12424,16 +12314,6 @@
               "t": "Koristite kontrolne kutije u Layer Upoređivanju prilikom upoređivanja. Za primenu filtera ili stilskih promena napravljenih negde drugde, zaustavite se i ponovo pokrenite poređenje.",
               "src": "machine",
               "h": "a69fcc41b12e"
-            },
-            "unknownError": {
-              "t": "nepoznata greška",
-              "src": "machine",
-              "h": "af6321ca7a8b"
-            },
-            "unserializableError": {
-              "t": "Neserijalizacijska greška",
-              "src": "machine",
-              "h": "76e73551597a"
             }
           }
         },

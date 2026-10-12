@@ -91,7 +91,7 @@ System.register([], function (e) {
         helpTrouble2: "Sloj je nedostupan: njegova usluga može biti isključena, može zahtijevati prijavu ili njegov tip sloja možda neće raditi na 2D karti. Provjerite taj sloj na karti.",
         helpTrouble3: "Usporedba je prestala nakon dodavanja ili uklanjanja sloja: mapa je promijenjena. Pregledajte popis slojeva i odaberite Start usporedbu ponovno.",
         helpTroubleContact: "Još uvijek zaglavi? Kontaktirajte GIS Division i spomenuti Layer Usporedba ime i ovu aplikaciju.",
-        helpTipsTitle: "Dobro je znati.",
+        helpTipsTitle: "Dobro je znati",
         helpTips1: "Usporedba koristi privremene kopije.",
         helpTips2: "Vaši odabiri se primjenjuju samo u ovoj otvorenoj aplikaciji. Nisu spremljeni na web karti.",
         helpTips3: "Koristite kontrolne kutije u Layeru Usporedite tijekom usporedbe. Za primjenu filtera ili stilskih promjena napravljenih negdje drugdje, zaustavite i ponovno započnite usporedbu.",
